@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-13T06:14:38.713Z",
-    "modified": "2025-09-13T06:14:38.713Z",
+    "created": "2025-09-13T06:46:59.925Z",
+    "modified": "2025-09-13T06:46:59.925Z",
     "title": "Untitled Space",
     "description": "",
     "domain": null,
@@ -258,7 +258,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-13T06:14:38.713Z",
+          "redstring:lastViewed": "2025-09-13T06:46:59.925Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -341,7 +341,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-13T06:14:38.713Z",
+          "redstring:lastViewed": "2025-09-13T06:46:59.925Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
