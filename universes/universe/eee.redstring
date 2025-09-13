@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-13T05:56:37.494Z",
-    "modified": "2025-09-13T05:56:37.494Z",
+    "created": "2025-09-13T06:14:38.713Z",
+    "modified": "2025-09-13T06:14:38.713Z",
     "title": "Untitled Space",
     "description": "",
     "domain": null,
@@ -258,43 +258,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-13T05:56:37.494Z",
-          "redstring:cognitiveAssociations": []
-        },
-        "redstring:abstractionChains": {}
-      },
-      "base-connection-prototype": {
-        "@type": [
-          "redstring:Prototype",
-          "rdfs:Class",
-          "schema:Thing"
-        ],
-        "@id": "prototype:base-connection-prototype",
-        "rdfs:label": "Connection",
-        "rdfs:comment": "The base type for all connections. Connections are edges, relationships, verbs, actions, whatever you want them to be. They will always be at the bottom of the connection abstraction stack.",
-        "name": "Connection",
-        "description": "The base type for all connections. Connections are edges, relationships, verbs, actions, whatever you want them to be. They will always be at the bottom of the connection abstraction stack.",
-        "rdfs:seeAlso": [],
-        "rdfs:isDefinedBy": {
-          "@id": "https://redstring.dev"
-        },
-        "rdfs:subClassOf": null,
-        "owl:sameAs": [],
-        "owl:equivalentClass": [],
-        "redstring:spatialContext": {
-          "redstring:xCoordinate": 0,
-          "redstring:yCoordinate": 0,
-          "redstring:spatialScale": 1
-        },
-        "redstring:visualProperties": {
-          "redstring:cognitiveColor": "#000000"
-        },
-        "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
-        "redstring:citations": [],
-        "redstring:cognitiveProperties": {
-          "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-13T05:56:37.494Z",
+          "redstring:lastViewed": "2025-09-13T06:14:38.713Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -377,43 +341,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-13T05:56:37.494Z",
-          "redstring:cognitiveAssociations": []
-        },
-        "redstring:abstractionChains": {}
-      },
-      "base-connection-prototype": {
-        "@type": [
-          "redstring:Prototype",
-          "rdfs:Class",
-          "schema:Thing"
-        ],
-        "@id": "prototype:base-connection-prototype",
-        "rdfs:label": "Connection",
-        "rdfs:comment": "The base type for all connections. Connections are edges, relationships, verbs, actions, whatever you want them to be. They will always be at the bottom of the connection abstraction stack.",
-        "name": "Connection",
-        "description": "The base type for all connections. Connections are edges, relationships, verbs, actions, whatever you want them to be. They will always be at the bottom of the connection abstraction stack.",
-        "rdfs:seeAlso": [],
-        "rdfs:isDefinedBy": {
-          "@id": "https://redstring.dev"
-        },
-        "rdfs:subClassOf": null,
-        "owl:sameAs": [],
-        "owl:equivalentClass": [],
-        "redstring:spatialContext": {
-          "redstring:xCoordinate": 0,
-          "redstring:yCoordinate": 0,
-          "redstring:spatialScale": 1
-        },
-        "redstring:visualProperties": {
-          "redstring:cognitiveColor": "#000000"
-        },
-        "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
-        "redstring:citations": [],
-        "redstring:cognitiveProperties": {
-          "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-13T05:56:37.494Z",
+          "redstring:lastViewed": "2025-09-13T06:14:38.713Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
