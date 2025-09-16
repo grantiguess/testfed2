@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-16T04:57:33.243Z",
-    "modified": "2025-09-16T04:57:33.243Z",
+    "created": "2025-09-16T04:57:42.055Z",
+    "modified": "2025-09-16T04:57:42.055Z",
     "title": "glick",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T04:57:33.243Z",
+          "redstring:lastViewed": "2025-09-16T04:57:42.055Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -292,7 +292,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T04:57:33.243Z",
+          "redstring:lastViewed": "2025-09-16T04:57:42.055Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -337,7 +337,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T04:57:33.243Z",
+          "redstring:lastViewed": "2025-09-16T04:57:42.055Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -457,7 +457,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T04:57:33.243Z",
+          "redstring:lastViewed": "2025-09-16T04:57:42.055Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -492,7 +492,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T04:57:33.243Z",
+          "redstring:lastViewed": "2025-09-16T04:57:42.055Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -537,7 +537,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T04:57:33.243Z",
+          "redstring:lastViewed": "2025-09-16T04:57:42.055Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
