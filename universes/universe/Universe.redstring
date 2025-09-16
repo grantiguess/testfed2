@@ -211,9 +211,9 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-16T04:57:23.865Z",
-    "modified": "2025-09-16T04:57:23.865Z",
-    "title": "New Thing",
+    "created": "2025-09-16T04:57:33.243Z",
+    "modified": "2025-09-16T04:57:33.243Z",
+    "title": "glick",
     "description": "",
     "domain": null,
     "userURIs": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T04:57:23.865Z",
+          "redstring:lastViewed": "2025-09-16T04:57:33.243Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -292,7 +292,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T04:57:23.865Z",
+          "redstring:lastViewed": "2025-09-16T04:57:33.243Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -304,9 +304,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:18744bf3-ba2e-40b9-a29e-bc0fc0868256",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "glick",
         "rdfs:comment": "",
-        "name": "New Thing",
+        "name": "glick",
         "description": "",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
@@ -334,11 +334,10 @@
         "redstring:definitionGraphIds": [
           "4591d625-38b4-4da2-86a8-62d6ec952bfa"
         ],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T04:57:23.865Z",
+          "redstring:lastViewed": "2025-09-16T04:57:33.243Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -354,7 +353,7 @@
       "4591d625-38b4-4da2-86a8-62d6ec952bfa": {
         "@type": "redstring:SpatialGraph",
         "@id": "graph:4591d625-38b4-4da2-86a8-62d6ec952bfa",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "glick",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
           "18744bf3-ba2e-40b9-a29e-bc0fc0868256"
@@ -413,7 +412,7 @@
       "4591d625-38b4-4da2-86a8-62d6ec952bfa": {
         "@type": "redstring:SpatialGraph",
         "@id": "graph:4591d625-38b4-4da2-86a8-62d6ec952bfa",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "glick",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
           "18744bf3-ba2e-40b9-a29e-bc0fc0868256"
@@ -458,7 +457,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T04:57:23.865Z",
+          "redstring:lastViewed": "2025-09-16T04:57:33.243Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -493,7 +492,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T04:57:23.865Z",
+          "redstring:lastViewed": "2025-09-16T04:57:33.243Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -505,9 +504,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:18744bf3-ba2e-40b9-a29e-bc0fc0868256",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "glick",
         "rdfs:comment": "",
-        "name": "New Thing",
+        "name": "glick",
         "description": "",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
@@ -535,11 +534,10 @@
         "redstring:definitionGraphIds": [
           "4591d625-38b4-4da2-86a8-62d6ec952bfa"
         ],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T04:57:23.865Z",
+          "redstring:lastViewed": "2025-09-16T04:57:33.243Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
