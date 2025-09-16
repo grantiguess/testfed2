@@ -211,9 +211,9 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-16T05:05:14.118Z",
-    "modified": "2025-09-16T05:05:14.118Z",
-    "title": "Eee",
+    "created": "2025-09-16T05:06:46.258Z",
+    "modified": "2025-09-16T05:06:46.258Z",
+    "title": "Eel",
     "description": "",
     "domain": null,
     "userURIs": null,
@@ -258,7 +258,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T05:05:14.118Z",
+          "redstring:lastViewed": "2025-09-16T05:06:46.258Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -270,9 +270,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:093017cf-0700-4183-9baa-43bb386a06ff",
-        "rdfs:label": "Eee",
+        "rdfs:label": "Eel",
         "rdfs:comment": "",
-        "name": "Eee",
+        "name": "Eel",
         "description": "",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
@@ -304,7 +304,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T05:05:14.118Z",
+          "redstring:lastViewed": "2025-09-16T05:06:46.258Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -320,7 +320,7 @@
       "0a660dfd-954a-43d7-88b2-05dc4d6fb5ed": {
         "@type": "redstring:SpatialGraph",
         "@id": "graph:0a660dfd-954a-43d7-88b2-05dc4d6fb5ed",
-        "rdfs:label": "Eee",
+        "rdfs:label": "Eel",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
           "093017cf-0700-4183-9baa-43bb386a06ff"
@@ -379,7 +379,7 @@
       "0a660dfd-954a-43d7-88b2-05dc4d6fb5ed": {
         "@type": "redstring:SpatialGraph",
         "@id": "graph:0a660dfd-954a-43d7-88b2-05dc4d6fb5ed",
-        "rdfs:label": "Eee",
+        "rdfs:label": "Eel",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
           "093017cf-0700-4183-9baa-43bb386a06ff"
@@ -425,7 +425,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T05:05:14.118Z",
+          "redstring:lastViewed": "2025-09-16T05:06:46.258Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -437,9 +437,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:093017cf-0700-4183-9baa-43bb386a06ff",
-        "rdfs:label": "Eee",
+        "rdfs:label": "Eel",
         "rdfs:comment": "",
-        "name": "Eee",
+        "name": "Eel",
         "description": "",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
@@ -471,7 +471,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T05:05:14.118Z",
+          "redstring:lastViewed": "2025-09-16T05:06:46.258Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
