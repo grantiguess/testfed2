@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-16T05:07:36.441Z",
-    "modified": "2025-09-16T05:07:36.441Z",
+    "created": "2025-09-16T05:07:40.988Z",
+    "modified": "2025-09-16T05:07:40.988Z",
     "title": "Eel",
     "description": "",
     "domain": null,
@@ -258,7 +258,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T05:07:36.441Z",
+          "redstring:lastViewed": "2025-09-16T05:07:40.988Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -275,7 +275,6 @@
         "name": "Eel",
         "description": "Eels are ray-finned fish belonging to the order Anguilliformes, which consists of eight suborders, 20 families, 164 genera, and about 1000 species. Eels undergo considerable development from the early larval stage to the eventual adult stage and are usually predators.",
         "rdfs:seeAlso": [
-          "https://en.wikipedia.org/wiki/New_Thing",
           "http://dbpedia.org/resource/New_Thing",
           "http://www.wikidata.org/entity/Q16998778",
           "https://en.wikipedia.org/wiki/Eel",
@@ -287,7 +286,6 @@
         },
         "rdfs:subClassOf": null,
         "owl:sameAs": [
-          "https://en.wikipedia.org/wiki/New_Thing",
           "http://dbpedia.org/resource/New_Thing",
           "http://www.wikidata.org/entity/Q16998778",
           "https://en.wikipedia.org/wiki/Eel",
@@ -313,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T05:07:36.441Z",
+          "redstring:lastViewed": "2025-09-16T05:07:40.988Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -434,7 +432,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T05:07:36.441Z",
+          "redstring:lastViewed": "2025-09-16T05:07:40.988Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -451,7 +449,6 @@
         "name": "Eel",
         "description": "Eels are ray-finned fish belonging to the order Anguilliformes, which consists of eight suborders, 20 families, 164 genera, and about 1000 species. Eels undergo considerable development from the early larval stage to the eventual adult stage and are usually predators.",
         "rdfs:seeAlso": [
-          "https://en.wikipedia.org/wiki/New_Thing",
           "http://dbpedia.org/resource/New_Thing",
           "http://www.wikidata.org/entity/Q16998778",
           "https://en.wikipedia.org/wiki/Eel",
@@ -463,7 +460,6 @@
         },
         "rdfs:subClassOf": null,
         "owl:sameAs": [
-          "https://en.wikipedia.org/wiki/New_Thing",
           "http://dbpedia.org/resource/New_Thing",
           "http://www.wikidata.org/entity/Q16998778",
           "https://en.wikipedia.org/wiki/Eel",
@@ -489,7 +485,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T05:07:36.441Z",
+          "redstring:lastViewed": "2025-09-16T05:07:40.988Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
