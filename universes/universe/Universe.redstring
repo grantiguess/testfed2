@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-16T05:06:52.834Z",
-    "modified": "2025-09-16T05:06:52.834Z",
+    "created": "2025-09-16T05:07:36.441Z",
+    "modified": "2025-09-16T05:07:36.441Z",
     "title": "Eel",
     "description": "",
     "domain": null,
@@ -258,7 +258,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T05:06:52.834Z",
+          "redstring:lastViewed": "2025-09-16T05:07:36.441Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -277,7 +277,10 @@
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
           "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
+          "http://www.wikidata.org/entity/Q16998778",
+          "https://en.wikipedia.org/wiki/Eel",
+          "http://dbpedia.org/resource/Eel",
+          "http://www.wikidata.org/entity/Q2418817"
         ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.dev"
@@ -286,7 +289,10 @@
         "owl:sameAs": [
           "https://en.wikipedia.org/wiki/New_Thing",
           "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
+          "http://www.wikidata.org/entity/Q16998778",
+          "https://en.wikipedia.org/wiki/Eel",
+          "http://dbpedia.org/resource/Eel",
+          "http://www.wikidata.org/entity/Q2418817"
         ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
@@ -307,7 +313,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T05:06:52.834Z",
+          "redstring:lastViewed": "2025-09-16T05:07:36.441Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -428,7 +434,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T05:06:52.834Z",
+          "redstring:lastViewed": "2025-09-16T05:07:36.441Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -447,7 +453,10 @@
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
           "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
+          "http://www.wikidata.org/entity/Q16998778",
+          "https://en.wikipedia.org/wiki/Eel",
+          "http://dbpedia.org/resource/Eel",
+          "http://www.wikidata.org/entity/Q2418817"
         ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.dev"
@@ -456,7 +465,10 @@
         "owl:sameAs": [
           "https://en.wikipedia.org/wiki/New_Thing",
           "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
+          "http://www.wikidata.org/entity/Q16998778",
+          "https://en.wikipedia.org/wiki/Eel",
+          "http://dbpedia.org/resource/Eel",
+          "http://www.wikidata.org/entity/Q2418817"
         ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
@@ -477,7 +489,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T05:06:52.834Z",
+          "redstring:lastViewed": "2025-09-16T05:07:36.441Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
