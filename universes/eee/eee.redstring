@@ -211,9 +211,9 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-18T05:17:35.549Z",
-    "modified": "2025-09-18T05:17:35.549Z",
-    "title": "Untitled Space",
+    "created": "2025-09-18T05:18:46.758Z",
+    "modified": "2025-09-18T05:18:46.758Z",
+    "title": "New Thing",
     "description": "",
     "domain": null,
     "userURIs": null,
@@ -257,7 +257,52 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-18T05:17:35.549Z"
+          "redstring:lastViewed": "2025-09-18T05:18:46.758Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "20ee5ecd-20a1-4c10-80fe-c4d339dce799": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:20ee5ecd-20a1-4c10-80fe-c4d339dce799",
+        "rdfs:label": "New Thing",
+        "rdfs:comment": "",
+        "name": "New Thing",
+        "description": "",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/New_Thing",
+          "http://dbpedia.org/resource/New_Thing",
+          "http://www.wikidata.org/entity/Q16998778"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/New_Thing",
+          "http://dbpedia.org/resource/New_Thing",
+          "http://www.wikidata.org/entity/Q16998778"
+        ],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [
+          "ce60beaa-f5f1-4abe-be5f-5e527433f512"
+        ],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-09-18T05:18:46.758Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -268,7 +313,24 @@
     "@id": "space:graphs",
     "rdfs:label": "RedString Spatial Graphs",
     "rdfs:comment": "Collection of positioned instances within spatial graphs",
-    "graphs": {}
+    "graphs": {
+      "ce60beaa-f5f1-4abe-be5f-5e527433f512": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "graph:ce60beaa-f5f1-4abe-be5f-5e527433f512",
+        "rdfs:label": "New Thing",
+        "rdfs:comment": "",
+        "redstring:definingNodeIds": [
+          "20ee5ecd-20a1-4c10-80fe-c4d339dce799"
+        ],
+        "redstring:edgeIds": [],
+        "redstring:instances": {},
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": true
+        }
+      }
+    }
   },
   "relationships": {
     "@type": "redstring:RelationshipCollection",
@@ -277,7 +339,24 @@
     "rdfs:comment": "RDF statements representing connections between instances",
     "edges": {}
   },
-  "graphs": {},
+  "graphs": {
+    "ce60beaa-f5f1-4abe-be5f-5e527433f512": {
+      "@type": "redstring:SpatialGraph",
+      "@id": "graph:ce60beaa-f5f1-4abe-be5f-5e527433f512",
+      "rdfs:label": "New Thing",
+      "rdfs:comment": "",
+      "redstring:definingNodeIds": [
+        "20ee5ecd-20a1-4c10-80fe-c4d339dce799"
+      ],
+      "redstring:edgeIds": [],
+      "redstring:instances": {},
+      "redstring:groups": {},
+      "redstring:visualProperties": {
+        "redstring:expanded": true,
+        "redstring:activeInContext": true
+      }
+    }
+  },
   "nodePrototypes": {
     "base-thing-prototype": {
       "@type": [
@@ -309,7 +388,52 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-09-18T05:17:35.549Z"
+        "redstring:lastViewed": "2025-09-18T05:18:46.758Z"
+      },
+      "redstring:abstractionChains": {}
+    },
+    "20ee5ecd-20a1-4c10-80fe-c4d339dce799": {
+      "@type": [
+        "redstring:Prototype",
+        "rdfs:Class",
+        "schema:Thing"
+      ],
+      "@id": "prototype:20ee5ecd-20a1-4c10-80fe-c4d339dce799",
+      "rdfs:label": "New Thing",
+      "rdfs:comment": "",
+      "name": "New Thing",
+      "description": "",
+      "rdfs:seeAlso": [
+        "https://en.wikipedia.org/wiki/New_Thing",
+        "http://dbpedia.org/resource/New_Thing",
+        "http://www.wikidata.org/entity/Q16998778"
+      ],
+      "rdfs:isDefinedBy": {
+        "@id": "https://redstring.io"
+      },
+      "rdfs:subClassOf": null,
+      "owl:sameAs": [
+        "https://en.wikipedia.org/wiki/New_Thing",
+        "http://dbpedia.org/resource/New_Thing",
+        "http://www.wikidata.org/entity/Q16998778"
+      ],
+      "owl:equivalentClass": [],
+      "redstring:spatialContext": {
+        "redstring:xCoordinate": 0,
+        "redstring:yCoordinate": 0,
+        "redstring:spatialScale": 1
+      },
+      "redstring:visualProperties": {
+        "redstring:cognitiveColor": "#8B0000"
+      },
+      "redstring:definitionGraphIds": [
+        "ce60beaa-f5f1-4abe-be5f-5e527433f512"
+      ],
+      "redstring:typeNodeId": null,
+      "redstring:citations": [],
+      "redstring:cognitiveProperties": {
+        "redstring:bookmarked": false,
+        "redstring:lastViewed": "2025-09-18T05:18:46.758Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -329,10 +453,14 @@
   },
   "userInterface": {
     "@type": "redstring:UserInterfaceState",
-    "redstring:openGraphIds": [],
-    "redstring:activeGraphId": null,
-    "redstring:activeDefinitionNodeId": null,
-    "redstring:expandedGraphIds": [],
+    "redstring:openGraphIds": [
+      "ce60beaa-f5f1-4abe-be5f-5e527433f512"
+    ],
+    "redstring:activeGraphId": "ce60beaa-f5f1-4abe-be5f-5e527433f512",
+    "redstring:activeDefinitionNodeId": "20ee5ecd-20a1-4c10-80fe-c4d339dce799",
+    "redstring:expandedGraphIds": [
+      "ce60beaa-f5f1-4abe-be5f-5e527433f512"
+    ],
     "redstring:rightPanelTabs": [
       {
         "type": "home",
@@ -344,7 +472,24 @@
     "redstring:showConnectionNames": false
   },
   "legacy": {
-    "graphs": {},
+    "graphs": {
+      "ce60beaa-f5f1-4abe-be5f-5e527433f512": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "graph:ce60beaa-f5f1-4abe-be5f-5e527433f512",
+        "rdfs:label": "New Thing",
+        "rdfs:comment": "",
+        "redstring:definingNodeIds": [
+          "20ee5ecd-20a1-4c10-80fe-c4d339dce799"
+        ],
+        "redstring:edgeIds": [],
+        "redstring:instances": {},
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": true
+        }
+      }
+    },
     "nodePrototypes": {
       "base-thing-prototype": {
         "@type": [
@@ -376,13 +521,85 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-18T05:17:35.549Z"
+          "redstring:lastViewed": "2025-09-18T05:18:46.758Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "20ee5ecd-20a1-4c10-80fe-c4d339dce799": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:20ee5ecd-20a1-4c10-80fe-c4d339dce799",
+        "rdfs:label": "New Thing",
+        "rdfs:comment": "",
+        "name": "New Thing",
+        "description": "",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/New_Thing",
+          "http://dbpedia.org/resource/New_Thing",
+          "http://www.wikidata.org/entity/Q16998778"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/New_Thing",
+          "http://dbpedia.org/resource/New_Thing",
+          "http://www.wikidata.org/entity/Q16998778"
+        ],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [
+          "ce60beaa-f5f1-4abe-be5f-5e527433f512"
+        ],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-09-18T05:18:46.758Z"
         },
         "redstring:abstractionChains": {}
       }
     },
     "edges": {}
   },
-  "graphLayouts": {},
-  "graphSummaries": {}
+  "graphLayouts": {
+    "ce60beaa-f5f1-4abe-be5f-5e527433f512": {
+      "nodes": {},
+      "metadata": {
+        "nodeCount": 0,
+        "edgeCount": 0,
+        "boundingBox": null,
+        "centroid": null,
+        "computedAt": 1758172726758,
+        "truncated": false
+      }
+    }
+  },
+  "graphSummaries": {
+    "ce60beaa-f5f1-4abe-be5f-5e527433f512": {
+      "id": "ce60beaa-f5f1-4abe-be5f-5e527433f512",
+      "name": "New Thing",
+      "description": "",
+      "nodeCount": 0,
+      "edgeCount": 0,
+      "density": 0,
+      "quality": "empty",
+      "score": 0,
+      "nodes": [],
+      "edges": [],
+      "text": "Graph: New Thing (ce60beaa-f5f1-4abe-be5f-5e527433f512)\nNodes (0 total):\n\nEdges (0 total):",
+      "computedAt": 1758172726758
+    }
+  }
 }
