@@ -211,9 +211,9 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-20T19:21:39.237Z",
-    "modified": "2025-09-20T19:21:39.237Z",
-    "title": "New Thing",
+    "created": "2025-09-20T19:21:42.436Z",
+    "modified": "2025-09-20T19:21:42.436Z",
+    "title": "Biggums",
     "description": "",
     "domain": null,
     "userURIs": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:39.237Z"
+          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -301,7 +301,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:39.237Z"
+          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -338,7 +338,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:39.237Z"
+          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -375,7 +375,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:39.237Z"
+          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -405,12 +405,14 @@
         "redstring:visualProperties": {
           "redstring:cognitiveColor": "#8B0000"
         },
-        "redstring:definitionGraphIds": [],
+        "redstring:definitionGraphIds": [
+          "cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b"
+        ],
         "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:39.237Z"
+          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -473,6 +475,22 @@
             "redstring:prototypeId": "85a94aad-68ac-40b7-a81c-071c50a5340a"
           }
         },
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": false
+        }
+      },
+      "cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "graph:cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b",
+        "rdfs:label": "Biggums",
+        "rdfs:comment": "",
+        "redstring:definingNodeIds": [
+          "20dae693-7a6f-4361-8853-f59cfe8118a0"
+        ],
+        "redstring:edgeIds": [],
+        "redstring:instances": {},
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
@@ -560,6 +578,22 @@
       "redstring:groups": {},
       "redstring:visualProperties": {
         "redstring:expanded": true,
+        "redstring:activeInContext": false
+      }
+    },
+    "cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b": {
+      "@type": "redstring:SpatialGraph",
+      "@id": "graph:cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b",
+      "rdfs:label": "Biggums",
+      "rdfs:comment": "",
+      "redstring:definingNodeIds": [
+        "20dae693-7a6f-4361-8853-f59cfe8118a0"
+      ],
+      "redstring:edgeIds": [],
+      "redstring:instances": {},
+      "redstring:groups": {},
+      "redstring:visualProperties": {
+        "redstring:expanded": true,
         "redstring:activeInContext": true
       }
     }
@@ -595,7 +629,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-09-20T19:21:39.237Z"
+        "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -639,7 +673,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-09-20T19:21:39.237Z"
+        "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -676,7 +710,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-09-20T19:21:39.237Z"
+        "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -713,7 +747,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-09-20T19:21:39.237Z"
+        "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -743,12 +777,14 @@
       "redstring:visualProperties": {
         "redstring:cognitiveColor": "#8B0000"
       },
-      "redstring:definitionGraphIds": [],
+      "redstring:definitionGraphIds": [
+        "cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b"
+      ],
       "redstring:typeNodeId": null,
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-09-20T19:21:39.237Z"
+        "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -786,12 +822,14 @@
   "userInterface": {
     "@type": "redstring:UserInterfaceState",
     "redstring:openGraphIds": [
+      "cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b",
       "27112ebb-7593-4305-bc8b-c1241f4cb28b"
     ],
-    "redstring:activeGraphId": "27112ebb-7593-4305-bc8b-c1241f4cb28b",
-    "redstring:activeDefinitionNodeId": "fb7bd329-7bb8-419a-a45b-8946fe2016ce",
+    "redstring:activeGraphId": "cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b",
+    "redstring:activeDefinitionNodeId": "20dae693-7a6f-4361-8853-f59cfe8118a0",
     "redstring:expandedGraphIds": [
-      "27112ebb-7593-4305-bc8b-c1241f4cb28b"
+      "27112ebb-7593-4305-bc8b-c1241f4cb28b",
+      "cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b"
     ],
     "redstring:rightPanelTabs": [
       {
@@ -859,6 +897,22 @@
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
+          "redstring:activeInContext": false
+        }
+      },
+      "cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "graph:cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b",
+        "rdfs:label": "Biggums",
+        "rdfs:comment": "",
+        "redstring:definingNodeIds": [
+          "20dae693-7a6f-4361-8853-f59cfe8118a0"
+        ],
+        "redstring:edgeIds": [],
+        "redstring:instances": {},
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
           "redstring:activeInContext": true
         }
       }
@@ -894,7 +948,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:39.237Z"
+          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -938,7 +992,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:39.237Z"
+          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -975,7 +1029,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:39.237Z"
+          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1012,7 +1066,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:39.237Z"
+          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1042,12 +1096,14 @@
         "redstring:visualProperties": {
           "redstring:cognitiveColor": "#8B0000"
         },
-        "redstring:definitionGraphIds": [],
+        "redstring:definitionGraphIds": [
+          "cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b"
+        ],
         "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:39.237Z"
+          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1100,7 +1156,18 @@
           "x": -7.363179486728768,
           "y": -724.7618824647361
         },
-        "computedAt": 1758396099237,
+        "computedAt": 1758396102436,
+        "truncated": false
+      }
+    },
+    "cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b": {
+      "nodes": {},
+      "metadata": {
+        "nodeCount": 0,
+        "edgeCount": 0,
+        "boundingBox": null,
+        "centroid": null,
+        "computedAt": 1758396102436,
         "truncated": false
       }
     }
@@ -1138,7 +1205,21 @@
         }
       ],
       "text": "Graph: New Thing (27112ebb-7593-4305-bc8b-c1241f4cb28b)\nNodes (2 total):\n- ooo [1827bcf3-0806-439e-bb7d-80971312f808]\n- sdfa [0a1fe4d9-459a-42b8-9fb5-d409d221832e]\n\nEdges (1 total):\n- sdfa → ooo (base-connection-prototype)",
-      "computedAt": 1758396099237
+      "computedAt": 1758396102436
+    },
+    "cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b": {
+      "id": "cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b",
+      "name": "Biggums",
+      "description": "",
+      "nodeCount": 0,
+      "edgeCount": 0,
+      "density": 0,
+      "quality": "empty",
+      "score": 0,
+      "nodes": [],
+      "edges": [],
+      "text": "Graph: Biggums (cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b)\nNodes (0 total):\n\nEdges (0 total):",
+      "computedAt": 1758396102436
     }
   }
 }
