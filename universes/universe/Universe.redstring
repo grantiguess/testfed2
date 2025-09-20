@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-18T05:16:41.828Z",
-    "modified": "2025-09-18T05:16:41.828Z",
+    "created": "2025-09-20T19:28:25.282Z",
+    "modified": "2025-09-20T19:28:25.282Z",
     "title": "Untitled Space",
     "description": "",
     "domain": null,
@@ -254,11 +254,10 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-18T05:16:41.828Z"
+          "redstring:lastViewed": "2025-09-20T19:28:25.282Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -307,11 +306,10 @@
         "redstring:cognitiveColor": "#8B0000"
       },
       "redstring:definitionGraphIds": [],
-      "redstring:typeNodeId": null,
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-09-18T05:16:41.828Z"
+        "redstring:lastViewed": "2025-09-20T19:28:25.282Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -375,11 +373,10 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-18T05:16:41.828Z"
+          "redstring:lastViewed": "2025-09-20T19:28:25.282Z"
         },
         "redstring:abstractionChains": {}
       }
