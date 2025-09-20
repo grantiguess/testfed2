@@ -211,9 +211,9 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-20T19:21:42.436Z",
-    "modified": "2025-09-20T19:21:42.436Z",
-    "title": "Biggums",
+    "created": "2025-09-20T19:25:59.000Z",
+    "modified": "2025-09-20T19:25:59.000Z",
+    "title": "ooo",
     "description": "",
     "domain": null,
     "userURIs": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
+          "redstring:lastViewed": "2025-09-20T19:25:59.000Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -301,7 +301,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
+          "redstring:lastViewed": "2025-09-20T19:25:59.000Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -316,14 +316,18 @@
         "rdfs:comment": "",
         "name": "ooo",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/OOO"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/OOO"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -333,12 +337,14 @@
         "redstring:visualProperties": {
           "redstring:cognitiveColor": "#8B0000"
         },
-        "redstring:definitionGraphIds": [],
+        "redstring:definitionGraphIds": [
+          "cba8eaa3-6c37-4a88-b4c3-1f01b7087ff5"
+        ],
         "redstring:typeNodeId": "base-thing-prototype",
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
+          "redstring:lastViewed": "2025-09-20T19:25:59.000Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -375,7 +381,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
+          "redstring:lastViewed": "2025-09-20T19:25:59.000Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -412,7 +418,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
+          "redstring:lastViewed": "2025-09-20T19:25:59.000Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -488,6 +494,22 @@
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
           "20dae693-7a6f-4361-8853-f59cfe8118a0"
+        ],
+        "redstring:edgeIds": [],
+        "redstring:instances": {},
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": false
+        }
+      },
+      "cba8eaa3-6c37-4a88-b4c3-1f01b7087ff5": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "graph:cba8eaa3-6c37-4a88-b4c3-1f01b7087ff5",
+        "rdfs:label": "ooo",
+        "rdfs:comment": "",
+        "redstring:definingNodeIds": [
+          "d65fb97b-8123-4865-82e1-e05e39092378"
         ],
         "redstring:edgeIds": [],
         "redstring:instances": {},
@@ -594,6 +616,22 @@
       "redstring:groups": {},
       "redstring:visualProperties": {
         "redstring:expanded": true,
+        "redstring:activeInContext": false
+      }
+    },
+    "cba8eaa3-6c37-4a88-b4c3-1f01b7087ff5": {
+      "@type": "redstring:SpatialGraph",
+      "@id": "graph:cba8eaa3-6c37-4a88-b4c3-1f01b7087ff5",
+      "rdfs:label": "ooo",
+      "rdfs:comment": "",
+      "redstring:definingNodeIds": [
+        "d65fb97b-8123-4865-82e1-e05e39092378"
+      ],
+      "redstring:edgeIds": [],
+      "redstring:instances": {},
+      "redstring:groups": {},
+      "redstring:visualProperties": {
+        "redstring:expanded": true,
         "redstring:activeInContext": true
       }
     }
@@ -629,7 +667,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
+        "redstring:lastViewed": "2025-09-20T19:25:59.000Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -673,7 +711,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
+        "redstring:lastViewed": "2025-09-20T19:25:59.000Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -688,14 +726,18 @@
       "rdfs:comment": "",
       "name": "ooo",
       "description": "",
-      "rdfs:seeAlso": [],
+      "rdfs:seeAlso": [
+        "https://en.wikipedia.org/wiki/OOO"
+      ],
       "rdfs:isDefinedBy": {
         "@id": "https://redstring.io"
       },
       "rdfs:subClassOf": {
         "@id": "type:base-thing-prototype"
       },
-      "owl:sameAs": [],
+      "owl:sameAs": [
+        "https://en.wikipedia.org/wiki/OOO"
+      ],
       "owl:equivalentClass": [],
       "redstring:spatialContext": {
         "redstring:xCoordinate": 0,
@@ -705,12 +747,14 @@
       "redstring:visualProperties": {
         "redstring:cognitiveColor": "#8B0000"
       },
-      "redstring:definitionGraphIds": [],
+      "redstring:definitionGraphIds": [
+        "cba8eaa3-6c37-4a88-b4c3-1f01b7087ff5"
+      ],
       "redstring:typeNodeId": "base-thing-prototype",
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
+        "redstring:lastViewed": "2025-09-20T19:25:59.000Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -747,7 +791,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
+        "redstring:lastViewed": "2025-09-20T19:25:59.000Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -784,7 +828,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
+        "redstring:lastViewed": "2025-09-20T19:25:59.000Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -822,14 +866,16 @@
   "userInterface": {
     "@type": "redstring:UserInterfaceState",
     "redstring:openGraphIds": [
+      "cba8eaa3-6c37-4a88-b4c3-1f01b7087ff5",
       "cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b",
       "27112ebb-7593-4305-bc8b-c1241f4cb28b"
     ],
-    "redstring:activeGraphId": "cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b",
-    "redstring:activeDefinitionNodeId": "20dae693-7a6f-4361-8853-f59cfe8118a0",
+    "redstring:activeGraphId": "cba8eaa3-6c37-4a88-b4c3-1f01b7087ff5",
+    "redstring:activeDefinitionNodeId": "d65fb97b-8123-4865-82e1-e05e39092378",
     "redstring:expandedGraphIds": [
       "27112ebb-7593-4305-bc8b-c1241f4cb28b",
-      "cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b"
+      "cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b",
+      "cba8eaa3-6c37-4a88-b4c3-1f01b7087ff5"
     ],
     "redstring:rightPanelTabs": [
       {
@@ -913,6 +959,22 @@
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
+          "redstring:activeInContext": false
+        }
+      },
+      "cba8eaa3-6c37-4a88-b4c3-1f01b7087ff5": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "graph:cba8eaa3-6c37-4a88-b4c3-1f01b7087ff5",
+        "rdfs:label": "ooo",
+        "rdfs:comment": "",
+        "redstring:definingNodeIds": [
+          "d65fb97b-8123-4865-82e1-e05e39092378"
+        ],
+        "redstring:edgeIds": [],
+        "redstring:instances": {},
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
           "redstring:activeInContext": true
         }
       }
@@ -948,7 +1010,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
+          "redstring:lastViewed": "2025-09-20T19:25:59.000Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -992,7 +1054,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
+          "redstring:lastViewed": "2025-09-20T19:25:59.000Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1007,14 +1069,18 @@
         "rdfs:comment": "",
         "name": "ooo",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/OOO"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/OOO"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -1024,12 +1090,14 @@
         "redstring:visualProperties": {
           "redstring:cognitiveColor": "#8B0000"
         },
-        "redstring:definitionGraphIds": [],
+        "redstring:definitionGraphIds": [
+          "cba8eaa3-6c37-4a88-b4c3-1f01b7087ff5"
+        ],
         "redstring:typeNodeId": "base-thing-prototype",
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
+          "redstring:lastViewed": "2025-09-20T19:25:59.000Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1066,7 +1134,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
+          "redstring:lastViewed": "2025-09-20T19:25:59.000Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1103,7 +1171,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-20T19:21:42.436Z"
+          "redstring:lastViewed": "2025-09-20T19:25:59.000Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1156,7 +1224,7 @@
           "x": -7.363179486728768,
           "y": -724.7618824647361
         },
-        "computedAt": 1758396102436,
+        "computedAt": 1758396359000,
         "truncated": false
       }
     },
@@ -1167,7 +1235,18 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1758396102436,
+        "computedAt": 1758396359000,
+        "truncated": false
+      }
+    },
+    "cba8eaa3-6c37-4a88-b4c3-1f01b7087ff5": {
+      "nodes": {},
+      "metadata": {
+        "nodeCount": 0,
+        "edgeCount": 0,
+        "boundingBox": null,
+        "centroid": null,
+        "computedAt": 1758396359000,
         "truncated": false
       }
     }
@@ -1205,7 +1284,7 @@
         }
       ],
       "text": "Graph: New Thing (27112ebb-7593-4305-bc8b-c1241f4cb28b)\nNodes (2 total):\n- ooo [1827bcf3-0806-439e-bb7d-80971312f808]\n- sdfa [0a1fe4d9-459a-42b8-9fb5-d409d221832e]\n\nEdges (1 total):\n- sdfa → ooo (base-connection-prototype)",
-      "computedAt": 1758396102436
+      "computedAt": 1758396359000
     },
     "cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b": {
       "id": "cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b",
@@ -1219,7 +1298,21 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: Biggums (cd1f7d9f-29b9-4ebb-9b51-04ec1f2fa21b)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1758396102436
+      "computedAt": 1758396359000
+    },
+    "cba8eaa3-6c37-4a88-b4c3-1f01b7087ff5": {
+      "id": "cba8eaa3-6c37-4a88-b4c3-1f01b7087ff5",
+      "name": "ooo",
+      "description": "",
+      "nodeCount": 0,
+      "edgeCount": 0,
+      "density": 0,
+      "quality": "empty",
+      "score": 0,
+      "nodes": [],
+      "edges": [],
+      "text": "Graph: ooo (cba8eaa3-6c37-4a88-b4c3-1f01b7087ff5)\nNodes (0 total):\n\nEdges (0 total):",
+      "computedAt": 1758396359000
     }
   }
 }
