@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-05T17:07:05.408Z",
-    "modified": "2025-10-05T17:07:05.408Z",
+    "created": "2025-10-05T17:07:08.409Z",
+    "modified": "2025-10-05T17:07:08.409Z",
     "title": "jdsfaj",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:07:05.408Z"
+          "redstring:lastViewed": "2025-10-05T17:07:08.409Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -302,7 +302,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:07:05.408Z"
+          "redstring:lastViewed": "2025-10-05T17:07:08.409Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -388,7 +388,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T17:07:05.408Z"
+        "redstring:lastViewed": "2025-10-05T17:07:08.409Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -433,7 +433,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T17:07:05.408Z"
+        "redstring:lastViewed": "2025-10-05T17:07:08.409Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -521,7 +521,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:07:05.408Z"
+          "redstring:lastViewed": "2025-10-05T17:07:08.409Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -566,7 +566,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:07:05.408Z"
+          "redstring:lastViewed": "2025-10-05T17:07:08.409Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -581,7 +581,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1759684025408,
+        "computedAt": 1759684028409,
         "truncated": false
       }
     }
@@ -599,7 +599,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: jdsfaj (3d8a9ba6-24fd-48cd-85b4-8af51d2bc814)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1759684025408
+      "computedAt": 1759684028409
     }
   }
 }
