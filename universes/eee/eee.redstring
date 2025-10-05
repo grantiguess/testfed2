@@ -211,9 +211,9 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-05T17:07:08.409Z",
-    "modified": "2025-10-05T17:07:08.409Z",
-    "title": "jdsfaj",
+    "created": "2025-10-05T17:07:39.906Z",
+    "modified": "2025-10-05T17:07:39.906Z",
+    "title": "New Thing",
     "description": "",
     "domain": null,
     "userURIs": null,
@@ -257,20 +257,20 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:07:08.409Z"
+          "redstring:lastViewed": "2025-10-05T17:07:39.906Z"
         },
         "redstring:abstractionChains": {}
       },
-      "61ba562d-cb21-48ab-b5e2-4438804ff50d": {
+      "7996ceee-c57b-416c-ac24-c92bcb80de25": {
         "@type": [
           "redstring:Prototype",
           "rdfs:Class",
           "schema:Thing"
         ],
-        "@id": "prototype:61ba562d-cb21-48ab-b5e2-4438804ff50d",
-        "rdfs:label": "jdsfaj",
+        "@id": "prototype:7996ceee-c57b-416c-ac24-c92bcb80de25",
+        "rdfs:label": "New Thing",
         "rdfs:comment": "",
-        "name": "jdsfaj",
+        "name": "New Thing",
         "description": "",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
@@ -296,13 +296,13 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [
-          "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814"
+          "ef61e050-238b-4306-95c1-8bf95d2c6254"
         ],
         "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:07:08.409Z"
+          "redstring:lastViewed": "2025-10-05T17:07:39.906Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -314,13 +314,13 @@
     "rdfs:label": "RedString Spatial Graphs",
     "rdfs:comment": "Collection of positioned instances within spatial graphs",
     "graphs": {
-      "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814": {
+      "ef61e050-238b-4306-95c1-8bf95d2c6254": {
         "@type": "redstring:SpatialGraph",
-        "@id": "graph:3d8a9ba6-24fd-48cd-85b4-8af51d2bc814",
-        "rdfs:label": "jdsfaj",
+        "@id": "graph:ef61e050-238b-4306-95c1-8bf95d2c6254",
+        "rdfs:label": "New Thing",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
-          "61ba562d-cb21-48ab-b5e2-4438804ff50d"
+          "7996ceee-c57b-416c-ac24-c92bcb80de25"
         ],
         "redstring:edgeIds": [],
         "redstring:instances": {},
@@ -340,13 +340,13 @@
     "edges": {}
   },
   "graphs": {
-    "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814": {
+    "ef61e050-238b-4306-95c1-8bf95d2c6254": {
       "@type": "redstring:SpatialGraph",
-      "@id": "graph:3d8a9ba6-24fd-48cd-85b4-8af51d2bc814",
-      "rdfs:label": "jdsfaj",
+      "@id": "graph:ef61e050-238b-4306-95c1-8bf95d2c6254",
+      "rdfs:label": "New Thing",
       "rdfs:comment": "",
       "redstring:definingNodeIds": [
-        "61ba562d-cb21-48ab-b5e2-4438804ff50d"
+        "7996ceee-c57b-416c-ac24-c92bcb80de25"
       ],
       "redstring:edgeIds": [],
       "redstring:instances": {},
@@ -388,20 +388,20 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T17:07:08.409Z"
+        "redstring:lastViewed": "2025-10-05T17:07:39.906Z"
       },
       "redstring:abstractionChains": {}
     },
-    "61ba562d-cb21-48ab-b5e2-4438804ff50d": {
+    "7996ceee-c57b-416c-ac24-c92bcb80de25": {
       "@type": [
         "redstring:Prototype",
         "rdfs:Class",
         "schema:Thing"
       ],
-      "@id": "prototype:61ba562d-cb21-48ab-b5e2-4438804ff50d",
-      "rdfs:label": "jdsfaj",
+      "@id": "prototype:7996ceee-c57b-416c-ac24-c92bcb80de25",
+      "rdfs:label": "New Thing",
       "rdfs:comment": "",
-      "name": "jdsfaj",
+      "name": "New Thing",
       "description": "",
       "rdfs:seeAlso": [
         "https://en.wikipedia.org/wiki/New_Thing",
@@ -427,13 +427,13 @@
         "redstring:cognitiveColor": "#8B0000"
       },
       "redstring:definitionGraphIds": [
-        "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814"
+        "ef61e050-238b-4306-95c1-8bf95d2c6254"
       ],
       "redstring:typeNodeId": null,
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T17:07:08.409Z"
+        "redstring:lastViewed": "2025-10-05T17:07:39.906Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -454,12 +454,12 @@
   "userInterface": {
     "@type": "redstring:UserInterfaceState",
     "redstring:openGraphIds": [
-      "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814"
+      "ef61e050-238b-4306-95c1-8bf95d2c6254"
     ],
-    "redstring:activeGraphId": "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814",
-    "redstring:activeDefinitionNodeId": "61ba562d-cb21-48ab-b5e2-4438804ff50d",
+    "redstring:activeGraphId": "ef61e050-238b-4306-95c1-8bf95d2c6254",
+    "redstring:activeDefinitionNodeId": "7996ceee-c57b-416c-ac24-c92bcb80de25",
     "redstring:expandedGraphIds": [
-      "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814"
+      "ef61e050-238b-4306-95c1-8bf95d2c6254"
     ],
     "redstring:rightPanelTabs": [
       {
@@ -473,13 +473,13 @@
   },
   "legacy": {
     "graphs": {
-      "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814": {
+      "ef61e050-238b-4306-95c1-8bf95d2c6254": {
         "@type": "redstring:SpatialGraph",
-        "@id": "graph:3d8a9ba6-24fd-48cd-85b4-8af51d2bc814",
-        "rdfs:label": "jdsfaj",
+        "@id": "graph:ef61e050-238b-4306-95c1-8bf95d2c6254",
+        "rdfs:label": "New Thing",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
-          "61ba562d-cb21-48ab-b5e2-4438804ff50d"
+          "7996ceee-c57b-416c-ac24-c92bcb80de25"
         ],
         "redstring:edgeIds": [],
         "redstring:instances": {},
@@ -521,20 +521,20 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:07:08.409Z"
+          "redstring:lastViewed": "2025-10-05T17:07:39.906Z"
         },
         "redstring:abstractionChains": {}
       },
-      "61ba562d-cb21-48ab-b5e2-4438804ff50d": {
+      "7996ceee-c57b-416c-ac24-c92bcb80de25": {
         "@type": [
           "redstring:Prototype",
           "rdfs:Class",
           "schema:Thing"
         ],
-        "@id": "prototype:61ba562d-cb21-48ab-b5e2-4438804ff50d",
-        "rdfs:label": "jdsfaj",
+        "@id": "prototype:7996ceee-c57b-416c-ac24-c92bcb80de25",
+        "rdfs:label": "New Thing",
         "rdfs:comment": "",
-        "name": "jdsfaj",
+        "name": "New Thing",
         "description": "",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
@@ -560,13 +560,13 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [
-          "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814"
+          "ef61e050-238b-4306-95c1-8bf95d2c6254"
         ],
         "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:07:08.409Z"
+          "redstring:lastViewed": "2025-10-05T17:07:39.906Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -574,22 +574,22 @@
     "edges": {}
   },
   "graphLayouts": {
-    "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814": {
+    "ef61e050-238b-4306-95c1-8bf95d2c6254": {
       "nodes": {},
       "metadata": {
         "nodeCount": 0,
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1759684028409,
+        "computedAt": 1759684059906,
         "truncated": false
       }
     }
   },
   "graphSummaries": {
-    "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814": {
-      "id": "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814",
-      "name": "jdsfaj",
+    "ef61e050-238b-4306-95c1-8bf95d2c6254": {
+      "id": "ef61e050-238b-4306-95c1-8bf95d2c6254",
+      "name": "New Thing",
       "description": "",
       "nodeCount": 0,
       "edgeCount": 0,
@@ -598,8 +598,8 @@
       "score": 0,
       "nodes": [],
       "edges": [],
-      "text": "Graph: jdsfaj (3d8a9ba6-24fd-48cd-85b4-8af51d2bc814)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1759684028409
+      "text": "Graph: New Thing (ef61e050-238b-4306-95c1-8bf95d2c6254)\nNodes (0 total):\n\nEdges (0 total):",
+      "computedAt": 1759684059906
     }
   }
 }
