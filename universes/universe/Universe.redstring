@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-05T22:08:53.601Z",
-    "modified": "2025-10-05T22:08:53.601Z",
+    "created": "2025-10-05T22:09:26.599Z",
+    "modified": "2025-10-05T22:09:26.599Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T22:08:53.601Z"
+          "redstring:lastViewed": "2025-10-05T22:09:26.598Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -301,7 +301,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T22:08:53.601Z"
+          "redstring:lastViewed": "2025-10-05T22:09:26.598Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -346,7 +346,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T22:08:53.601Z"
+          "redstring:lastViewed": "2025-10-05T22:09:26.598Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -383,7 +383,52 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T22:08:53.601Z"
+          "redstring:lastViewed": "2025-10-05T22:09:26.598Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "1b25b67f-75b9-46ac-977b-cc2f806ad4c8": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:1b25b67f-75b9-46ac-977b-cc2f806ad4c8",
+        "rdfs:label": "Griddy",
+        "rdfs:comment": "",
+        "name": "Griddy",
+        "description": "",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Griddy",
+          "http://dbpedia.org/resource/Griddy",
+          "http://www.wikidata.org/entity/Q111941188"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Griddy",
+          "http://dbpedia.org/resource/Griddy",
+          "http://www.wikidata.org/entity/Q111941188"
+        ],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-10-05T22:09:26.598Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -407,10 +452,10 @@
           "16c7c9bb-680e-44f7-a436-013b469d36f5"
         ],
         "redstring:panOffset": {
-          "x": -23955.88778076585,
-          "y": -23921.028529859996
+          "x": -41826.230154977806,
+          "y": -41690.61980155757
         },
-        "redstring:zoomLevel": 0.48889123623043945,
+        "redstring:zoomLevel": 0.8441207186500468,
         "redstring:instances": {
           "97767904-c968-4c5f-b1f2-fb63aed913a6": {
             "@type": "redstring:Instance",
@@ -449,6 +494,25 @@
             },
             "redstring:visualProperties": {},
             "redstring:prototypeId": "93110fd6-2561-4b42-a620-d8a7258bd06a"
+          },
+          "321c6e01-c2ae-4ab6-bd2d-e99477eed821": {
+            "@type": "redstring:Instance",
+            "@id": "instance:321c6e01-c2ae-4ab6-bd2d-e99477eed821",
+            "rdf:type": {
+              "@id": "prototype:1b25b67f-75b9-46ac-977b-cc2f806ad4c8"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:28287e42-ffe9-4900-9225-d3450456353d"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 622.9975843001812,
+              "redstring:yCoordinate": -418.92369072850124,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "1b25b67f-75b9-46ac-977b-cc2f806ad4c8"
           }
         },
         "redstring:groups": {},
@@ -518,10 +582,10 @@
         "16c7c9bb-680e-44f7-a436-013b469d36f5"
       ],
       "redstring:panOffset": {
-        "x": -23955.88778076585,
-        "y": -23921.028529859996
+        "x": -41826.230154977806,
+        "y": -41690.61980155757
       },
-      "redstring:zoomLevel": 0.48889123623043945,
+      "redstring:zoomLevel": 0.8441207186500468,
       "redstring:instances": {
         "97767904-c968-4c5f-b1f2-fb63aed913a6": {
           "@type": "redstring:Instance",
@@ -560,6 +624,25 @@
           },
           "redstring:visualProperties": {},
           "redstring:prototypeId": "93110fd6-2561-4b42-a620-d8a7258bd06a"
+        },
+        "321c6e01-c2ae-4ab6-bd2d-e99477eed821": {
+          "@type": "redstring:Instance",
+          "@id": "instance:321c6e01-c2ae-4ab6-bd2d-e99477eed821",
+          "rdf:type": {
+            "@id": "prototype:1b25b67f-75b9-46ac-977b-cc2f806ad4c8"
+          },
+          "rdfs:label": null,
+          "rdfs:comment": null,
+          "redstring:containedIn": {
+            "@id": "graph:28287e42-ffe9-4900-9225-d3450456353d"
+          },
+          "redstring:spatialContext": {
+            "redstring:xCoordinate": 622.9975843001812,
+            "redstring:yCoordinate": -418.92369072850124,
+            "redstring:spatialScale": 1
+          },
+          "redstring:visualProperties": {},
+          "redstring:prototypeId": "1b25b67f-75b9-46ac-977b-cc2f806ad4c8"
         }
       },
       "redstring:groups": {},
@@ -600,7 +683,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T22:08:53.601Z"
+        "redstring:lastViewed": "2025-10-05T22:09:26.598Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -644,7 +727,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T22:08:53.601Z"
+        "redstring:lastViewed": "2025-10-05T22:09:26.598Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -689,7 +772,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T22:08:53.601Z"
+        "redstring:lastViewed": "2025-10-05T22:09:26.598Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -726,7 +809,52 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T22:08:53.601Z"
+        "redstring:lastViewed": "2025-10-05T22:09:26.598Z"
+      },
+      "redstring:abstractionChains": {}
+    },
+    "1b25b67f-75b9-46ac-977b-cc2f806ad4c8": {
+      "@type": [
+        "redstring:Prototype",
+        "rdfs:Class",
+        "schema:Thing"
+      ],
+      "@id": "prototype:1b25b67f-75b9-46ac-977b-cc2f806ad4c8",
+      "rdfs:label": "Griddy",
+      "rdfs:comment": "",
+      "name": "Griddy",
+      "description": "",
+      "rdfs:seeAlso": [
+        "https://en.wikipedia.org/wiki/Griddy",
+        "http://dbpedia.org/resource/Griddy",
+        "http://www.wikidata.org/entity/Q111941188"
+      ],
+      "rdfs:isDefinedBy": {
+        "@id": "https://redstring.io"
+      },
+      "rdfs:subClassOf": {
+        "@id": "type:base-thing-prototype"
+      },
+      "owl:sameAs": [
+        "https://en.wikipedia.org/wiki/Griddy",
+        "http://dbpedia.org/resource/Griddy",
+        "http://www.wikidata.org/entity/Q111941188"
+      ],
+      "owl:equivalentClass": [],
+      "redstring:spatialContext": {
+        "redstring:xCoordinate": 0,
+        "redstring:yCoordinate": 0,
+        "redstring:spatialScale": 1
+      },
+      "redstring:visualProperties": {
+        "redstring:cognitiveColor": "#8B0000"
+      },
+      "redstring:definitionGraphIds": [],
+      "redstring:typeNodeId": "base-thing-prototype",
+      "redstring:citations": [],
+      "redstring:cognitiveProperties": {
+        "redstring:bookmarked": false,
+        "redstring:lastViewed": "2025-10-05T22:09:26.598Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -802,6 +930,12 @@
         "type": "node",
         "nodeId": "e7d8885b-f6ba-469d-884a-ff54efa8b6f6",
         "title": ",",
+        "isActive": false
+      },
+      {
+        "type": "node",
+        "nodeId": "1b25b67f-75b9-46ac-977b-cc2f806ad4c8",
+        "title": "Griddy",
         "isActive": true
       }
     ],
@@ -823,10 +957,10 @@
           "16c7c9bb-680e-44f7-a436-013b469d36f5"
         ],
         "redstring:panOffset": {
-          "x": -23955.88778076585,
-          "y": -23921.028529859996
+          "x": -41826.230154977806,
+          "y": -41690.61980155757
         },
-        "redstring:zoomLevel": 0.48889123623043945,
+        "redstring:zoomLevel": 0.8441207186500468,
         "redstring:instances": {
           "97767904-c968-4c5f-b1f2-fb63aed913a6": {
             "@type": "redstring:Instance",
@@ -865,6 +999,25 @@
             },
             "redstring:visualProperties": {},
             "redstring:prototypeId": "93110fd6-2561-4b42-a620-d8a7258bd06a"
+          },
+          "321c6e01-c2ae-4ab6-bd2d-e99477eed821": {
+            "@type": "redstring:Instance",
+            "@id": "instance:321c6e01-c2ae-4ab6-bd2d-e99477eed821",
+            "rdf:type": {
+              "@id": "prototype:1b25b67f-75b9-46ac-977b-cc2f806ad4c8"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:28287e42-ffe9-4900-9225-d3450456353d"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 622.9975843001812,
+              "redstring:yCoordinate": -418.92369072850124,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "1b25b67f-75b9-46ac-977b-cc2f806ad4c8"
           }
         },
         "redstring:groups": {},
@@ -905,7 +1058,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T22:08:53.601Z"
+          "redstring:lastViewed": "2025-10-05T22:09:26.598Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -949,7 +1102,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T22:08:53.601Z"
+          "redstring:lastViewed": "2025-10-05T22:09:26.598Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -994,7 +1147,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T22:08:53.601Z"
+          "redstring:lastViewed": "2025-10-05T22:09:26.598Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1031,7 +1184,52 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T22:08:53.601Z"
+          "redstring:lastViewed": "2025-10-05T22:09:26.598Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "1b25b67f-75b9-46ac-977b-cc2f806ad4c8": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:1b25b67f-75b9-46ac-977b-cc2f806ad4c8",
+        "rdfs:label": "Griddy",
+        "rdfs:comment": "",
+        "name": "Griddy",
+        "description": "",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Griddy",
+          "http://dbpedia.org/resource/Griddy",
+          "http://www.wikidata.org/entity/Q111941188"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Griddy",
+          "http://dbpedia.org/resource/Griddy",
+          "http://www.wikidata.org/entity/Q111941188"
+        ],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-10-05T22:09:26.598Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1091,22 +1289,28 @@
           "y": 151.18355958694883,
           "scale": 1,
           "prototypeId": "93110fd6-2561-4b42-a620-d8a7258bd06a"
+        },
+        "321c6e01-c2ae-4ab6-bd2d-e99477eed821": {
+          "x": 622.9975843001812,
+          "y": -418.92369072850124,
+          "scale": 1,
+          "prototypeId": "1b25b67f-75b9-46ac-977b-cc2f806ad4c8"
         }
       },
       "metadata": {
-        "nodeCount": 2,
+        "nodeCount": 3,
         "edgeCount": 1,
         "boundingBox": {
           "minX": 185.92250164601865,
-          "minY": -221.29921433657,
+          "minY": -418.92369072850124,
           "maxX": 1317.6110742689198,
           "maxY": 151.18355958694883
         },
         "centroid": {
-          "x": 751.7667879574692,
-          "y": -35.057827374810586
+          "x": 708.8437200717066,
+          "y": -163.01311515937414
         },
-        "computedAt": 1759702133601,
+        "computedAt": 1759702166598,
         "truncated": false
       }
     }
@@ -1116,11 +1320,11 @@
       "id": "28287e42-ffe9-4900-9225-d3450456353d",
       "name": "New Thing",
       "description": "",
-      "nodeCount": 2,
+      "nodeCount": 3,
       "edgeCount": 1,
-      "density": 0.5,
-      "quality": "dense",
-      "score": 44,
+      "density": 0.167,
+      "quality": "sparse",
+      "score": 19,
       "nodes": [
         {
           "id": "97767904-c968-4c5f-b1f2-fb63aed913a6",
@@ -1131,6 +1335,11 @@
           "id": "57f1b3e7-1804-42bf-913a-cb449a597073",
           "prototypeId": "93110fd6-2561-4b42-a620-d8a7258bd06a",
           "name": "l"
+        },
+        {
+          "id": "321c6e01-c2ae-4ab6-bd2d-e99477eed821",
+          "prototypeId": "1b25b67f-75b9-46ac-977b-cc2f806ad4c8",
+          "name": "Griddy"
         }
       ],
       "edges": [
@@ -1143,8 +1352,8 @@
           "targetLabel": ","
         }
       ],
-      "text": "Graph: New Thing (28287e42-ffe9-4900-9225-d3450456353d)\nNodes (2 total):\n- , [97767904-c968-4c5f-b1f2-fb63aed913a6]\n- l [57f1b3e7-1804-42bf-913a-cb449a597073]\n\nEdges (1 total):\n- l → , (base-connection-prototype)",
-      "computedAt": 1759702133601
+      "text": "Graph: New Thing (28287e42-ffe9-4900-9225-d3450456353d)\nNodes (3 total):\n- , [97767904-c968-4c5f-b1f2-fb63aed913a6]\n- l [57f1b3e7-1804-42bf-913a-cb449a597073]\n- Griddy [321c6e01-c2ae-4ab6-bd2d-e99477eed821]\n\nEdges (1 total):\n- l → , (base-connection-prototype)",
+      "computedAt": 1759702166598
     }
   }
 }
