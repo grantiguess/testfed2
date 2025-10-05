@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-05T06:32:01.606Z",
-    "modified": "2025-10-05T06:32:01.606Z",
+    "created": "2025-10-05T06:32:11.301Z",
+    "modified": "2025-10-05T06:32:11.301Z",
     "title": "oop",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T06:32:01.605Z"
+          "redstring:lastViewed": "2025-10-05T06:32:11.300Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -302,7 +302,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T06:32:01.605Z"
+          "redstring:lastViewed": "2025-10-05T06:32:11.300Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -317,14 +317,20 @@
         "rdfs:comment": "",
         "name": "kl",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/KL",
+          "http://www.wikidata.org/entity/Q29753905"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/KL",
+          "http://www.wikidata.org/entity/Q29753905"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -339,7 +345,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T06:32:01.605Z"
+          "redstring:lastViewed": "2025-10-05T06:32:11.300Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -373,8 +379,8 @@
               "@id": "graph:d87b8270-0cca-429c-a5da-5854db216153"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": 125,
-              "redstring:yCoordinate": -450,
+              "redstring:xCoordinate": -75,
+              "redstring:yCoordinate": -50,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
@@ -419,8 +425,8 @@
             "@id": "graph:d87b8270-0cca-429c-a5da-5854db216153"
           },
           "redstring:spatialContext": {
-            "redstring:xCoordinate": 125,
-            "redstring:yCoordinate": -450,
+            "redstring:xCoordinate": -75,
+            "redstring:yCoordinate": -50,
             "redstring:spatialScale": 1
           },
           "redstring:visualProperties": {},
@@ -465,7 +471,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T06:32:01.605Z"
+        "redstring:lastViewed": "2025-10-05T06:32:11.300Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -510,7 +516,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T06:32:01.605Z"
+        "redstring:lastViewed": "2025-10-05T06:32:11.300Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -525,14 +531,20 @@
       "rdfs:comment": "",
       "name": "kl",
       "description": "",
-      "rdfs:seeAlso": [],
+      "rdfs:seeAlso": [
+        "https://en.wikipedia.org/wiki/KL",
+        "http://www.wikidata.org/entity/Q29753905"
+      ],
       "rdfs:isDefinedBy": {
         "@id": "https://redstring.io"
       },
       "rdfs:subClassOf": {
         "@id": "type:base-thing-prototype"
       },
-      "owl:sameAs": [],
+      "owl:sameAs": [
+        "https://en.wikipedia.org/wiki/KL",
+        "http://www.wikidata.org/entity/Q29753905"
+      ],
       "owl:equivalentClass": [],
       "redstring:spatialContext": {
         "redstring:xCoordinate": 0,
@@ -547,7 +559,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T06:32:01.605Z"
+        "redstring:lastViewed": "2025-10-05T06:32:11.300Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -578,6 +590,12 @@
     "redstring:rightPanelTabs": [
       {
         "type": "home",
+        "isActive": false
+      },
+      {
+        "type": "node",
+        "nodeId": "7c176145-d99b-4f7b-a744-42d62e9ca27c",
+        "title": "kl",
         "isActive": true
       }
     ],
@@ -609,8 +627,8 @@
               "@id": "graph:d87b8270-0cca-429c-a5da-5854db216153"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": 125,
-              "redstring:yCoordinate": -450,
+              "redstring:xCoordinate": -75,
+              "redstring:yCoordinate": -50,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
@@ -655,7 +673,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T06:32:01.605Z"
+          "redstring:lastViewed": "2025-10-05T06:32:11.300Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -700,7 +718,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T06:32:01.605Z"
+          "redstring:lastViewed": "2025-10-05T06:32:11.300Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -715,14 +733,20 @@
         "rdfs:comment": "",
         "name": "kl",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/KL",
+          "http://www.wikidata.org/entity/Q29753905"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/KL",
+          "http://www.wikidata.org/entity/Q29753905"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -737,7 +761,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T06:32:01.605Z"
+          "redstring:lastViewed": "2025-10-05T06:32:11.300Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -748,8 +772,8 @@
     "d87b8270-0cca-429c-a5da-5854db216153": {
       "nodes": {
         "62f7d808-4208-4b77-a3ea-f361b0e0927a": {
-          "x": 125,
-          "y": -450,
+          "x": -75,
+          "y": -50,
           "scale": 1,
           "prototypeId": "7c176145-d99b-4f7b-a744-42d62e9ca27c"
         }
@@ -758,16 +782,16 @@
         "nodeCount": 1,
         "edgeCount": 0,
         "boundingBox": {
-          "minX": 125,
-          "minY": -450,
-          "maxX": 125,
-          "maxY": -450
+          "minX": -75,
+          "minY": -50,
+          "maxX": -75,
+          "maxY": -50
         },
         "centroid": {
-          "x": 125,
-          "y": -450
+          "x": -75,
+          "y": -50
         },
-        "computedAt": 1759645921605,
+        "computedAt": 1759645931300,
         "truncated": false
       }
     }
@@ -791,7 +815,7 @@
       ],
       "edges": [],
       "text": "Graph: oop (d87b8270-0cca-429c-a5da-5854db216153)\nNodes (1 total):\n- kl [62f7d808-4208-4b77-a3ea-f361b0e0927a]\n\nEdges (0 total):",
-      "computedAt": 1759645921606
+      "computedAt": 1759645931301
     }
   }
 }
