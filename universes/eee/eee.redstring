@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-05T21:02:36.650Z",
-    "modified": "2025-10-05T21:02:36.650Z",
+    "created": "2025-10-05T21:03:01.327Z",
+    "modified": "2025-10-05T21:03:01.327Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:02:36.650Z"
+          "redstring:lastViewed": "2025-10-05T21:03:01.327Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -302,7 +302,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:02:36.650Z"
+          "redstring:lastViewed": "2025-10-05T21:03:01.327Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -324,10 +324,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -50461.757678279035,
-          "y": -50341.05816285903
+          "x": -53212.773080258994,
+          "y": -53006.89450986592
         },
-        "redstring:zoomLevel": 1.018335157303542,
+        "redstring:zoomLevel": 1.0740286899235933,
         "redstring:instances": {
           "17f7c81f-f82e-4797-ac60-fa2131701f6d": {
             "@type": "redstring:Instance",
@@ -375,10 +375,10 @@
       ],
       "redstring:edgeIds": [],
       "redstring:panOffset": {
-        "x": -50461.757678279035,
-        "y": -50341.05816285903
+        "x": -53212.773080258994,
+        "y": -53006.89450986592
       },
-      "redstring:zoomLevel": 1.018335157303542,
+      "redstring:zoomLevel": 1.0740286899235933,
       "redstring:instances": {
         "17f7c81f-f82e-4797-ac60-fa2131701f6d": {
           "@type": "redstring:Instance",
@@ -438,7 +438,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:02:36.650Z"
+        "redstring:lastViewed": "2025-10-05T21:03:01.327Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -483,7 +483,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:02:36.650Z"
+        "redstring:lastViewed": "2025-10-05T21:03:01.327Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -533,10 +533,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -50461.757678279035,
-          "y": -50341.05816285903
+          "x": -53212.773080258994,
+          "y": -53006.89450986592
         },
-        "redstring:zoomLevel": 1.018335157303542,
+        "redstring:zoomLevel": 1.0740286899235933,
         "redstring:instances": {
           "17f7c81f-f82e-4797-ac60-fa2131701f6d": {
             "@type": "redstring:Instance",
@@ -596,7 +596,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:02:36.650Z"
+          "redstring:lastViewed": "2025-10-05T21:03:01.327Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -641,7 +641,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:02:36.650Z"
+          "redstring:lastViewed": "2025-10-05T21:03:01.327Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -671,7 +671,7 @@
           "x": 186.01892886195128,
           "y": -323.27028707710997
         },
-        "computedAt": 1759698156650,
+        "computedAt": 1759698181327,
         "truncated": false
       }
     }
@@ -695,7 +695,7 @@
       ],
       "edges": [],
       "text": "Graph: New Thing (f00ffe2f-e172-4b37-936f-5b0f015580e0)\nNodes (1 total):\n- New Thing [17f7c81f-f82e-4797-ac60-fa2131701f6d]\n\nEdges (0 total):",
-      "computedAt": 1759698156650
+      "computedAt": 1759698181327
     }
   }
 }
