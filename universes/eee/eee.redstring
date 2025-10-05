@@ -211,9 +211,9 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-05T17:07:39.906Z",
-    "modified": "2025-10-05T17:07:39.906Z",
-    "title": "New Thing",
+    "created": "2025-10-05T17:08:00.616Z",
+    "modified": "2025-10-05T17:08:00.616Z",
+    "title": "Loop",
     "description": "",
     "domain": null,
     "userURIs": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:07:39.906Z"
+          "redstring:lastViewed": "2025-10-05T17:08:00.616Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -268,9 +268,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:7996ceee-c57b-416c-ac24-c92bcb80de25",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Loop",
         "rdfs:comment": "",
-        "name": "New Thing",
+        "name": "Loop",
         "description": "",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
@@ -302,7 +302,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:07:39.906Z"
+          "redstring:lastViewed": "2025-10-05T17:08:00.616Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -317,7 +317,7 @@
       "ef61e050-238b-4306-95c1-8bf95d2c6254": {
         "@type": "redstring:SpatialGraph",
         "@id": "graph:ef61e050-238b-4306-95c1-8bf95d2c6254",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Loop",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
           "7996ceee-c57b-416c-ac24-c92bcb80de25"
@@ -343,7 +343,7 @@
     "ef61e050-238b-4306-95c1-8bf95d2c6254": {
       "@type": "redstring:SpatialGraph",
       "@id": "graph:ef61e050-238b-4306-95c1-8bf95d2c6254",
-      "rdfs:label": "New Thing",
+      "rdfs:label": "Loop",
       "rdfs:comment": "",
       "redstring:definingNodeIds": [
         "7996ceee-c57b-416c-ac24-c92bcb80de25"
@@ -388,7 +388,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T17:07:39.906Z"
+        "redstring:lastViewed": "2025-10-05T17:08:00.616Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -399,9 +399,9 @@
         "schema:Thing"
       ],
       "@id": "prototype:7996ceee-c57b-416c-ac24-c92bcb80de25",
-      "rdfs:label": "New Thing",
+      "rdfs:label": "Loop",
       "rdfs:comment": "",
-      "name": "New Thing",
+      "name": "Loop",
       "description": "",
       "rdfs:seeAlso": [
         "https://en.wikipedia.org/wiki/New_Thing",
@@ -433,7 +433,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T17:07:39.906Z"
+        "redstring:lastViewed": "2025-10-05T17:08:00.616Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -476,7 +476,7 @@
       "ef61e050-238b-4306-95c1-8bf95d2c6254": {
         "@type": "redstring:SpatialGraph",
         "@id": "graph:ef61e050-238b-4306-95c1-8bf95d2c6254",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Loop",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
           "7996ceee-c57b-416c-ac24-c92bcb80de25"
@@ -521,7 +521,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:07:39.906Z"
+          "redstring:lastViewed": "2025-10-05T17:08:00.616Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -532,9 +532,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:7996ceee-c57b-416c-ac24-c92bcb80de25",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Loop",
         "rdfs:comment": "",
-        "name": "New Thing",
+        "name": "Loop",
         "description": "",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
@@ -566,7 +566,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:07:39.906Z"
+          "redstring:lastViewed": "2025-10-05T17:08:00.616Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -581,7 +581,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1759684059906,
+        "computedAt": 1759684080616,
         "truncated": false
       }
     }
@@ -589,7 +589,7 @@
   "graphSummaries": {
     "ef61e050-238b-4306-95c1-8bf95d2c6254": {
       "id": "ef61e050-238b-4306-95c1-8bf95d2c6254",
-      "name": "New Thing",
+      "name": "Loop",
       "description": "",
       "nodeCount": 0,
       "edgeCount": 0,
@@ -598,8 +598,8 @@
       "score": 0,
       "nodes": [],
       "edges": [],
-      "text": "Graph: New Thing (ef61e050-238b-4306-95c1-8bf95d2c6254)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1759684059906
+      "text": "Graph: Loop (ef61e050-238b-4306-95c1-8bf95d2c6254)\nNodes (0 total):\n\nEdges (0 total):",
+      "computedAt": 1759684080616
     }
   }
 }
