@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-05T01:02:00.313Z",
-    "modified": "2025-10-05T01:02:00.313Z",
+    "created": "2025-10-05T01:02:17.337Z",
+    "modified": "2025-10-05T01:02:17.337Z",
     "title": "eieio",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T01:02:00.313Z"
+          "redstring:lastViewed": "2025-10-05T01:02:17.337Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -301,7 +301,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T01:02:00.313Z"
+          "redstring:lastViewed": "2025-10-05T01:02:17.337Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -338,7 +338,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T01:02:00.313Z"
+          "redstring:lastViewed": "2025-10-05T01:02:17.337Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -545,7 +545,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T01:02:00.313Z"
+        "redstring:lastViewed": "2025-10-05T01:02:17.337Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -589,7 +589,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T01:02:00.313Z"
+        "redstring:lastViewed": "2025-10-05T01:02:17.337Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -626,7 +626,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T01:02:00.313Z"
+        "redstring:lastViewed": "2025-10-05T01:02:17.337Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -794,7 +794,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T01:02:00.313Z"
+          "redstring:lastViewed": "2025-10-05T01:02:17.337Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -838,7 +838,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T01:02:00.313Z"
+          "redstring:lastViewed": "2025-10-05T01:02:17.337Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -875,7 +875,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T01:02:00.313Z"
+          "redstring:lastViewed": "2025-10-05T01:02:17.337Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -950,7 +950,7 @@
           "x": -1075,
           "y": -14650
         },
-        "computedAt": 1759626120313,
+        "computedAt": 1759626137337,
         "truncated": false
       }
     }
@@ -988,7 +988,7 @@
         }
       ],
       "text": "Graph: eieio (25a28f1c-347c-44a7-bc8f-cc2ff23c3903)\nNodes (2 total):\n- eieio [083afa37-cf60-4b87-b1ae-38f33ffbf311]\n- oomp [a2fb645a-2e69-4204-8e4b-693e240239fe]\n\nEdges (1 total):\n- eieio → oomp (base-connection-prototype)",
-      "computedAt": 1759626120313
+      "computedAt": 1759626137337
     }
   }
 }
