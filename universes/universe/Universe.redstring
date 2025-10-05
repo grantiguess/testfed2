@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-05T03:34:05.912Z",
-    "modified": "2025-10-05T03:34:05.912Z",
+    "created": "2025-10-05T03:37:33.351Z",
+    "modified": "2025-10-05T03:37:33.351Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T03:34:05.911Z"
+          "redstring:lastViewed": "2025-10-05T03:37:33.351Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -301,7 +301,44 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T03:34:05.911Z"
+          "redstring:lastViewed": "2025-10-05T03:37:33.351Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "d3831bdb-9f0d-440a-9085-c15415bbd0d0": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:d3831bdb-9f0d-440a-9085-c15415bbd0d0",
+        "rdfs:label": "Trooper",
+        "rdfs:comment": "",
+        "name": "Trooper",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-10-05T03:37:33.351Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -322,7 +359,27 @@
           "1e08121c-03fe-4abd-ad88-797be9ab08b6"
         ],
         "redstring:edgeIds": [],
-        "redstring:instances": {},
+        "redstring:instances": {
+          "9136ac9d-acdd-4418-b0fa-4158675f447e": {
+            "@type": "redstring:Instance",
+            "@id": "instance:9136ac9d-acdd-4418-b0fa-4158675f447e",
+            "rdf:type": {
+              "@id": "prototype:d3831bdb-9f0d-440a-9085-c15415bbd0d0"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:a3f124af-af5c-4d49-b203-ac2f788a9941"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -1275,
+              "redstring:yCoordinate": -450,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "d3831bdb-9f0d-440a-9085-c15415bbd0d0"
+          }
+        },
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
@@ -348,7 +405,27 @@
         "1e08121c-03fe-4abd-ad88-797be9ab08b6"
       ],
       "redstring:edgeIds": [],
-      "redstring:instances": {},
+      "redstring:instances": {
+        "9136ac9d-acdd-4418-b0fa-4158675f447e": {
+          "@type": "redstring:Instance",
+          "@id": "instance:9136ac9d-acdd-4418-b0fa-4158675f447e",
+          "rdf:type": {
+            "@id": "prototype:d3831bdb-9f0d-440a-9085-c15415bbd0d0"
+          },
+          "rdfs:label": null,
+          "rdfs:comment": null,
+          "redstring:containedIn": {
+            "@id": "graph:a3f124af-af5c-4d49-b203-ac2f788a9941"
+          },
+          "redstring:spatialContext": {
+            "redstring:xCoordinate": -1275,
+            "redstring:yCoordinate": -450,
+            "redstring:spatialScale": 1
+          },
+          "redstring:visualProperties": {},
+          "redstring:prototypeId": "d3831bdb-9f0d-440a-9085-c15415bbd0d0"
+        }
+      },
       "redstring:groups": {},
       "redstring:visualProperties": {
         "redstring:expanded": true,
@@ -387,7 +464,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T03:34:05.911Z"
+        "redstring:lastViewed": "2025-10-05T03:37:33.351Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -431,7 +508,44 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T03:34:05.911Z"
+        "redstring:lastViewed": "2025-10-05T03:37:33.351Z"
+      },
+      "redstring:abstractionChains": {}
+    },
+    "d3831bdb-9f0d-440a-9085-c15415bbd0d0": {
+      "@type": [
+        "redstring:Prototype",
+        "rdfs:Class",
+        "schema:Thing"
+      ],
+      "@id": "prototype:d3831bdb-9f0d-440a-9085-c15415bbd0d0",
+      "rdfs:label": "Trooper",
+      "rdfs:comment": "",
+      "name": "Trooper",
+      "description": "",
+      "rdfs:seeAlso": [],
+      "rdfs:isDefinedBy": {
+        "@id": "https://redstring.io"
+      },
+      "rdfs:subClassOf": {
+        "@id": "type:base-thing-prototype"
+      },
+      "owl:sameAs": [],
+      "owl:equivalentClass": [],
+      "redstring:spatialContext": {
+        "redstring:xCoordinate": 0,
+        "redstring:yCoordinate": 0,
+        "redstring:spatialScale": 1
+      },
+      "redstring:visualProperties": {
+        "redstring:cognitiveColor": "#8B0000"
+      },
+      "redstring:definitionGraphIds": [],
+      "redstring:typeNodeId": "base-thing-prototype",
+      "redstring:citations": [],
+      "redstring:cognitiveProperties": {
+        "redstring:bookmarked": false,
+        "redstring:lastViewed": "2025-10-05T03:37:33.351Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -480,7 +594,27 @@
           "1e08121c-03fe-4abd-ad88-797be9ab08b6"
         ],
         "redstring:edgeIds": [],
-        "redstring:instances": {},
+        "redstring:instances": {
+          "9136ac9d-acdd-4418-b0fa-4158675f447e": {
+            "@type": "redstring:Instance",
+            "@id": "instance:9136ac9d-acdd-4418-b0fa-4158675f447e",
+            "rdf:type": {
+              "@id": "prototype:d3831bdb-9f0d-440a-9085-c15415bbd0d0"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:a3f124af-af5c-4d49-b203-ac2f788a9941"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -1275,
+              "redstring:yCoordinate": -450,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "d3831bdb-9f0d-440a-9085-c15415bbd0d0"
+          }
+        },
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
@@ -519,7 +653,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T03:34:05.911Z"
+          "redstring:lastViewed": "2025-10-05T03:37:33.351Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -563,7 +697,44 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T03:34:05.911Z"
+          "redstring:lastViewed": "2025-10-05T03:37:33.351Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "d3831bdb-9f0d-440a-9085-c15415bbd0d0": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:d3831bdb-9f0d-440a-9085-c15415bbd0d0",
+        "rdfs:label": "Trooper",
+        "rdfs:comment": "",
+        "name": "Trooper",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-10-05T03:37:33.351Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -572,13 +743,28 @@
   },
   "graphLayouts": {
     "a3f124af-af5c-4d49-b203-ac2f788a9941": {
-      "nodes": {},
+      "nodes": {
+        "9136ac9d-acdd-4418-b0fa-4158675f447e": {
+          "x": -1275,
+          "y": -450,
+          "scale": 1,
+          "prototypeId": "d3831bdb-9f0d-440a-9085-c15415bbd0d0"
+        }
+      },
       "metadata": {
-        "nodeCount": 0,
+        "nodeCount": 1,
         "edgeCount": 0,
-        "boundingBox": null,
-        "centroid": null,
-        "computedAt": 1759635245912,
+        "boundingBox": {
+          "minX": -1275,
+          "minY": -450,
+          "maxX": -1275,
+          "maxY": -450
+        },
+        "centroid": {
+          "x": -1275,
+          "y": -450
+        },
+        "computedAt": 1759635453351,
         "truncated": false
       }
     }
@@ -588,15 +774,21 @@
       "id": "a3f124af-af5c-4d49-b203-ac2f788a9941",
       "name": "New Thing",
       "description": "",
-      "nodeCount": 0,
+      "nodeCount": 1,
       "edgeCount": 0,
       "density": 0,
-      "quality": "empty",
-      "score": 0,
-      "nodes": [],
+      "quality": "single",
+      "score": 10,
+      "nodes": [
+        {
+          "id": "9136ac9d-acdd-4418-b0fa-4158675f447e",
+          "prototypeId": "d3831bdb-9f0d-440a-9085-c15415bbd0d0",
+          "name": "Trooper"
+        }
+      ],
       "edges": [],
-      "text": "Graph: New Thing (a3f124af-af5c-4d49-b203-ac2f788a9941)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1759635245912
+      "text": "Graph: New Thing (a3f124af-af5c-4d49-b203-ac2f788a9941)\nNodes (1 total):\n- Trooper [9136ac9d-acdd-4418-b0fa-4158675f447e]\n\nEdges (0 total):",
+      "computedAt": 1759635453351
     }
   }
 }
