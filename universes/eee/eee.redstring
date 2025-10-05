@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-05T17:05:18.302Z",
-    "modified": "2025-10-05T17:05:18.302Z",
+    "created": "2025-10-05T17:05:42.092Z",
+    "modified": "2025-10-05T17:05:42.092Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:05:18.302Z"
+          "redstring:lastViewed": "2025-10-05T17:05:42.091Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -302,7 +302,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:05:18.302Z"
+          "redstring:lastViewed": "2025-10-05T17:05:42.091Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -317,14 +317,18 @@
         "rdfs:comment": "",
         "name": "booboo",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Boo_Boo"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Boo_Boo"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -339,7 +343,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:05:18.302Z"
+          "redstring:lastViewed": "2025-10-05T17:05:42.092Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -376,7 +380,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:05:18.302Z"
+          "redstring:lastViewed": "2025-10-05T17:05:42.092Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -540,7 +544,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T17:05:18.302Z"
+        "redstring:lastViewed": "2025-10-05T17:05:42.091Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -585,7 +589,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T17:05:18.302Z"
+        "redstring:lastViewed": "2025-10-05T17:05:42.091Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -600,14 +604,18 @@
       "rdfs:comment": "",
       "name": "booboo",
       "description": "",
-      "rdfs:seeAlso": [],
+      "rdfs:seeAlso": [
+        "https://en.wikipedia.org/wiki/Boo_Boo"
+      ],
       "rdfs:isDefinedBy": {
         "@id": "https://redstring.io"
       },
       "rdfs:subClassOf": {
         "@id": "type:base-thing-prototype"
       },
-      "owl:sameAs": [],
+      "owl:sameAs": [
+        "https://en.wikipedia.org/wiki/Boo_Boo"
+      ],
       "owl:equivalentClass": [],
       "redstring:spatialContext": {
         "redstring:xCoordinate": 0,
@@ -622,7 +630,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T17:05:18.302Z"
+        "redstring:lastViewed": "2025-10-05T17:05:42.092Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -659,7 +667,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T17:05:18.302Z"
+        "redstring:lastViewed": "2025-10-05T17:05:42.092Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -690,13 +698,13 @@
     "redstring:rightPanelTabs": [
       {
         "type": "home",
-        "isActive": true
+        "isActive": false
       },
       {
         "type": "node",
-        "nodeId": "89d717ec-9ca1-4323-82df-f14eb0e7199d",
-        "title": "Greeby",
-        "isActive": false
+        "nodeId": "459c23ac-b30d-41ab-b33f-2817875bc192",
+        "title": "booboo",
+        "isActive": true
       }
     ],
     "redstring:savedNodeIds": [],
@@ -792,7 +800,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:05:18.302Z"
+          "redstring:lastViewed": "2025-10-05T17:05:42.091Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -837,7 +845,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:05:18.302Z"
+          "redstring:lastViewed": "2025-10-05T17:05:42.091Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -852,14 +860,18 @@
         "rdfs:comment": "",
         "name": "booboo",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Boo_Boo"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Boo_Boo"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -874,7 +886,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:05:18.302Z"
+          "redstring:lastViewed": "2025-10-05T17:05:42.092Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -911,7 +923,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:05:18.302Z"
+          "redstring:lastViewed": "2025-10-05T17:05:42.092Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -947,7 +959,7 @@
           "x": 807.160104773182,
           "y": -437.7762226958912
         },
-        "computedAt": 1759683918302,
+        "computedAt": 1759683942092,
         "truncated": false
       }
     }
@@ -976,7 +988,7 @@
       ],
       "edges": [],
       "text": "Graph: New Thing (fa8cca19-514b-4df6-90ad-baf115428dbc)\nNodes (2 total):\n- booboo [909bf891-d1c0-4122-9a27-9ee65d8d7d31]\n- Greeby [4c730011-e757-4a06-89f2-7a989de6a3f2]\n\nEdges (0 total):",
-      "computedAt": 1759683918302
+      "computedAt": 1759683942092
     }
   }
 }
