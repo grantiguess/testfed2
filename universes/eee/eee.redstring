@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-05T06:39:02.404Z",
-    "modified": "2025-10-05T06:39:02.404Z",
+    "created": "2025-10-05T06:39:05.092Z",
+    "modified": "2025-10-05T06:39:05.092Z",
     "title": "ool",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T06:39:02.403Z"
+          "redstring:lastViewed": "2025-10-05T06:39:05.092Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -302,7 +302,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T06:39:02.403Z"
+          "redstring:lastViewed": "2025-10-05T06:39:05.092Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -339,7 +339,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T06:39:02.403Z"
+          "redstring:lastViewed": "2025-10-05T06:39:05.092Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -376,7 +376,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T06:39:02.403Z"
+          "redstring:lastViewed": "2025-10-05T06:39:05.092Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -430,7 +430,7 @@
             },
             "redstring:spatialContext": {
               "redstring:xCoordinate": -75,
-              "redstring:yCoordinate": -250,
+              "redstring:yCoordinate": -50,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
@@ -495,7 +495,7 @@
           },
           "redstring:spatialContext": {
             "redstring:xCoordinate": -75,
-            "redstring:yCoordinate": -250,
+            "redstring:yCoordinate": -50,
             "redstring:spatialScale": 1
           },
           "redstring:visualProperties": {},
@@ -540,7 +540,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T06:39:02.403Z"
+        "redstring:lastViewed": "2025-10-05T06:39:05.092Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -585,7 +585,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T06:39:02.403Z"
+        "redstring:lastViewed": "2025-10-05T06:39:05.092Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -622,7 +622,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T06:39:02.403Z"
+        "redstring:lastViewed": "2025-10-05T06:39:05.092Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -659,7 +659,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T06:39:02.403Z"
+        "redstring:lastViewed": "2025-10-05T06:39:05.092Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -741,7 +741,7 @@
             },
             "redstring:spatialContext": {
               "redstring:xCoordinate": -75,
-              "redstring:yCoordinate": -250,
+              "redstring:yCoordinate": -50,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
@@ -786,7 +786,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T06:39:02.403Z"
+          "redstring:lastViewed": "2025-10-05T06:39:05.092Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -831,7 +831,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T06:39:02.403Z"
+          "redstring:lastViewed": "2025-10-05T06:39:05.092Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -868,7 +868,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T06:39:02.403Z"
+          "redstring:lastViewed": "2025-10-05T06:39:05.092Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -905,7 +905,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T06:39:02.403Z"
+          "redstring:lastViewed": "2025-10-05T06:39:05.092Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -923,7 +923,7 @@
         },
         "1bfe8526-dd23-4198-acc0-3557fa36e631": {
           "x": -75,
-          "y": -250,
+          "y": -50,
           "scale": 1,
           "prototypeId": "209abfb2-1ac0-4d32-b35c-386ff051e06a"
         }
@@ -935,13 +935,13 @@
           "minX": -75,
           "minY": -450,
           "maxX": -75,
-          "maxY": -250
+          "maxY": -50
         },
         "centroid": {
           "x": -75,
-          "y": -350
+          "y": -250
         },
-        "computedAt": 1759646342404,
+        "computedAt": 1759646345092,
         "truncated": false
       }
     }
@@ -970,7 +970,7 @@
       ],
       "edges": [],
       "text": "Graph: ool (c3cf5396-95c1-4f28-b1c3-513624d37cc1)\nNodes (2 total):\n- d [8ddb2fb9-9a97-468c-bdd0-1147ea185deb]\n- f [1bfe8526-dd23-4198-acc0-3557fa36e631]\n\nEdges (0 total):",
-      "computedAt": 1759646342404
+      "computedAt": 1759646345092
     }
   }
 }
