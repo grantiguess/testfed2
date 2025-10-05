@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-05T17:05:42.092Z",
-    "modified": "2025-10-05T17:05:42.092Z",
+    "created": "2025-10-05T17:07:02.409Z",
+    "modified": "2025-10-05T17:07:02.409Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -257,114 +257,26 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:05:42.091Z"
+          "redstring:lastViewed": "2025-10-05T17:07:02.408Z"
         },
         "redstring:abstractionChains": {}
       },
-      "9cdb4dba-d14c-40ac-ae78-60303c5643d0": {
+      "61ba562d-cb21-48ab-b5e2-4438804ff50d": {
         "@type": [
           "redstring:Prototype",
           "rdfs:Class",
           "schema:Thing"
         ],
-        "@id": "prototype:9cdb4dba-d14c-40ac-ae78-60303c5643d0",
+        "@id": "prototype:61ba562d-cb21-48ab-b5e2-4438804ff50d",
         "rdfs:label": "New Thing",
         "rdfs:comment": "",
         "name": "New Thing",
-        "description": "",
-        "rdfs:seeAlso": [
-          "https://en.wikipedia.org/wiki/New_Thing",
-          "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
-        ],
-        "rdfs:isDefinedBy": {
-          "@id": "https://redstring.io"
-        },
-        "rdfs:subClassOf": null,
-        "owl:sameAs": [
-          "https://en.wikipedia.org/wiki/New_Thing",
-          "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
-        ],
-        "owl:equivalentClass": [],
-        "redstring:spatialContext": {
-          "redstring:xCoordinate": 0,
-          "redstring:yCoordinate": 0,
-          "redstring:spatialScale": 1
-        },
-        "redstring:visualProperties": {
-          "redstring:cognitiveColor": "#8B0000"
-        },
-        "redstring:definitionGraphIds": [
-          "fa8cca19-514b-4df6-90ad-baf115428dbc"
-        ],
-        "redstring:typeNodeId": null,
-        "redstring:citations": [],
-        "redstring:cognitiveProperties": {
-          "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:05:42.091Z"
-        },
-        "redstring:abstractionChains": {}
-      },
-      "459c23ac-b30d-41ab-b33f-2817875bc192": {
-        "@type": [
-          "redstring:Prototype",
-          "rdfs:Class",
-          "schema:Thing"
-        ],
-        "@id": "prototype:459c23ac-b30d-41ab-b33f-2817875bc192",
-        "rdfs:label": "booboo",
-        "rdfs:comment": "",
-        "name": "booboo",
-        "description": "",
-        "rdfs:seeAlso": [
-          "https://en.wikipedia.org/wiki/Boo_Boo"
-        ],
-        "rdfs:isDefinedBy": {
-          "@id": "https://redstring.io"
-        },
-        "rdfs:subClassOf": {
-          "@id": "type:base-thing-prototype"
-        },
-        "owl:sameAs": [
-          "https://en.wikipedia.org/wiki/Boo_Boo"
-        ],
-        "owl:equivalentClass": [],
-        "redstring:spatialContext": {
-          "redstring:xCoordinate": 0,
-          "redstring:yCoordinate": 0,
-          "redstring:spatialScale": 1
-        },
-        "redstring:visualProperties": {
-          "redstring:cognitiveColor": "#8B0000"
-        },
-        "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": "base-thing-prototype",
-        "redstring:citations": [],
-        "redstring:cognitiveProperties": {
-          "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:05:42.092Z"
-        },
-        "redstring:abstractionChains": {}
-      },
-      "89d717ec-9ca1-4323-82df-f14eb0e7199d": {
-        "@type": [
-          "redstring:Prototype",
-          "rdfs:Class",
-          "schema:Thing"
-        ],
-        "@id": "prototype:89d717ec-9ca1-4323-82df-f14eb0e7199d",
-        "rdfs:label": "Greeby",
-        "rdfs:comment": "",
-        "name": "Greeby",
         "description": "",
         "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
-        "rdfs:subClassOf": {
-          "@id": "type:base-thing-prototype"
-        },
+        "rdfs:subClassOf": null,
         "owl:sameAs": [],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
@@ -375,12 +287,14 @@
         "redstring:visualProperties": {
           "redstring:cognitiveColor": "#8B0000"
         },
-        "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:definitionGraphIds": [
+          "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814"
+        ],
+        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:05:42.092Z"
+          "redstring:lastViewed": "2025-10-05T17:07:02.408Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -392,55 +306,16 @@
     "rdfs:label": "RedString Spatial Graphs",
     "rdfs:comment": "Collection of positioned instances within spatial graphs",
     "graphs": {
-      "fa8cca19-514b-4df6-90ad-baf115428dbc": {
+      "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814": {
         "@type": "redstring:SpatialGraph",
-        "@id": "graph:fa8cca19-514b-4df6-90ad-baf115428dbc",
+        "@id": "graph:3d8a9ba6-24fd-48cd-85b4-8af51d2bc814",
         "rdfs:label": "New Thing",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
-          "9cdb4dba-d14c-40ac-ae78-60303c5643d0"
+          "61ba562d-cb21-48ab-b5e2-4438804ff50d"
         ],
         "redstring:edgeIds": [],
-        "redstring:instances": {
-          "909bf891-d1c0-4122-9a27-9ee65d8d7d31": {
-            "@type": "redstring:Instance",
-            "@id": "instance:909bf891-d1c0-4122-9a27-9ee65d8d7d31",
-            "rdf:type": {
-              "@id": "prototype:459c23ac-b30d-41ab-b33f-2817875bc192"
-            },
-            "rdfs:label": null,
-            "rdfs:comment": null,
-            "redstring:containedIn": {
-              "@id": "graph:fa8cca19-514b-4df6-90ad-baf115428dbc"
-            },
-            "redstring:spatialContext": {
-              "redstring:xCoordinate": 503.5921257278169,
-              "redstring:yCoordinate": -444.5672100870652,
-              "redstring:spatialScale": 1
-            },
-            "redstring:visualProperties": {},
-            "redstring:prototypeId": "459c23ac-b30d-41ab-b33f-2817875bc192"
-          },
-          "4c730011-e757-4a06-89f2-7a989de6a3f2": {
-            "@type": "redstring:Instance",
-            "@id": "instance:4c730011-e757-4a06-89f2-7a989de6a3f2",
-            "rdf:type": {
-              "@id": "prototype:89d717ec-9ca1-4323-82df-f14eb0e7199d"
-            },
-            "rdfs:label": null,
-            "rdfs:comment": null,
-            "redstring:containedIn": {
-              "@id": "graph:fa8cca19-514b-4df6-90ad-baf115428dbc"
-            },
-            "redstring:spatialContext": {
-              "redstring:xCoordinate": 1110.728083818547,
-              "redstring:yCoordinate": -430.9852353047172,
-              "redstring:spatialScale": 1
-            },
-            "redstring:visualProperties": {},
-            "redstring:prototypeId": "89d717ec-9ca1-4323-82df-f14eb0e7199d"
-          }
-        },
+        "redstring:instances": {},
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
@@ -457,55 +332,16 @@
     "edges": {}
   },
   "graphs": {
-    "fa8cca19-514b-4df6-90ad-baf115428dbc": {
+    "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814": {
       "@type": "redstring:SpatialGraph",
-      "@id": "graph:fa8cca19-514b-4df6-90ad-baf115428dbc",
+      "@id": "graph:3d8a9ba6-24fd-48cd-85b4-8af51d2bc814",
       "rdfs:label": "New Thing",
       "rdfs:comment": "",
       "redstring:definingNodeIds": [
-        "9cdb4dba-d14c-40ac-ae78-60303c5643d0"
+        "61ba562d-cb21-48ab-b5e2-4438804ff50d"
       ],
       "redstring:edgeIds": [],
-      "redstring:instances": {
-        "909bf891-d1c0-4122-9a27-9ee65d8d7d31": {
-          "@type": "redstring:Instance",
-          "@id": "instance:909bf891-d1c0-4122-9a27-9ee65d8d7d31",
-          "rdf:type": {
-            "@id": "prototype:459c23ac-b30d-41ab-b33f-2817875bc192"
-          },
-          "rdfs:label": null,
-          "rdfs:comment": null,
-          "redstring:containedIn": {
-            "@id": "graph:fa8cca19-514b-4df6-90ad-baf115428dbc"
-          },
-          "redstring:spatialContext": {
-            "redstring:xCoordinate": 503.5921257278169,
-            "redstring:yCoordinate": -444.5672100870652,
-            "redstring:spatialScale": 1
-          },
-          "redstring:visualProperties": {},
-          "redstring:prototypeId": "459c23ac-b30d-41ab-b33f-2817875bc192"
-        },
-        "4c730011-e757-4a06-89f2-7a989de6a3f2": {
-          "@type": "redstring:Instance",
-          "@id": "instance:4c730011-e757-4a06-89f2-7a989de6a3f2",
-          "rdf:type": {
-            "@id": "prototype:89d717ec-9ca1-4323-82df-f14eb0e7199d"
-          },
-          "rdfs:label": null,
-          "rdfs:comment": null,
-          "redstring:containedIn": {
-            "@id": "graph:fa8cca19-514b-4df6-90ad-baf115428dbc"
-          },
-          "redstring:spatialContext": {
-            "redstring:xCoordinate": 1110.728083818547,
-            "redstring:yCoordinate": -430.9852353047172,
-            "redstring:spatialScale": 1
-          },
-          "redstring:visualProperties": {},
-          "redstring:prototypeId": "89d717ec-9ca1-4323-82df-f14eb0e7199d"
-        }
-      },
+      "redstring:instances": {},
       "redstring:groups": {},
       "redstring:visualProperties": {
         "redstring:expanded": true,
@@ -544,114 +380,26 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T17:05:42.091Z"
+        "redstring:lastViewed": "2025-10-05T17:07:02.408Z"
       },
       "redstring:abstractionChains": {}
     },
-    "9cdb4dba-d14c-40ac-ae78-60303c5643d0": {
+    "61ba562d-cb21-48ab-b5e2-4438804ff50d": {
       "@type": [
         "redstring:Prototype",
         "rdfs:Class",
         "schema:Thing"
       ],
-      "@id": "prototype:9cdb4dba-d14c-40ac-ae78-60303c5643d0",
+      "@id": "prototype:61ba562d-cb21-48ab-b5e2-4438804ff50d",
       "rdfs:label": "New Thing",
       "rdfs:comment": "",
       "name": "New Thing",
-      "description": "",
-      "rdfs:seeAlso": [
-        "https://en.wikipedia.org/wiki/New_Thing",
-        "http://dbpedia.org/resource/New_Thing",
-        "http://www.wikidata.org/entity/Q16998778"
-      ],
-      "rdfs:isDefinedBy": {
-        "@id": "https://redstring.io"
-      },
-      "rdfs:subClassOf": null,
-      "owl:sameAs": [
-        "https://en.wikipedia.org/wiki/New_Thing",
-        "http://dbpedia.org/resource/New_Thing",
-        "http://www.wikidata.org/entity/Q16998778"
-      ],
-      "owl:equivalentClass": [],
-      "redstring:spatialContext": {
-        "redstring:xCoordinate": 0,
-        "redstring:yCoordinate": 0,
-        "redstring:spatialScale": 1
-      },
-      "redstring:visualProperties": {
-        "redstring:cognitiveColor": "#8B0000"
-      },
-      "redstring:definitionGraphIds": [
-        "fa8cca19-514b-4df6-90ad-baf115428dbc"
-      ],
-      "redstring:typeNodeId": null,
-      "redstring:citations": [],
-      "redstring:cognitiveProperties": {
-        "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T17:05:42.091Z"
-      },
-      "redstring:abstractionChains": {}
-    },
-    "459c23ac-b30d-41ab-b33f-2817875bc192": {
-      "@type": [
-        "redstring:Prototype",
-        "rdfs:Class",
-        "schema:Thing"
-      ],
-      "@id": "prototype:459c23ac-b30d-41ab-b33f-2817875bc192",
-      "rdfs:label": "booboo",
-      "rdfs:comment": "",
-      "name": "booboo",
-      "description": "",
-      "rdfs:seeAlso": [
-        "https://en.wikipedia.org/wiki/Boo_Boo"
-      ],
-      "rdfs:isDefinedBy": {
-        "@id": "https://redstring.io"
-      },
-      "rdfs:subClassOf": {
-        "@id": "type:base-thing-prototype"
-      },
-      "owl:sameAs": [
-        "https://en.wikipedia.org/wiki/Boo_Boo"
-      ],
-      "owl:equivalentClass": [],
-      "redstring:spatialContext": {
-        "redstring:xCoordinate": 0,
-        "redstring:yCoordinate": 0,
-        "redstring:spatialScale": 1
-      },
-      "redstring:visualProperties": {
-        "redstring:cognitiveColor": "#8B0000"
-      },
-      "redstring:definitionGraphIds": [],
-      "redstring:typeNodeId": "base-thing-prototype",
-      "redstring:citations": [],
-      "redstring:cognitiveProperties": {
-        "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T17:05:42.092Z"
-      },
-      "redstring:abstractionChains": {}
-    },
-    "89d717ec-9ca1-4323-82df-f14eb0e7199d": {
-      "@type": [
-        "redstring:Prototype",
-        "rdfs:Class",
-        "schema:Thing"
-      ],
-      "@id": "prototype:89d717ec-9ca1-4323-82df-f14eb0e7199d",
-      "rdfs:label": "Greeby",
-      "rdfs:comment": "",
-      "name": "Greeby",
       "description": "",
       "rdfs:seeAlso": [],
       "rdfs:isDefinedBy": {
         "@id": "https://redstring.io"
       },
-      "rdfs:subClassOf": {
-        "@id": "type:base-thing-prototype"
-      },
+      "rdfs:subClassOf": null,
       "owl:sameAs": [],
       "owl:equivalentClass": [],
       "redstring:spatialContext": {
@@ -662,12 +410,14 @@
       "redstring:visualProperties": {
         "redstring:cognitiveColor": "#8B0000"
       },
-      "redstring:definitionGraphIds": [],
-      "redstring:typeNodeId": "base-thing-prototype",
+      "redstring:definitionGraphIds": [
+        "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814"
+      ],
+      "redstring:typeNodeId": null,
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T17:05:42.092Z"
+        "redstring:lastViewed": "2025-10-05T17:07:02.408Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -688,22 +438,16 @@
   "userInterface": {
     "@type": "redstring:UserInterfaceState",
     "redstring:openGraphIds": [
-      "fa8cca19-514b-4df6-90ad-baf115428dbc"
+      "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814"
     ],
-    "redstring:activeGraphId": "fa8cca19-514b-4df6-90ad-baf115428dbc",
-    "redstring:activeDefinitionNodeId": "9cdb4dba-d14c-40ac-ae78-60303c5643d0",
+    "redstring:activeGraphId": "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814",
+    "redstring:activeDefinitionNodeId": "61ba562d-cb21-48ab-b5e2-4438804ff50d",
     "redstring:expandedGraphIds": [
-      "fa8cca19-514b-4df6-90ad-baf115428dbc"
+      "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814"
     ],
     "redstring:rightPanelTabs": [
       {
         "type": "home",
-        "isActive": false
-      },
-      {
-        "type": "node",
-        "nodeId": "459c23ac-b30d-41ab-b33f-2817875bc192",
-        "title": "booboo",
         "isActive": true
       }
     ],
@@ -713,55 +457,16 @@
   },
   "legacy": {
     "graphs": {
-      "fa8cca19-514b-4df6-90ad-baf115428dbc": {
+      "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814": {
         "@type": "redstring:SpatialGraph",
-        "@id": "graph:fa8cca19-514b-4df6-90ad-baf115428dbc",
+        "@id": "graph:3d8a9ba6-24fd-48cd-85b4-8af51d2bc814",
         "rdfs:label": "New Thing",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
-          "9cdb4dba-d14c-40ac-ae78-60303c5643d0"
+          "61ba562d-cb21-48ab-b5e2-4438804ff50d"
         ],
         "redstring:edgeIds": [],
-        "redstring:instances": {
-          "909bf891-d1c0-4122-9a27-9ee65d8d7d31": {
-            "@type": "redstring:Instance",
-            "@id": "instance:909bf891-d1c0-4122-9a27-9ee65d8d7d31",
-            "rdf:type": {
-              "@id": "prototype:459c23ac-b30d-41ab-b33f-2817875bc192"
-            },
-            "rdfs:label": null,
-            "rdfs:comment": null,
-            "redstring:containedIn": {
-              "@id": "graph:fa8cca19-514b-4df6-90ad-baf115428dbc"
-            },
-            "redstring:spatialContext": {
-              "redstring:xCoordinate": 503.5921257278169,
-              "redstring:yCoordinate": -444.5672100870652,
-              "redstring:spatialScale": 1
-            },
-            "redstring:visualProperties": {},
-            "redstring:prototypeId": "459c23ac-b30d-41ab-b33f-2817875bc192"
-          },
-          "4c730011-e757-4a06-89f2-7a989de6a3f2": {
-            "@type": "redstring:Instance",
-            "@id": "instance:4c730011-e757-4a06-89f2-7a989de6a3f2",
-            "rdf:type": {
-              "@id": "prototype:89d717ec-9ca1-4323-82df-f14eb0e7199d"
-            },
-            "rdfs:label": null,
-            "rdfs:comment": null,
-            "redstring:containedIn": {
-              "@id": "graph:fa8cca19-514b-4df6-90ad-baf115428dbc"
-            },
-            "redstring:spatialContext": {
-              "redstring:xCoordinate": 1110.728083818547,
-              "redstring:yCoordinate": -430.9852353047172,
-              "redstring:spatialScale": 1
-            },
-            "redstring:visualProperties": {},
-            "redstring:prototypeId": "89d717ec-9ca1-4323-82df-f14eb0e7199d"
-          }
-        },
+        "redstring:instances": {},
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
@@ -800,114 +505,26 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:05:42.091Z"
+          "redstring:lastViewed": "2025-10-05T17:07:02.408Z"
         },
         "redstring:abstractionChains": {}
       },
-      "9cdb4dba-d14c-40ac-ae78-60303c5643d0": {
+      "61ba562d-cb21-48ab-b5e2-4438804ff50d": {
         "@type": [
           "redstring:Prototype",
           "rdfs:Class",
           "schema:Thing"
         ],
-        "@id": "prototype:9cdb4dba-d14c-40ac-ae78-60303c5643d0",
+        "@id": "prototype:61ba562d-cb21-48ab-b5e2-4438804ff50d",
         "rdfs:label": "New Thing",
         "rdfs:comment": "",
         "name": "New Thing",
-        "description": "",
-        "rdfs:seeAlso": [
-          "https://en.wikipedia.org/wiki/New_Thing",
-          "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
-        ],
-        "rdfs:isDefinedBy": {
-          "@id": "https://redstring.io"
-        },
-        "rdfs:subClassOf": null,
-        "owl:sameAs": [
-          "https://en.wikipedia.org/wiki/New_Thing",
-          "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
-        ],
-        "owl:equivalentClass": [],
-        "redstring:spatialContext": {
-          "redstring:xCoordinate": 0,
-          "redstring:yCoordinate": 0,
-          "redstring:spatialScale": 1
-        },
-        "redstring:visualProperties": {
-          "redstring:cognitiveColor": "#8B0000"
-        },
-        "redstring:definitionGraphIds": [
-          "fa8cca19-514b-4df6-90ad-baf115428dbc"
-        ],
-        "redstring:typeNodeId": null,
-        "redstring:citations": [],
-        "redstring:cognitiveProperties": {
-          "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:05:42.091Z"
-        },
-        "redstring:abstractionChains": {}
-      },
-      "459c23ac-b30d-41ab-b33f-2817875bc192": {
-        "@type": [
-          "redstring:Prototype",
-          "rdfs:Class",
-          "schema:Thing"
-        ],
-        "@id": "prototype:459c23ac-b30d-41ab-b33f-2817875bc192",
-        "rdfs:label": "booboo",
-        "rdfs:comment": "",
-        "name": "booboo",
-        "description": "",
-        "rdfs:seeAlso": [
-          "https://en.wikipedia.org/wiki/Boo_Boo"
-        ],
-        "rdfs:isDefinedBy": {
-          "@id": "https://redstring.io"
-        },
-        "rdfs:subClassOf": {
-          "@id": "type:base-thing-prototype"
-        },
-        "owl:sameAs": [
-          "https://en.wikipedia.org/wiki/Boo_Boo"
-        ],
-        "owl:equivalentClass": [],
-        "redstring:spatialContext": {
-          "redstring:xCoordinate": 0,
-          "redstring:yCoordinate": 0,
-          "redstring:spatialScale": 1
-        },
-        "redstring:visualProperties": {
-          "redstring:cognitiveColor": "#8B0000"
-        },
-        "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": "base-thing-prototype",
-        "redstring:citations": [],
-        "redstring:cognitiveProperties": {
-          "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:05:42.092Z"
-        },
-        "redstring:abstractionChains": {}
-      },
-      "89d717ec-9ca1-4323-82df-f14eb0e7199d": {
-        "@type": [
-          "redstring:Prototype",
-          "rdfs:Class",
-          "schema:Thing"
-        ],
-        "@id": "prototype:89d717ec-9ca1-4323-82df-f14eb0e7199d",
-        "rdfs:label": "Greeby",
-        "rdfs:comment": "",
-        "name": "Greeby",
         "description": "",
         "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
-        "rdfs:subClassOf": {
-          "@id": "type:base-thing-prototype"
-        },
+        "rdfs:subClassOf": null,
         "owl:sameAs": [],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
@@ -918,12 +535,14 @@
         "redstring:visualProperties": {
           "redstring:cognitiveColor": "#8B0000"
         },
-        "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:definitionGraphIds": [
+          "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814"
+        ],
+        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:05:42.092Z"
+          "redstring:lastViewed": "2025-10-05T17:07:02.408Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -931,64 +550,32 @@
     "edges": {}
   },
   "graphLayouts": {
-    "fa8cca19-514b-4df6-90ad-baf115428dbc": {
-      "nodes": {
-        "909bf891-d1c0-4122-9a27-9ee65d8d7d31": {
-          "x": 503.5921257278169,
-          "y": -444.5672100870652,
-          "scale": 1,
-          "prototypeId": "459c23ac-b30d-41ab-b33f-2817875bc192"
-        },
-        "4c730011-e757-4a06-89f2-7a989de6a3f2": {
-          "x": 1110.728083818547,
-          "y": -430.9852353047172,
-          "scale": 1,
-          "prototypeId": "89d717ec-9ca1-4323-82df-f14eb0e7199d"
-        }
-      },
+    "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814": {
+      "nodes": {},
       "metadata": {
-        "nodeCount": 2,
+        "nodeCount": 0,
         "edgeCount": 0,
-        "boundingBox": {
-          "minX": 503.5921257278169,
-          "minY": -444.5672100870652,
-          "maxX": 1110.728083818547,
-          "maxY": -430.9852353047172
-        },
-        "centroid": {
-          "x": 807.160104773182,
-          "y": -437.7762226958912
-        },
-        "computedAt": 1759683942092,
+        "boundingBox": null,
+        "centroid": null,
+        "computedAt": 1759684022408,
         "truncated": false
       }
     }
   },
   "graphSummaries": {
-    "fa8cca19-514b-4df6-90ad-baf115428dbc": {
-      "id": "fa8cca19-514b-4df6-90ad-baf115428dbc",
+    "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814": {
+      "id": "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814",
       "name": "New Thing",
       "description": "",
-      "nodeCount": 2,
+      "nodeCount": 0,
       "edgeCount": 0,
       "density": 0,
-      "quality": "disconnected",
-      "score": 5,
-      "nodes": [
-        {
-          "id": "909bf891-d1c0-4122-9a27-9ee65d8d7d31",
-          "prototypeId": "459c23ac-b30d-41ab-b33f-2817875bc192",
-          "name": "booboo"
-        },
-        {
-          "id": "4c730011-e757-4a06-89f2-7a989de6a3f2",
-          "prototypeId": "89d717ec-9ca1-4323-82df-f14eb0e7199d",
-          "name": "Greeby"
-        }
-      ],
+      "quality": "empty",
+      "score": 0,
+      "nodes": [],
       "edges": [],
-      "text": "Graph: New Thing (fa8cca19-514b-4df6-90ad-baf115428dbc)\nNodes (2 total):\n- booboo [909bf891-d1c0-4122-9a27-9ee65d8d7d31]\n- Greeby [4c730011-e757-4a06-89f2-7a989de6a3f2]\n\nEdges (0 total):",
-      "computedAt": 1759683942092
+      "text": "Graph: New Thing (3d8a9ba6-24fd-48cd-85b4-8af51d2bc814)\nNodes (0 total):\n\nEdges (0 total):",
+      "computedAt": 1759684022409
     }
   }
 }
