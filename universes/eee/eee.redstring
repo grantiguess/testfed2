@@ -211,9 +211,9 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-05T17:07:02.409Z",
-    "modified": "2025-10-05T17:07:02.409Z",
-    "title": "New Thing",
+    "created": "2025-10-05T17:07:05.408Z",
+    "modified": "2025-10-05T17:07:05.408Z",
+    "title": "jdsfaj",
     "description": "",
     "domain": null,
     "userURIs": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:07:02.408Z"
+          "redstring:lastViewed": "2025-10-05T17:07:05.408Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -268,16 +268,24 @@
           "schema:Thing"
         ],
         "@id": "prototype:61ba562d-cb21-48ab-b5e2-4438804ff50d",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "jdsfaj",
         "rdfs:comment": "",
-        "name": "New Thing",
+        "name": "jdsfaj",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/New_Thing",
+          "http://dbpedia.org/resource/New_Thing",
+          "http://www.wikidata.org/entity/Q16998778"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": null,
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/New_Thing",
+          "http://dbpedia.org/resource/New_Thing",
+          "http://www.wikidata.org/entity/Q16998778"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -294,7 +302,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:07:02.408Z"
+          "redstring:lastViewed": "2025-10-05T17:07:05.408Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -309,7 +317,7 @@
       "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814": {
         "@type": "redstring:SpatialGraph",
         "@id": "graph:3d8a9ba6-24fd-48cd-85b4-8af51d2bc814",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "jdsfaj",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
           "61ba562d-cb21-48ab-b5e2-4438804ff50d"
@@ -335,7 +343,7 @@
     "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814": {
       "@type": "redstring:SpatialGraph",
       "@id": "graph:3d8a9ba6-24fd-48cd-85b4-8af51d2bc814",
-      "rdfs:label": "New Thing",
+      "rdfs:label": "jdsfaj",
       "rdfs:comment": "",
       "redstring:definingNodeIds": [
         "61ba562d-cb21-48ab-b5e2-4438804ff50d"
@@ -380,7 +388,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T17:07:02.408Z"
+        "redstring:lastViewed": "2025-10-05T17:07:05.408Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -391,16 +399,24 @@
         "schema:Thing"
       ],
       "@id": "prototype:61ba562d-cb21-48ab-b5e2-4438804ff50d",
-      "rdfs:label": "New Thing",
+      "rdfs:label": "jdsfaj",
       "rdfs:comment": "",
-      "name": "New Thing",
+      "name": "jdsfaj",
       "description": "",
-      "rdfs:seeAlso": [],
+      "rdfs:seeAlso": [
+        "https://en.wikipedia.org/wiki/New_Thing",
+        "http://dbpedia.org/resource/New_Thing",
+        "http://www.wikidata.org/entity/Q16998778"
+      ],
       "rdfs:isDefinedBy": {
         "@id": "https://redstring.io"
       },
       "rdfs:subClassOf": null,
-      "owl:sameAs": [],
+      "owl:sameAs": [
+        "https://en.wikipedia.org/wiki/New_Thing",
+        "http://dbpedia.org/resource/New_Thing",
+        "http://www.wikidata.org/entity/Q16998778"
+      ],
       "owl:equivalentClass": [],
       "redstring:spatialContext": {
         "redstring:xCoordinate": 0,
@@ -417,7 +433,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T17:07:02.408Z"
+        "redstring:lastViewed": "2025-10-05T17:07:05.408Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -460,7 +476,7 @@
       "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814": {
         "@type": "redstring:SpatialGraph",
         "@id": "graph:3d8a9ba6-24fd-48cd-85b4-8af51d2bc814",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "jdsfaj",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
           "61ba562d-cb21-48ab-b5e2-4438804ff50d"
@@ -505,7 +521,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:07:02.408Z"
+          "redstring:lastViewed": "2025-10-05T17:07:05.408Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -516,16 +532,24 @@
           "schema:Thing"
         ],
         "@id": "prototype:61ba562d-cb21-48ab-b5e2-4438804ff50d",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "jdsfaj",
         "rdfs:comment": "",
-        "name": "New Thing",
+        "name": "jdsfaj",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/New_Thing",
+          "http://dbpedia.org/resource/New_Thing",
+          "http://www.wikidata.org/entity/Q16998778"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": null,
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/New_Thing",
+          "http://dbpedia.org/resource/New_Thing",
+          "http://www.wikidata.org/entity/Q16998778"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -542,7 +566,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:07:02.408Z"
+          "redstring:lastViewed": "2025-10-05T17:07:05.408Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -557,7 +581,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1759684022408,
+        "computedAt": 1759684025408,
         "truncated": false
       }
     }
@@ -565,7 +589,7 @@
   "graphSummaries": {
     "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814": {
       "id": "3d8a9ba6-24fd-48cd-85b4-8af51d2bc814",
-      "name": "New Thing",
+      "name": "jdsfaj",
       "description": "",
       "nodeCount": 0,
       "edgeCount": 0,
@@ -574,8 +598,8 @@
       "score": 0,
       "nodes": [],
       "edges": [],
-      "text": "Graph: New Thing (3d8a9ba6-24fd-48cd-85b4-8af51d2bc814)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1759684022409
+      "text": "Graph: jdsfaj (3d8a9ba6-24fd-48cd-85b4-8af51d2bc814)\nNodes (0 total):\n\nEdges (0 total):",
+      "computedAt": 1759684025408
     }
   }
 }
