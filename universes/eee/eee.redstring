@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-05T21:52:24.969Z",
-    "modified": "2025-10-05T21:52:24.969Z",
+    "created": "2025-10-05T21:52:39.967Z",
+    "modified": "2025-10-05T21:52:39.967Z",
     "title": "Kettle",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+          "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -272,12 +272,20 @@
         "rdfs:comment": "The base type for all connections. Connections are edges, relationships, verbs, actions, predicates, links, or whatever you want them to be. They will always be at the bottom of the connection abstraction stack. They are the \"bonds\" of your Redstring Universe.",
         "name": "Connection",
         "description": "The base type for all connections. Connections are edges, relationships, verbs, actions, predicates, links, or whatever you want them to be. They will always be at the bottom of the connection abstraction stack. They are the \"bonds\" of your Redstring Universe.",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Connection",
+          "http://dbpedia.org/resource/Connection",
+          "http://www.wikidata.org/entity/Q1126224"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": null,
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Connection",
+          "http://dbpedia.org/resource/Connection",
+          "http://www.wikidata.org/entity/Q1126224"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -291,7 +299,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+          "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -341,7 +349,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+          "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -375,7 +383,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+          "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -412,7 +420,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+          "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -449,7 +457,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+          "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -486,7 +494,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+          "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -531,7 +539,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+          "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -557,10 +565,10 @@
           "af54a4d7-a7aa-4c08-a413-d39e2330f3ec"
         ],
         "redstring:panOffset": {
-          "x": -16056.458575796145,
-          "y": -15749.061927521288
+          "x": -13705.245813993457,
+          "y": -13835.735855729448
         },
-        "redstring:zoomLevel": 0.3309374421737815,
+        "redstring:zoomLevel": 0.2903332804335941,
         "redstring:instances": {
           "b595a5f5-5cb7-47bc-9a21-902ef264b0d3": {
             "@type": "redstring:Instance",
@@ -754,10 +762,10 @@
         "af54a4d7-a7aa-4c08-a413-d39e2330f3ec"
       ],
       "redstring:panOffset": {
-        "x": -16056.458575796145,
-        "y": -15749.061927521288
+        "x": -13705.245813993457,
+        "y": -13835.735855729448
       },
-      "redstring:zoomLevel": 0.3309374421737815,
+      "redstring:zoomLevel": 0.2903332804335941,
       "redstring:instances": {
         "b595a5f5-5cb7-47bc-9a21-902ef264b0d3": {
           "@type": "redstring:Instance",
@@ -864,7 +872,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+        "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -879,12 +887,20 @@
       "rdfs:comment": "The base type for all connections. Connections are edges, relationships, verbs, actions, predicates, links, or whatever you want them to be. They will always be at the bottom of the connection abstraction stack. They are the \"bonds\" of your Redstring Universe.",
       "name": "Connection",
       "description": "The base type for all connections. Connections are edges, relationships, verbs, actions, predicates, links, or whatever you want them to be. They will always be at the bottom of the connection abstraction stack. They are the \"bonds\" of your Redstring Universe.",
-      "rdfs:seeAlso": [],
+      "rdfs:seeAlso": [
+        "https://en.wikipedia.org/wiki/Connection",
+        "http://dbpedia.org/resource/Connection",
+        "http://www.wikidata.org/entity/Q1126224"
+      ],
       "rdfs:isDefinedBy": {
         "@id": "https://redstring.io"
       },
       "rdfs:subClassOf": null,
-      "owl:sameAs": [],
+      "owl:sameAs": [
+        "https://en.wikipedia.org/wiki/Connection",
+        "http://dbpedia.org/resource/Connection",
+        "http://www.wikidata.org/entity/Q1126224"
+      ],
       "owl:equivalentClass": [],
       "redstring:spatialContext": {
         "redstring:xCoordinate": 0,
@@ -898,7 +914,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+        "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -948,7 +964,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+        "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -982,7 +998,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+        "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -1019,7 +1035,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+        "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -1056,7 +1072,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+        "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -1093,7 +1109,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+        "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -1138,7 +1154,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+        "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -1270,13 +1286,13 @@
         "type": "node",
         "nodeId": "base-connection-prototype",
         "title": "Connection",
-        "isActive": false
+        "isActive": true
       },
       {
         "type": "node",
         "nodeId": "4373d9ea-745b-4b1b-9cac-4aaa1809fa72",
         "title": "Kettle",
-        "isActive": true
+        "isActive": false
       },
       {
         "type": "node",
@@ -1305,10 +1321,10 @@
           "af54a4d7-a7aa-4c08-a413-d39e2330f3ec"
         ],
         "redstring:panOffset": {
-          "x": -16056.458575796145,
-          "y": -15749.061927521288
+          "x": -13705.245813993457,
+          "y": -13835.735855729448
         },
-        "redstring:zoomLevel": 0.3309374421737815,
+        "redstring:zoomLevel": 0.2903332804335941,
         "redstring:instances": {
           "b595a5f5-5cb7-47bc-9a21-902ef264b0d3": {
             "@type": "redstring:Instance",
@@ -1415,7 +1431,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+          "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1430,12 +1446,20 @@
         "rdfs:comment": "The base type for all connections. Connections are edges, relationships, verbs, actions, predicates, links, or whatever you want them to be. They will always be at the bottom of the connection abstraction stack. They are the \"bonds\" of your Redstring Universe.",
         "name": "Connection",
         "description": "The base type for all connections. Connections are edges, relationships, verbs, actions, predicates, links, or whatever you want them to be. They will always be at the bottom of the connection abstraction stack. They are the \"bonds\" of your Redstring Universe.",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Connection",
+          "http://dbpedia.org/resource/Connection",
+          "http://www.wikidata.org/entity/Q1126224"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": null,
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Connection",
+          "http://dbpedia.org/resource/Connection",
+          "http://www.wikidata.org/entity/Q1126224"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -1449,7 +1473,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+          "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1499,7 +1523,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+          "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1533,7 +1557,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+          "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1570,7 +1594,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+          "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1607,7 +1631,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+          "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1644,7 +1668,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+          "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1689,7 +1713,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:52:24.968Z"
+          "redstring:lastViewed": "2025-10-05T21:52:39.967Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1826,7 +1850,7 @@
           "x": 778.3250227150056,
           "y": -628.954943849938
         },
-        "computedAt": 1759701144968,
+        "computedAt": 1759701159967,
         "truncated": false
       }
     }
@@ -1885,7 +1909,7 @@
         }
       ],
       "text": "Graph: Kettle (ddceae7a-0048-4e91-8ec4-588b29c1e7e5)\nNodes (3 total):\n- Kettle [b595a5f5-5cb7-47bc-9a21-902ef264b0d3]\n- dfa [3f5ae5f3-af25-44a5-ab15-0677cf7b1577]\n- Thing [91230552-ee07-44ca-86e9-55ec16919abd]\n\nEdges (3 total):\n- Kettle → dfa (Connection)\n- Thing → dfa (Connection)\n- Thing → Kettle (Connection)",
-      "computedAt": 1759701144969
+      "computedAt": 1759701159967
     }
   }
 }
