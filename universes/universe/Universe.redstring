@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-05T03:19:48.761Z",
-    "modified": "2025-10-05T03:19:48.761Z",
+    "created": "2025-10-05T03:19:59.449Z",
+    "modified": "2025-10-05T03:19:59.449Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -258,7 +258,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T03:19:48.761Z"
+          "redstring:lastViewed": "2025-10-05T03:19:59.449Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -273,20 +273,12 @@
         "rdfs:comment": "",
         "name": "New Thing",
         "description": "",
-        "rdfs:seeAlso": [
-          "https://en.wikipedia.org/wiki/New_Thing",
-          "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
-        ],
+        "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": null,
-        "owl:sameAs": [
-          "https://en.wikipedia.org/wiki/New_Thing",
-          "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
-        ],
+        "owl:sameAs": [],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -303,7 +295,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T03:19:48.761Z"
+          "redstring:lastViewed": "2025-10-05T03:19:59.449Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -390,7 +382,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T03:19:48.761Z"
+        "redstring:lastViewed": "2025-10-05T03:19:59.449Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -405,20 +397,12 @@
       "rdfs:comment": "",
       "name": "New Thing",
       "description": "",
-      "rdfs:seeAlso": [
-        "https://en.wikipedia.org/wiki/New_Thing",
-        "http://dbpedia.org/resource/New_Thing",
-        "http://www.wikidata.org/entity/Q16998778"
-      ],
+      "rdfs:seeAlso": [],
       "rdfs:isDefinedBy": {
         "@id": "https://redstring.io"
       },
       "rdfs:subClassOf": null,
-      "owl:sameAs": [
-        "https://en.wikipedia.org/wiki/New_Thing",
-        "http://dbpedia.org/resource/New_Thing",
-        "http://www.wikidata.org/entity/Q16998778"
-      ],
+      "owl:sameAs": [],
       "owl:equivalentClass": [],
       "redstring:spatialContext": {
         "redstring:xCoordinate": 0,
@@ -435,7 +419,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T03:19:48.761Z"
+        "redstring:lastViewed": "2025-10-05T03:19:59.449Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -524,7 +508,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T03:19:48.761Z"
+          "redstring:lastViewed": "2025-10-05T03:19:59.449Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -539,20 +523,12 @@
         "rdfs:comment": "",
         "name": "New Thing",
         "description": "",
-        "rdfs:seeAlso": [
-          "https://en.wikipedia.org/wiki/New_Thing",
-          "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
-        ],
+        "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": null,
-        "owl:sameAs": [
-          "https://en.wikipedia.org/wiki/New_Thing",
-          "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
-        ],
+        "owl:sameAs": [],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -569,7 +545,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T03:19:48.761Z"
+          "redstring:lastViewed": "2025-10-05T03:19:59.449Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -584,7 +560,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1759634388761,
+        "computedAt": 1759634399449,
         "truncated": false
       }
     }
@@ -602,7 +578,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: New Thing (a3f124af-af5c-4d49-b203-ac2f788a9941)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1759634388761
+      "computedAt": 1759634399449
     }
   }
 }
