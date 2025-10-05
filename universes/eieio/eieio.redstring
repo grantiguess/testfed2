@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-05T02:17:44.343Z",
-    "modified": "2025-10-05T02:17:44.343Z",
+    "created": "2025-10-05T02:18:18.570Z",
+    "modified": "2025-10-05T02:18:18.570Z",
     "title": "Sigma",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T02:17:44.342Z"
+          "redstring:lastViewed": "2025-10-05T02:18:18.569Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -301,7 +301,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T02:17:44.342Z"
+          "redstring:lastViewed": "2025-10-05T02:18:18.569Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -342,7 +342,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T02:17:44.342Z"
+          "redstring:lastViewed": "2025-10-05T02:18:18.569Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -379,7 +379,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T02:17:44.342Z"
+          "redstring:lastViewed": "2025-10-05T02:18:18.569Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -586,7 +586,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T02:17:44.342Z"
+        "redstring:lastViewed": "2025-10-05T02:18:18.569Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -630,7 +630,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T02:17:44.342Z"
+        "redstring:lastViewed": "2025-10-05T02:18:18.569Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -671,7 +671,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T02:17:44.342Z"
+        "redstring:lastViewed": "2025-10-05T02:18:18.569Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -708,7 +708,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T02:17:44.342Z"
+        "redstring:lastViewed": "2025-10-05T02:18:18.569Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -882,7 +882,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T02:17:44.342Z"
+          "redstring:lastViewed": "2025-10-05T02:18:18.569Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -926,7 +926,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T02:17:44.342Z"
+          "redstring:lastViewed": "2025-10-05T02:18:18.569Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -967,7 +967,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T02:17:44.342Z"
+          "redstring:lastViewed": "2025-10-05T02:18:18.569Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1004,7 +1004,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T02:17:44.342Z"
+          "redstring:lastViewed": "2025-10-05T02:18:18.569Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1079,7 +1079,7 @@
           "x": -1075,
           "y": -50
         },
-        "computedAt": 1759630664343,
+        "computedAt": 1759630698570,
         "truncated": false
       }
     }
@@ -1117,7 +1117,7 @@
         }
       ],
       "text": "Graph: Sigma (1b5fa8ec-11d9-4f87-933b-a993bd8ee70a)\nNodes (2 total):\n- ppp [3f975a74-e167-4d6a-84dc-24d0b8ff6bd3]\n- ll bean [a73f6b38-a10c-4bd5-a3ba-fd937b0d9156]\n\nEdges (1 total):\n- ppp → ll bean (base-connection-prototype)",
-      "computedAt": 1759630664343
+      "computedAt": 1759630698570
     }
   }
 }
