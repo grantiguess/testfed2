@@ -211,9 +211,9 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-05T17:08:00.616Z",
-    "modified": "2025-10-05T17:08:00.616Z",
-    "title": "Loop",
+    "created": "2025-10-05T17:09:52.705Z",
+    "modified": "2025-10-05T17:09:52.705Z",
+    "title": "New Thing",
     "description": "",
     "domain": null,
     "userURIs": null,
@@ -257,20 +257,20 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:08:00.616Z"
+          "redstring:lastViewed": "2025-10-05T17:09:52.705Z"
         },
         "redstring:abstractionChains": {}
       },
-      "7996ceee-c57b-416c-ac24-c92bcb80de25": {
+      "d18a267c-aa9b-4748-81b5-b811f4961759": {
         "@type": [
           "redstring:Prototype",
           "rdfs:Class",
           "schema:Thing"
         ],
-        "@id": "prototype:7996ceee-c57b-416c-ac24-c92bcb80de25",
-        "rdfs:label": "Loop",
+        "@id": "prototype:d18a267c-aa9b-4748-81b5-b811f4961759",
+        "rdfs:label": "New Thing",
         "rdfs:comment": "",
-        "name": "Loop",
+        "name": "New Thing",
         "description": "",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
@@ -296,13 +296,13 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [
-          "ef61e050-238b-4306-95c1-8bf95d2c6254"
+          "120c2276-d63b-4787-8e10-2f086d7480df"
         ],
         "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:08:00.616Z"
+          "redstring:lastViewed": "2025-10-05T17:09:52.705Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -314,13 +314,13 @@
     "rdfs:label": "RedString Spatial Graphs",
     "rdfs:comment": "Collection of positioned instances within spatial graphs",
     "graphs": {
-      "ef61e050-238b-4306-95c1-8bf95d2c6254": {
+      "120c2276-d63b-4787-8e10-2f086d7480df": {
         "@type": "redstring:SpatialGraph",
-        "@id": "graph:ef61e050-238b-4306-95c1-8bf95d2c6254",
-        "rdfs:label": "Loop",
+        "@id": "graph:120c2276-d63b-4787-8e10-2f086d7480df",
+        "rdfs:label": "New Thing",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
-          "7996ceee-c57b-416c-ac24-c92bcb80de25"
+          "d18a267c-aa9b-4748-81b5-b811f4961759"
         ],
         "redstring:edgeIds": [],
         "redstring:instances": {},
@@ -340,13 +340,13 @@
     "edges": {}
   },
   "graphs": {
-    "ef61e050-238b-4306-95c1-8bf95d2c6254": {
+    "120c2276-d63b-4787-8e10-2f086d7480df": {
       "@type": "redstring:SpatialGraph",
-      "@id": "graph:ef61e050-238b-4306-95c1-8bf95d2c6254",
-      "rdfs:label": "Loop",
+      "@id": "graph:120c2276-d63b-4787-8e10-2f086d7480df",
+      "rdfs:label": "New Thing",
       "rdfs:comment": "",
       "redstring:definingNodeIds": [
-        "7996ceee-c57b-416c-ac24-c92bcb80de25"
+        "d18a267c-aa9b-4748-81b5-b811f4961759"
       ],
       "redstring:edgeIds": [],
       "redstring:instances": {},
@@ -388,20 +388,20 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T17:08:00.616Z"
+        "redstring:lastViewed": "2025-10-05T17:09:52.705Z"
       },
       "redstring:abstractionChains": {}
     },
-    "7996ceee-c57b-416c-ac24-c92bcb80de25": {
+    "d18a267c-aa9b-4748-81b5-b811f4961759": {
       "@type": [
         "redstring:Prototype",
         "rdfs:Class",
         "schema:Thing"
       ],
-      "@id": "prototype:7996ceee-c57b-416c-ac24-c92bcb80de25",
-      "rdfs:label": "Loop",
+      "@id": "prototype:d18a267c-aa9b-4748-81b5-b811f4961759",
+      "rdfs:label": "New Thing",
       "rdfs:comment": "",
-      "name": "Loop",
+      "name": "New Thing",
       "description": "",
       "rdfs:seeAlso": [
         "https://en.wikipedia.org/wiki/New_Thing",
@@ -427,13 +427,13 @@
         "redstring:cognitiveColor": "#8B0000"
       },
       "redstring:definitionGraphIds": [
-        "ef61e050-238b-4306-95c1-8bf95d2c6254"
+        "120c2276-d63b-4787-8e10-2f086d7480df"
       ],
       "redstring:typeNodeId": null,
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T17:08:00.616Z"
+        "redstring:lastViewed": "2025-10-05T17:09:52.705Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -454,12 +454,12 @@
   "userInterface": {
     "@type": "redstring:UserInterfaceState",
     "redstring:openGraphIds": [
-      "ef61e050-238b-4306-95c1-8bf95d2c6254"
+      "120c2276-d63b-4787-8e10-2f086d7480df"
     ],
-    "redstring:activeGraphId": "ef61e050-238b-4306-95c1-8bf95d2c6254",
-    "redstring:activeDefinitionNodeId": "7996ceee-c57b-416c-ac24-c92bcb80de25",
+    "redstring:activeGraphId": "120c2276-d63b-4787-8e10-2f086d7480df",
+    "redstring:activeDefinitionNodeId": "d18a267c-aa9b-4748-81b5-b811f4961759",
     "redstring:expandedGraphIds": [
-      "ef61e050-238b-4306-95c1-8bf95d2c6254"
+      "120c2276-d63b-4787-8e10-2f086d7480df"
     ],
     "redstring:rightPanelTabs": [
       {
@@ -473,13 +473,13 @@
   },
   "legacy": {
     "graphs": {
-      "ef61e050-238b-4306-95c1-8bf95d2c6254": {
+      "120c2276-d63b-4787-8e10-2f086d7480df": {
         "@type": "redstring:SpatialGraph",
-        "@id": "graph:ef61e050-238b-4306-95c1-8bf95d2c6254",
-        "rdfs:label": "Loop",
+        "@id": "graph:120c2276-d63b-4787-8e10-2f086d7480df",
+        "rdfs:label": "New Thing",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
-          "7996ceee-c57b-416c-ac24-c92bcb80de25"
+          "d18a267c-aa9b-4748-81b5-b811f4961759"
         ],
         "redstring:edgeIds": [],
         "redstring:instances": {},
@@ -521,20 +521,20 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:08:00.616Z"
+          "redstring:lastViewed": "2025-10-05T17:09:52.705Z"
         },
         "redstring:abstractionChains": {}
       },
-      "7996ceee-c57b-416c-ac24-c92bcb80de25": {
+      "d18a267c-aa9b-4748-81b5-b811f4961759": {
         "@type": [
           "redstring:Prototype",
           "rdfs:Class",
           "schema:Thing"
         ],
-        "@id": "prototype:7996ceee-c57b-416c-ac24-c92bcb80de25",
-        "rdfs:label": "Loop",
+        "@id": "prototype:d18a267c-aa9b-4748-81b5-b811f4961759",
+        "rdfs:label": "New Thing",
         "rdfs:comment": "",
-        "name": "Loop",
+        "name": "New Thing",
         "description": "",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
@@ -560,13 +560,13 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [
-          "ef61e050-238b-4306-95c1-8bf95d2c6254"
+          "120c2276-d63b-4787-8e10-2f086d7480df"
         ],
         "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T17:08:00.616Z"
+          "redstring:lastViewed": "2025-10-05T17:09:52.705Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -574,22 +574,22 @@
     "edges": {}
   },
   "graphLayouts": {
-    "ef61e050-238b-4306-95c1-8bf95d2c6254": {
+    "120c2276-d63b-4787-8e10-2f086d7480df": {
       "nodes": {},
       "metadata": {
         "nodeCount": 0,
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1759684080616,
+        "computedAt": 1759684192705,
         "truncated": false
       }
     }
   },
   "graphSummaries": {
-    "ef61e050-238b-4306-95c1-8bf95d2c6254": {
-      "id": "ef61e050-238b-4306-95c1-8bf95d2c6254",
-      "name": "Loop",
+    "120c2276-d63b-4787-8e10-2f086d7480df": {
+      "id": "120c2276-d63b-4787-8e10-2f086d7480df",
+      "name": "New Thing",
       "description": "",
       "nodeCount": 0,
       "edgeCount": 0,
@@ -598,8 +598,8 @@
       "score": 0,
       "nodes": [],
       "edges": [],
-      "text": "Graph: Loop (ef61e050-238b-4306-95c1-8bf95d2c6254)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1759684080616
+      "text": "Graph: New Thing (120c2276-d63b-4787-8e10-2f086d7480df)\nNodes (0 total):\n\nEdges (0 total):",
+      "computedAt": 1759684192705
     }
   }
 }
