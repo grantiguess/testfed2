@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-05T21:00:39.115Z",
-    "modified": "2025-10-05T21:00:39.115Z",
+    "created": "2025-10-05T21:01:03.759Z",
+    "modified": "2025-10-05T21:01:03.759Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:00:39.114Z"
+          "redstring:lastViewed": "2025-10-05T21:01:03.758Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -301,7 +301,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:00:39.114Z"
+          "redstring:lastViewed": "2025-10-05T21:01:03.759Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -338,7 +338,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:00:39.115Z"
+          "redstring:lastViewed": "2025-10-05T21:01:03.759Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -375,7 +375,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:00:39.115Z"
+          "redstring:lastViewed": "2025-10-05T21:01:03.759Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -401,10 +401,10 @@
           "b1d3ed0e-44d7-4b07-8ab5-05be21ccbf69"
         ],
         "redstring:panOffset": {
-          "x": -9012.391383173983,
-          "y": -9524.547366461302
+          "x": -17976.71826444037,
+          "y": -18565.488491015167
         },
-        "redstring:zoomLevel": 0.19917892061613948,
+        "redstring:zoomLevel": 0.3799440750001356,
         "redstring:instances": {
           "c13b6ef3-a2b0-4d5c-b5b6-f586e44b9eb7": {
             "@type": "redstring:Instance",
@@ -628,10 +628,10 @@
         "b1d3ed0e-44d7-4b07-8ab5-05be21ccbf69"
       ],
       "redstring:panOffset": {
-        "x": -9012.391383173983,
-        "y": -9524.547366461302
+        "x": -17976.71826444037,
+        "y": -18565.488491015167
       },
-      "redstring:zoomLevel": 0.19917892061613948,
+      "redstring:zoomLevel": 0.3799440750001356,
       "redstring:instances": {
         "c13b6ef3-a2b0-4d5c-b5b6-f586e44b9eb7": {
           "@type": "redstring:Instance",
@@ -748,7 +748,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:00:39.114Z"
+        "redstring:lastViewed": "2025-10-05T21:01:03.758Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -792,7 +792,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:00:39.114Z"
+        "redstring:lastViewed": "2025-10-05T21:01:03.759Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -829,7 +829,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:00:39.115Z"
+        "redstring:lastViewed": "2025-10-05T21:01:03.759Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -866,7 +866,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": true,
-        "redstring:lastViewed": "2025-10-05T21:00:39.115Z"
+        "redstring:lastViewed": "2025-10-05T21:01:03.759Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -1037,10 +1037,10 @@
           "b1d3ed0e-44d7-4b07-8ab5-05be21ccbf69"
         ],
         "redstring:panOffset": {
-          "x": -9012.391383173983,
-          "y": -9524.547366461302
+          "x": -17976.71826444037,
+          "y": -18565.488491015167
         },
-        "redstring:zoomLevel": 0.19917892061613948,
+        "redstring:zoomLevel": 0.3799440750001356,
         "redstring:instances": {
           "c13b6ef3-a2b0-4d5c-b5b6-f586e44b9eb7": {
             "@type": "redstring:Instance",
@@ -1157,7 +1157,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:00:39.114Z"
+          "redstring:lastViewed": "2025-10-05T21:01:03.758Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1201,7 +1201,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:00:39.114Z"
+          "redstring:lastViewed": "2025-10-05T21:01:03.759Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1238,7 +1238,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:00:39.115Z"
+          "redstring:lastViewed": "2025-10-05T21:01:03.759Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1275,7 +1275,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:00:39.115Z"
+          "redstring:lastViewed": "2025-10-05T21:01:03.759Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1438,7 +1438,7 @@
           "x": 11922.837460277287,
           "y": 12210.7882872137
         },
-        "computedAt": 1759698039115,
+        "computedAt": 1759698063759,
         "truncated": false
       }
     }
@@ -1502,7 +1502,7 @@
         }
       ],
       "text": "Graph: New Thing (7fa61952-60d3-4250-967c-ff4cd7e83825)\nNodes (4 total):\n- Thing [c13b6ef3-a2b0-4d5c-b5b6-f586e44b9eb7]\n- d [2a7986e1-06a5-4f72-a064-72ff78c1ad37]\n- Passover [4ce87983-c44c-475d-8692-4665e0748d4b]\n- New Thing [fa39a359-9bca-4a17-b147-84b1ad67fe97]\n\nEdges (3 total):\n- Thing → d (base-connection-prototype)\n- Thing → New Thing (base-connection-prototype)\n- d → New Thing (base-connection-prototype)",
-      "computedAt": 1759698039115
+      "computedAt": 1759698063759
     }
   }
 }
