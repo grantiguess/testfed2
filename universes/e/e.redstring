@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-06T15:16:41.726Z",
-    "modified": "2025-10-06T15:16:41.726Z",
+    "created": "2025-10-06T15:16:49.387Z",
+    "modified": "2025-10-06T15:16:49.387Z",
     "title": "big chugnugs",
     "description": "",
     "domain": null,
@@ -254,11 +254,10 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:16:41.726Z"
+          "redstring:lastViewed": "2025-10-06T15:16:49.386Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -299,11 +298,10 @@
         "redstring:definitionGraphIds": [
           "30eaa0b8-b2d7-4558-b3c8-490aca5fd630"
         ],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:16:41.726Z"
+          "redstring:lastViewed": "2025-10-06T15:16:49.386Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -340,7 +338,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:16:41.726Z"
+          "redstring:lastViewed": "2025-10-06T15:16:49.386Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -473,11 +471,10 @@
         "redstring:cognitiveColor": "#8B0000"
       },
       "redstring:definitionGraphIds": [],
-      "redstring:typeNodeId": null,
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T15:16:41.726Z"
+        "redstring:lastViewed": "2025-10-06T15:16:49.386Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -518,11 +515,10 @@
       "redstring:definitionGraphIds": [
         "30eaa0b8-b2d7-4558-b3c8-490aca5fd630"
       ],
-      "redstring:typeNodeId": null,
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T15:16:41.726Z"
+        "redstring:lastViewed": "2025-10-06T15:16:49.386Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -559,7 +555,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T15:16:41.726Z"
+        "redstring:lastViewed": "2025-10-06T15:16:49.386Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -669,11 +665,10 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:16:41.726Z"
+          "redstring:lastViewed": "2025-10-06T15:16:49.386Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -714,11 +709,10 @@
         "redstring:definitionGraphIds": [
           "30eaa0b8-b2d7-4558-b3c8-490aca5fd630"
         ],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:16:41.726Z"
+          "redstring:lastViewed": "2025-10-06T15:16:49.386Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -755,7 +749,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:16:41.726Z"
+          "redstring:lastViewed": "2025-10-06T15:16:49.386Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -785,7 +779,7 @@
           "x": -382,
           "y": -207.5
         },
-        "computedAt": 1759763801726,
+        "computedAt": 1759763809387,
         "truncated": false
       }
     }
@@ -809,7 +803,7 @@
       ],
       "edges": [],
       "text": "Graph: big chugnugs (30eaa0b8-b2d7-4558-b3c8-490aca5fd630)\nNodes (1 total):\n- ee [7bf55af3-bac9-4e69-b9dd-d968fb857e01]\n\nEdges (0 total):",
-      "computedAt": 1759763801726
+      "computedAt": 1759763809387
     }
   }
 }
