@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-06T16:12:17.345Z",
-    "modified": "2025-10-06T16:12:17.345Z",
+    "created": "2025-10-06T16:12:26.583Z",
+    "modified": "2025-10-06T16:12:26.583Z",
     "title": "Walter White (Breaking Bad Character)",
     "description": "",
     "domain": null,
@@ -259,7 +259,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:12:17.345Z"
+          "redstring:lastViewed": "2025-10-06T16:12:26.582Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -306,7 +306,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:12:17.345Z"
+          "redstring:lastViewed": "2025-10-06T16:12:26.582Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -356,7 +356,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:12:17.345Z"
+          "redstring:lastViewed": "2025-10-06T16:12:26.582Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -378,10 +378,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -5920.194784047576,
-          "y": -7011.077950498349
+          "x": -829.9613160342697,
+          "y": -2050.234963786168
         },
-        "redstring:zoomLevel": 0.15233260066959273,
+        "redstring:zoomLevel": 0.05,
         "redstring:instances": {},
         "redstring:groups": {},
         "redstring:visualProperties": {
@@ -451,10 +451,10 @@
       ],
       "redstring:edgeIds": [],
       "redstring:panOffset": {
-        "x": -5920.194784047576,
-        "y": -7011.077950498349
+        "x": -829.9613160342697,
+        "y": -2050.234963786168
       },
-      "redstring:zoomLevel": 0.15233260066959273,
+      "redstring:zoomLevel": 0.05,
       "redstring:instances": {},
       "redstring:groups": {},
       "redstring:visualProperties": {
@@ -538,7 +538,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T16:12:17.345Z"
+        "redstring:lastViewed": "2025-10-06T16:12:26.582Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -585,7 +585,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T16:12:17.345Z"
+        "redstring:lastViewed": "2025-10-06T16:12:26.582Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -635,7 +635,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T16:12:17.345Z"
+        "redstring:lastViewed": "2025-10-06T16:12:26.582Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -701,10 +701,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -5920.194784047576,
-          "y": -7011.077950498349
+          "x": -829.9613160342697,
+          "y": -2050.234963786168
         },
-        "redstring:zoomLevel": 0.15233260066959273,
+        "redstring:zoomLevel": 0.05,
         "redstring:instances": {},
         "redstring:groups": {},
         "redstring:visualProperties": {
@@ -788,7 +788,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:12:17.345Z"
+          "redstring:lastViewed": "2025-10-06T16:12:26.582Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -835,7 +835,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:12:17.345Z"
+          "redstring:lastViewed": "2025-10-06T16:12:26.582Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -885,7 +885,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:12:17.345Z"
+          "redstring:lastViewed": "2025-10-06T16:12:26.582Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -900,7 +900,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1759767137345,
+        "computedAt": 1759767146582,
         "truncated": false
       }
     },
@@ -911,7 +911,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1759767137345,
+        "computedAt": 1759767146582,
         "truncated": false
       }
     },
@@ -922,7 +922,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1759767137345,
+        "computedAt": 1759767146582,
         "truncated": false
       }
     }
@@ -940,7 +940,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: Walter White (Breaking Bad Character) (8b9e0e6b-318a-4e6a-bf6d-9aac693224e8)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1759767137345
+      "computedAt": 1759767146583
     },
     "d1f718b3-4f00-4299-b495-2ec983763f8d": {
       "id": "d1f718b3-4f00-4299-b495-2ec983763f8d",
@@ -954,7 +954,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: ee (d1f718b3-4f00-4299-b495-2ec983763f8d)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1759767137345
+      "computedAt": 1759767146583
     },
     "4e7b9d29-6fcc-411a-bc42-7fc060838e06": {
       "id": "4e7b9d29-6fcc-411a-bc42-7fc060838e06",
@@ -968,7 +968,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: Thing (4e7b9d29-6fcc-411a-bc42-7fc060838e06)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1759767137345
+      "computedAt": 1759767146583
     }
   }
 }
