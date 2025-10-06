@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-06T15:26:22.391Z",
-    "modified": "2025-10-06T15:26:22.391Z",
+    "created": "2025-10-06T15:26:53.455Z",
+    "modified": "2025-10-06T15:26:53.455Z",
     "title": "big chugnugs",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:26:22.391Z"
+          "redstring:lastViewed": "2025-10-06T15:26:53.454Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -301,7 +301,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:26:22.391Z"
+          "redstring:lastViewed": "2025-10-06T15:26:53.454Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -338,7 +338,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:26:22.391Z"
+          "redstring:lastViewed": "2025-10-06T15:26:53.454Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -383,7 +383,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:26:22.391Z"
+          "redstring:lastViewed": "2025-10-06T15:26:53.454Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -405,10 +405,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -57687.08978495059,
-          "y": -58164.22459498282
+          "x": -50788.7300981681,
+          "y": -51540.05820275164
         },
-        "redstring:zoomLevel": 1.1754967955796782,
+        "redstring:zoomLevel": 1.0414350902142935,
         "redstring:instances": {
           "7bf55af3-bac9-4e69-b9dd-d968fb857e01": {
             "@type": "redstring:Instance",
@@ -456,10 +456,10 @@
       ],
       "redstring:edgeIds": [],
       "redstring:panOffset": {
-        "x": -57687.08978495059,
-        "y": -58164.22459498282
+        "x": -50788.7300981681,
+        "y": -51540.05820275164
       },
-      "redstring:zoomLevel": 1.1754967955796782,
+      "redstring:zoomLevel": 1.0414350902142935,
       "redstring:instances": {
         "7bf55af3-bac9-4e69-b9dd-d968fb857e01": {
           "@type": "redstring:Instance",
@@ -519,7 +519,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T15:26:22.391Z"
+        "redstring:lastViewed": "2025-10-06T15:26:53.454Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -563,7 +563,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T15:26:22.391Z"
+        "redstring:lastViewed": "2025-10-06T15:26:53.454Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -600,7 +600,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T15:26:22.391Z"
+        "redstring:lastViewed": "2025-10-06T15:26:53.454Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -645,7 +645,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T15:26:22.391Z"
+        "redstring:lastViewed": "2025-10-06T15:26:53.454Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -701,10 +701,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -57687.08978495059,
-          "y": -58164.22459498282
+          "x": -50788.7300981681,
+          "y": -51540.05820275164
         },
-        "redstring:zoomLevel": 1.1754967955796782,
+        "redstring:zoomLevel": 1.0414350902142935,
         "redstring:instances": {
           "7bf55af3-bac9-4e69-b9dd-d968fb857e01": {
             "@type": "redstring:Instance",
@@ -764,7 +764,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:26:22.391Z"
+          "redstring:lastViewed": "2025-10-06T15:26:53.454Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -808,7 +808,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:26:22.391Z"
+          "redstring:lastViewed": "2025-10-06T15:26:53.454Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -845,7 +845,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:26:22.391Z"
+          "redstring:lastViewed": "2025-10-06T15:26:53.454Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -890,7 +890,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:26:22.391Z"
+          "redstring:lastViewed": "2025-10-06T15:26:53.454Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -920,7 +920,7 @@
           "x": -382,
           "y": -207.5
         },
-        "computedAt": 1759764382391,
+        "computedAt": 1759764413455,
         "truncated": false
       }
     }
@@ -944,7 +944,7 @@
       ],
       "edges": [],
       "text": "Graph: big chugnugs (30eaa0b8-b2d7-4558-b3c8-490aca5fd630)\nNodes (1 total):\n- ee [7bf55af3-bac9-4e69-b9dd-d968fb857e01]\n\nEdges (0 total):",
-      "computedAt": 1759764382391
+      "computedAt": 1759764413455
     }
   }
 }
