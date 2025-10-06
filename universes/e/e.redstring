@@ -211,9 +211,9 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-06T16:26:06.588Z",
-    "modified": "2025-10-06T16:26:06.588Z",
-    "title": "Walter White (Breaking Bad Character)",
+    "created": "2025-10-06T16:37:39.581Z",
+    "modified": "2025-10-06T16:37:39.581Z",
+    "title": "Walter White (Breaking Bad)",
     "description": "",
     "domain": null,
     "userURIs": null,
@@ -259,7 +259,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:26:06.587Z"
+          "redstring:lastViewed": "2025-10-06T16:37:39.580Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -306,7 +306,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:26:06.587Z"
+          "redstring:lastViewed": "2025-10-06T16:37:39.580Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -317,9 +317,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:cbeb8ff7-7283-4aa4-bc4b-7fee11f7f83c",
-        "rdfs:label": "Walter White (Breaking Bad Character)",
+        "rdfs:label": "Walter White (Breaking Bad)",
         "rdfs:comment": "Walter Hartwell White Sr., also known by his alias Heisenberg, is a fictional character and the main protagonist of the American crime drama television series Breaking Bad. He is portrayed by Bryan Cranston.",
-        "name": "Walter White (Breaking Bad Character)",
+        "name": "Walter White (Breaking Bad)",
         "description": "Walter Hartwell White Sr., also known by his alias Heisenberg, is a fictional character and the main protagonist of the American crime drama television series Breaking Bad. He is portrayed by Bryan Cranston.",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/Walter_White",
@@ -356,7 +356,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:26:06.587Z"
+          "redstring:lastViewed": "2025-10-06T16:37:39.580Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -402,7 +402,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:26:06.587Z"
+          "redstring:lastViewed": "2025-10-06T16:37:39.580Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -448,7 +448,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:26:06.587Z"
+          "redstring:lastViewed": "2025-10-06T16:37:39.580Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -482,7 +482,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:26:06.587Z"
+          "redstring:lastViewed": "2025-10-06T16:37:39.580Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -497,7 +497,7 @@
       "8b9e0e6b-318a-4e6a-bf6d-9aac693224e8": {
         "@type": "redstring:SpatialGraph",
         "@id": "graph:8b9e0e6b-318a-4e6a-bf6d-9aac693224e8",
-        "rdfs:label": "Walter White (Breaking Bad Character)",
+        "rdfs:label": "Walter White (Breaking Bad)",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
           "cbeb8ff7-7283-4aa4-bc4b-7fee11f7f83c"
@@ -506,10 +506,10 @@
           "4fbe3109-70cf-4dae-b4f9-e556153a1053"
         ],
         "redstring:panOffset": {
-          "x": -30772.75566921365,
-          "y": -31274.833481887697
+          "x": -22447.17802692964,
+          "y": -22883.507957307073
         },
-        "redstring:zoomLevel": 0.6512834134784217,
+        "redstring:zoomLevel": 0.4799218991081655,
         "redstring:instances": {
           "d24460e7-8af0-48ad-90a5-68aa01b643f3": {
             "@type": "redstring:Instance",
@@ -629,7 +629,7 @@
     "8b9e0e6b-318a-4e6a-bf6d-9aac693224e8": {
       "@type": "redstring:SpatialGraph",
       "@id": "graph:8b9e0e6b-318a-4e6a-bf6d-9aac693224e8",
-      "rdfs:label": "Walter White (Breaking Bad Character)",
+      "rdfs:label": "Walter White (Breaking Bad)",
       "rdfs:comment": "",
       "redstring:definingNodeIds": [
         "cbeb8ff7-7283-4aa4-bc4b-7fee11f7f83c"
@@ -638,10 +638,10 @@
         "4fbe3109-70cf-4dae-b4f9-e556153a1053"
       ],
       "redstring:panOffset": {
-        "x": -30772.75566921365,
-        "y": -31274.833481887697
+        "x": -22447.17802692964,
+        "y": -22883.507957307073
       },
-      "redstring:zoomLevel": 0.6512834134784217,
+      "redstring:zoomLevel": 0.4799218991081655,
       "redstring:instances": {
         "d24460e7-8af0-48ad-90a5-68aa01b643f3": {
           "@type": "redstring:Instance",
@@ -764,7 +764,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T16:26:06.587Z"
+        "redstring:lastViewed": "2025-10-06T16:37:39.580Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -811,7 +811,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T16:26:06.587Z"
+        "redstring:lastViewed": "2025-10-06T16:37:39.580Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -822,9 +822,9 @@
         "schema:Thing"
       ],
       "@id": "prototype:cbeb8ff7-7283-4aa4-bc4b-7fee11f7f83c",
-      "rdfs:label": "Walter White (Breaking Bad Character)",
+      "rdfs:label": "Walter White (Breaking Bad)",
       "rdfs:comment": "Walter Hartwell White Sr., also known by his alias Heisenberg, is a fictional character and the main protagonist of the American crime drama television series Breaking Bad. He is portrayed by Bryan Cranston.",
-      "name": "Walter White (Breaking Bad Character)",
+      "name": "Walter White (Breaking Bad)",
       "description": "Walter Hartwell White Sr., also known by his alias Heisenberg, is a fictional character and the main protagonist of the American crime drama television series Breaking Bad. He is portrayed by Bryan Cranston.",
       "rdfs:seeAlso": [
         "https://en.wikipedia.org/wiki/Walter_White",
@@ -861,7 +861,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T16:26:06.587Z"
+        "redstring:lastViewed": "2025-10-06T16:37:39.580Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -907,7 +907,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T16:26:06.587Z"
+        "redstring:lastViewed": "2025-10-06T16:37:39.580Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -953,7 +953,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T16:26:06.587Z"
+        "redstring:lastViewed": "2025-10-06T16:37:39.580Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -987,7 +987,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T16:26:06.587Z"
+        "redstring:lastViewed": "2025-10-06T16:37:39.580Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -1040,12 +1040,12 @@
     "redstring:rightPanelTabs": [
       {
         "type": "home",
-        "isActive": false
+        "isActive": true
       },
       {
         "type": "node",
         "nodeId": "cbeb8ff7-7283-4aa4-bc4b-7fee11f7f83c",
-        "title": "Walter White (Breaking Bad Character)",
+        "title": "Walter White (Breaking Bad)",
         "isActive": false
       },
       {
@@ -1064,7 +1064,7 @@
         "type": "node",
         "nodeId": "7763a31e-0911-4101-9a81-65953452acdf",
         "title": "Baldness",
-        "isActive": true
+        "isActive": false
       }
     ],
     "redstring:savedNodeIds": [],
@@ -1076,7 +1076,7 @@
       "8b9e0e6b-318a-4e6a-bf6d-9aac693224e8": {
         "@type": "redstring:SpatialGraph",
         "@id": "graph:8b9e0e6b-318a-4e6a-bf6d-9aac693224e8",
-        "rdfs:label": "Walter White (Breaking Bad Character)",
+        "rdfs:label": "Walter White (Breaking Bad)",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
           "cbeb8ff7-7283-4aa4-bc4b-7fee11f7f83c"
@@ -1085,10 +1085,10 @@
           "4fbe3109-70cf-4dae-b4f9-e556153a1053"
         ],
         "redstring:panOffset": {
-          "x": -30772.75566921365,
-          "y": -31274.833481887697
+          "x": -22447.17802692964,
+          "y": -22883.507957307073
         },
-        "redstring:zoomLevel": 0.6512834134784217,
+        "redstring:zoomLevel": 0.4799218991081655,
         "redstring:instances": {
           "d24460e7-8af0-48ad-90a5-68aa01b643f3": {
             "@type": "redstring:Instance",
@@ -1211,7 +1211,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:26:06.587Z"
+          "redstring:lastViewed": "2025-10-06T16:37:39.580Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1258,7 +1258,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:26:06.587Z"
+          "redstring:lastViewed": "2025-10-06T16:37:39.580Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1269,9 +1269,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:cbeb8ff7-7283-4aa4-bc4b-7fee11f7f83c",
-        "rdfs:label": "Walter White (Breaking Bad Character)",
+        "rdfs:label": "Walter White (Breaking Bad)",
         "rdfs:comment": "Walter Hartwell White Sr., also known by his alias Heisenberg, is a fictional character and the main protagonist of the American crime drama television series Breaking Bad. He is portrayed by Bryan Cranston.",
-        "name": "Walter White (Breaking Bad Character)",
+        "name": "Walter White (Breaking Bad)",
         "description": "Walter Hartwell White Sr., also known by his alias Heisenberg, is a fictional character and the main protagonist of the American crime drama television series Breaking Bad. He is portrayed by Bryan Cranston.",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/Walter_White",
@@ -1308,7 +1308,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:26:06.587Z"
+          "redstring:lastViewed": "2025-10-06T16:37:39.580Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1354,7 +1354,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:26:06.587Z"
+          "redstring:lastViewed": "2025-10-06T16:37:39.580Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1400,7 +1400,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:26:06.587Z"
+          "redstring:lastViewed": "2025-10-06T16:37:39.580Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1434,7 +1434,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:26:06.587Z"
+          "redstring:lastViewed": "2025-10-06T16:37:39.580Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1488,7 +1488,7 @@
           "x": -1175.251492731757,
           "y": -1047.3671540818214
         },
-        "computedAt": 1759767966587,
+        "computedAt": 1759768659580,
         "truncated": false
       }
     },
@@ -1499,7 +1499,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1759767966587,
+        "computedAt": 1759768659580,
         "truncated": false
       }
     },
@@ -1510,7 +1510,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1759767966587,
+        "computedAt": 1759768659580,
         "truncated": false
       }
     }
@@ -1518,7 +1518,7 @@
   "graphSummaries": {
     "8b9e0e6b-318a-4e6a-bf6d-9aac693224e8": {
       "id": "8b9e0e6b-318a-4e6a-bf6d-9aac693224e8",
-      "name": "Walter White (Breaking Bad Character)",
+      "name": "Walter White (Breaking Bad)",
       "description": "",
       "nodeCount": 2,
       "edgeCount": 1,
@@ -1547,8 +1547,8 @@
           "targetLabel": "Baldness"
         }
       ],
-      "text": "Graph: Walter White (Breaking Bad Character) (8b9e0e6b-318a-4e6a-bf6d-9aac693224e8)\nNodes (2 total):\n- Porkpie Hat [d24460e7-8af0-48ad-90a5-68aa01b643f3]\n- Baldness [6fc2864e-9537-4db5-b981-5661d0ada1e7]\n\nEdges (1 total):\n- Porkpie Hat → Baldness (base-connection-prototype)",
-      "computedAt": 1759767966588
+      "text": "Graph: Walter White (Breaking Bad) (8b9e0e6b-318a-4e6a-bf6d-9aac693224e8)\nNodes (2 total):\n- Porkpie Hat [d24460e7-8af0-48ad-90a5-68aa01b643f3]\n- Baldness [6fc2864e-9537-4db5-b981-5661d0ada1e7]\n\nEdges (1 total):\n- Porkpie Hat → Baldness (base-connection-prototype)",
+      "computedAt": 1759768659581
     },
     "d1f718b3-4f00-4299-b495-2ec983763f8d": {
       "id": "d1f718b3-4f00-4299-b495-2ec983763f8d",
@@ -1562,7 +1562,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: ee (d1f718b3-4f00-4299-b495-2ec983763f8d)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1759767966588
+      "computedAt": 1759768659581
     },
     "4e7b9d29-6fcc-411a-bc42-7fc060838e06": {
       "id": "4e7b9d29-6fcc-411a-bc42-7fc060838e06",
@@ -1576,7 +1576,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: Thing (4e7b9d29-6fcc-411a-bc42-7fc060838e06)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1759767966588
+      "computedAt": 1759768659581
     }
   }
 }
