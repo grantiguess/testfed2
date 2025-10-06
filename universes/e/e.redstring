@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-06T16:12:35.581Z",
-    "modified": "2025-10-06T16:12:35.581Z",
+    "created": "2025-10-06T16:12:41.594Z",
+    "modified": "2025-10-06T16:12:41.594Z",
     "title": "Walter White (Breaking Bad Character)",
     "description": "",
     "domain": null,
@@ -259,7 +259,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:12:35.580Z"
+          "redstring:lastViewed": "2025-10-06T16:12:41.594Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -306,7 +306,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:12:35.580Z"
+          "redstring:lastViewed": "2025-10-06T16:12:41.594Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -356,7 +356,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:12:35.580Z"
+          "redstring:lastViewed": "2025-10-06T16:12:41.594Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -402,7 +402,50 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:12:35.581Z"
+          "redstring:lastViewed": "2025-10-06T16:12:41.594Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "7763a31e-0911-4101-9a81-65953452acdf": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:7763a31e-0911-4101-9a81-65953452acdf",
+        "rdfs:label": "Baldness",
+        "rdfs:comment": "",
+        "name": "Baldness",
+        "description": "",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Hair_loss",
+          "http://dbpedia.org/resource/Baldness"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Hair_loss",
+          "http://dbpedia.org/resource/Baldness"
+        ],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-10-06T16:12:41.594Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -424,10 +467,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -69761.72102491677,
-          "y": -70756.08046634648
+          "x": -28677.045597903318,
+          "y": -29846.855601118612
         },
-        "redstring:zoomLevel": 1.448712612026427,
+        "redstring:zoomLevel": 0.6149454223468971,
         "redstring:instances": {
           "d24460e7-8af0-48ad-90a5-68aa01b643f3": {
             "@type": "redstring:Instance",
@@ -447,6 +490,25 @@
             },
             "redstring:visualProperties": {},
             "redstring:prototypeId": "232a3128-3b46-4677-ba99-ff058e360a8d"
+          },
+          "6fc2864e-9537-4db5-b981-5661d0ada1e7": {
+            "@type": "redstring:Instance",
+            "@id": "instance:6fc2864e-9537-4db5-b981-5661d0ada1e7",
+            "rdf:type": {
+              "@id": "prototype:7763a31e-0911-4101-9a81-65953452acdf"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:8b9e0e6b-318a-4e6a-bf6d-9aac693224e8"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -1174.5251171959026,
+              "redstring:yCoordinate": -408.43102203288436,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "7763a31e-0911-4101-9a81-65953452acdf"
           }
         },
         "redstring:groups": {},
@@ -517,10 +579,10 @@
       ],
       "redstring:edgeIds": [],
       "redstring:panOffset": {
-        "x": -69761.72102491677,
-        "y": -70756.08046634648
+        "x": -28677.045597903318,
+        "y": -29846.855601118612
       },
-      "redstring:zoomLevel": 1.448712612026427,
+      "redstring:zoomLevel": 0.6149454223468971,
       "redstring:instances": {
         "d24460e7-8af0-48ad-90a5-68aa01b643f3": {
           "@type": "redstring:Instance",
@@ -540,6 +602,25 @@
           },
           "redstring:visualProperties": {},
           "redstring:prototypeId": "232a3128-3b46-4677-ba99-ff058e360a8d"
+        },
+        "6fc2864e-9537-4db5-b981-5661d0ada1e7": {
+          "@type": "redstring:Instance",
+          "@id": "instance:6fc2864e-9537-4db5-b981-5661d0ada1e7",
+          "rdf:type": {
+            "@id": "prototype:7763a31e-0911-4101-9a81-65953452acdf"
+          },
+          "rdfs:label": null,
+          "rdfs:comment": null,
+          "redstring:containedIn": {
+            "@id": "graph:8b9e0e6b-318a-4e6a-bf6d-9aac693224e8"
+          },
+          "redstring:spatialContext": {
+            "redstring:xCoordinate": -1174.5251171959026,
+            "redstring:yCoordinate": -408.43102203288436,
+            "redstring:spatialScale": 1
+          },
+          "redstring:visualProperties": {},
+          "redstring:prototypeId": "7763a31e-0911-4101-9a81-65953452acdf"
         }
       },
       "redstring:groups": {},
@@ -624,7 +705,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T16:12:35.580Z"
+        "redstring:lastViewed": "2025-10-06T16:12:41.594Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -671,7 +752,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T16:12:35.580Z"
+        "redstring:lastViewed": "2025-10-06T16:12:41.594Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -721,7 +802,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T16:12:35.580Z"
+        "redstring:lastViewed": "2025-10-06T16:12:41.594Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -767,7 +848,50 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T16:12:35.581Z"
+        "redstring:lastViewed": "2025-10-06T16:12:41.594Z"
+      },
+      "redstring:abstractionChains": {}
+    },
+    "7763a31e-0911-4101-9a81-65953452acdf": {
+      "@type": [
+        "redstring:Prototype",
+        "rdfs:Class",
+        "schema:Thing"
+      ],
+      "@id": "prototype:7763a31e-0911-4101-9a81-65953452acdf",
+      "rdfs:label": "Baldness",
+      "rdfs:comment": "",
+      "name": "Baldness",
+      "description": "",
+      "rdfs:seeAlso": [
+        "https://en.wikipedia.org/wiki/Hair_loss",
+        "http://dbpedia.org/resource/Baldness"
+      ],
+      "rdfs:isDefinedBy": {
+        "@id": "https://redstring.io"
+      },
+      "rdfs:subClassOf": {
+        "@id": "type:base-thing-prototype"
+      },
+      "owl:sameAs": [
+        "https://en.wikipedia.org/wiki/Hair_loss",
+        "http://dbpedia.org/resource/Baldness"
+      ],
+      "owl:equivalentClass": [],
+      "redstring:spatialContext": {
+        "redstring:xCoordinate": 0,
+        "redstring:yCoordinate": 0,
+        "redstring:spatialScale": 1
+      },
+      "redstring:visualProperties": {
+        "redstring:cognitiveColor": "#8B0000"
+      },
+      "redstring:definitionGraphIds": [],
+      "redstring:typeNodeId": "base-thing-prototype",
+      "redstring:citations": [],
+      "redstring:cognitiveProperties": {
+        "redstring:bookmarked": false,
+        "redstring:lastViewed": "2025-10-06T16:12:41.594Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -820,6 +944,12 @@
         "type": "node",
         "nodeId": "232a3128-3b46-4677-ba99-ff058e360a8d",
         "title": "Porkpie Hat",
+        "isActive": false
+      },
+      {
+        "type": "node",
+        "nodeId": "7763a31e-0911-4101-9a81-65953452acdf",
+        "title": "Baldness",
         "isActive": true
       }
     ],
@@ -839,10 +969,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -69761.72102491677,
-          "y": -70756.08046634648
+          "x": -28677.045597903318,
+          "y": -29846.855601118612
         },
-        "redstring:zoomLevel": 1.448712612026427,
+        "redstring:zoomLevel": 0.6149454223468971,
         "redstring:instances": {
           "d24460e7-8af0-48ad-90a5-68aa01b643f3": {
             "@type": "redstring:Instance",
@@ -862,6 +992,25 @@
             },
             "redstring:visualProperties": {},
             "redstring:prototypeId": "232a3128-3b46-4677-ba99-ff058e360a8d"
+          },
+          "6fc2864e-9537-4db5-b981-5661d0ada1e7": {
+            "@type": "redstring:Instance",
+            "@id": "instance:6fc2864e-9537-4db5-b981-5661d0ada1e7",
+            "rdf:type": {
+              "@id": "prototype:7763a31e-0911-4101-9a81-65953452acdf"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:8b9e0e6b-318a-4e6a-bf6d-9aac693224e8"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": -1174.5251171959026,
+              "redstring:yCoordinate": -408.43102203288436,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "7763a31e-0911-4101-9a81-65953452acdf"
           }
         },
         "redstring:groups": {},
@@ -946,7 +1095,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:12:35.580Z"
+          "redstring:lastViewed": "2025-10-06T16:12:41.594Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -993,7 +1142,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:12:35.580Z"
+          "redstring:lastViewed": "2025-10-06T16:12:41.594Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1043,7 +1192,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:12:35.580Z"
+          "redstring:lastViewed": "2025-10-06T16:12:41.594Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1089,7 +1238,50 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T16:12:35.581Z"
+          "redstring:lastViewed": "2025-10-06T16:12:41.594Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "7763a31e-0911-4101-9a81-65953452acdf": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:7763a31e-0911-4101-9a81-65953452acdf",
+        "rdfs:label": "Baldness",
+        "rdfs:comment": "",
+        "name": "Baldness",
+        "description": "",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Hair_loss",
+          "http://dbpedia.org/resource/Baldness"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Hair_loss",
+          "http://dbpedia.org/resource/Baldness"
+        ],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-10-06T16:12:41.594Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1104,22 +1296,28 @@
           "y": -1021.823523669329,
           "scale": 1,
           "prototypeId": "232a3128-3b46-4677-ba99-ff058e360a8d"
+        },
+        "6fc2864e-9537-4db5-b981-5661d0ada1e7": {
+          "x": -1174.5251171959026,
+          "y": -408.43102203288436,
+          "scale": 1,
+          "prototypeId": "7763a31e-0911-4101-9a81-65953452acdf"
         }
       },
       "metadata": {
-        "nodeCount": 1,
+        "nodeCount": 2,
         "edgeCount": 0,
         "boundingBox": {
           "minX": -1187.3896035814105,
           "minY": -1021.823523669329,
-          "maxX": -1187.3896035814105,
-          "maxY": -1021.823523669329
+          "maxX": -1174.5251171959026,
+          "maxY": -408.43102203288436
         },
         "centroid": {
-          "x": -1187.3896035814105,
-          "y": -1021.823523669329
+          "x": -1180.9573603886565,
+          "y": -715.1272728511067
         },
-        "computedAt": 1759767155581,
+        "computedAt": 1759767161594,
         "truncated": false
       }
     },
@@ -1130,7 +1328,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1759767155581,
+        "computedAt": 1759767161594,
         "truncated": false
       }
     },
@@ -1141,7 +1339,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1759767155581,
+        "computedAt": 1759767161594,
         "truncated": false
       }
     }
@@ -1151,21 +1349,26 @@
       "id": "8b9e0e6b-318a-4e6a-bf6d-9aac693224e8",
       "name": "Walter White (Breaking Bad Character)",
       "description": "",
-      "nodeCount": 1,
+      "nodeCount": 2,
       "edgeCount": 0,
       "density": 0,
-      "quality": "single",
-      "score": 10,
+      "quality": "disconnected",
+      "score": 5,
       "nodes": [
         {
           "id": "d24460e7-8af0-48ad-90a5-68aa01b643f3",
           "prototypeId": "232a3128-3b46-4677-ba99-ff058e360a8d",
           "name": "Porkpie Hat"
+        },
+        {
+          "id": "6fc2864e-9537-4db5-b981-5661d0ada1e7",
+          "prototypeId": "7763a31e-0911-4101-9a81-65953452acdf",
+          "name": "Baldness"
         }
       ],
       "edges": [],
-      "text": "Graph: Walter White (Breaking Bad Character) (8b9e0e6b-318a-4e6a-bf6d-9aac693224e8)\nNodes (1 total):\n- Porkpie Hat [d24460e7-8af0-48ad-90a5-68aa01b643f3]\n\nEdges (0 total):",
-      "computedAt": 1759767155581
+      "text": "Graph: Walter White (Breaking Bad Character) (8b9e0e6b-318a-4e6a-bf6d-9aac693224e8)\nNodes (2 total):\n- Porkpie Hat [d24460e7-8af0-48ad-90a5-68aa01b643f3]\n- Baldness [6fc2864e-9537-4db5-b981-5661d0ada1e7]\n\nEdges (0 total):",
+      "computedAt": 1759767161594
     },
     "d1f718b3-4f00-4299-b495-2ec983763f8d": {
       "id": "d1f718b3-4f00-4299-b495-2ec983763f8d",
@@ -1179,7 +1382,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: ee (d1f718b3-4f00-4299-b495-2ec983763f8d)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1759767155581
+      "computedAt": 1759767161594
     },
     "4e7b9d29-6fcc-411a-bc42-7fc060838e06": {
       "id": "4e7b9d29-6fcc-411a-bc42-7fc060838e06",
@@ -1193,7 +1396,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: Thing (4e7b9d29-6fcc-411a-bc42-7fc060838e06)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1759767155581
+      "computedAt": 1759767161594
     }
   }
 }
