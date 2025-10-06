@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-06T15:26:13.391Z",
-    "modified": "2025-10-06T15:26:13.391Z",
+    "created": "2025-10-06T15:26:16.390Z",
+    "modified": "2025-10-06T15:26:16.390Z",
     "title": "big chugnugs",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:26:13.390Z"
+          "redstring:lastViewed": "2025-10-06T15:26:16.390Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -301,7 +301,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:26:13.390Z"
+          "redstring:lastViewed": "2025-10-06T15:26:16.390Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -338,7 +338,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:26:13.390Z"
+          "redstring:lastViewed": "2025-10-06T15:26:16.390Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -350,17 +350,25 @@
         ],
         "@id": "prototype:cbeb8ff7-7283-4aa4-bc4b-7fee11f7f83c",
         "rdfs:label": "Walter White",
-        "rdfs:comment": "",
+        "rdfs:comment": "Walter White may refer to:",
         "name": "Walter White",
-        "description": "",
-        "rdfs:seeAlso": [],
+        "description": "Walter White may refer to:",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Walter_White",
+          "http://dbpedia.org/resource/Category:Walter_White",
+          "http://www.wikidata.org/entity/Q21463691"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Walter_White",
+          "http://dbpedia.org/resource/Category:Walter_White",
+          "http://www.wikidata.org/entity/Q21463691"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -375,7 +383,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:26:13.390Z"
+          "redstring:lastViewed": "2025-10-06T15:26:16.390Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -549,7 +557,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T15:26:13.390Z"
+        "redstring:lastViewed": "2025-10-06T15:26:16.390Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -593,7 +601,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T15:26:13.390Z"
+        "redstring:lastViewed": "2025-10-06T15:26:16.390Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -630,7 +638,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T15:26:13.390Z"
+        "redstring:lastViewed": "2025-10-06T15:26:16.390Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -642,17 +650,25 @@
       ],
       "@id": "prototype:cbeb8ff7-7283-4aa4-bc4b-7fee11f7f83c",
       "rdfs:label": "Walter White",
-      "rdfs:comment": "",
+      "rdfs:comment": "Walter White may refer to:",
       "name": "Walter White",
-      "description": "",
-      "rdfs:seeAlso": [],
+      "description": "Walter White may refer to:",
+      "rdfs:seeAlso": [
+        "https://en.wikipedia.org/wiki/Walter_White",
+        "http://dbpedia.org/resource/Category:Walter_White",
+        "http://www.wikidata.org/entity/Q21463691"
+      ],
       "rdfs:isDefinedBy": {
         "@id": "https://redstring.io"
       },
       "rdfs:subClassOf": {
         "@id": "type:base-thing-prototype"
       },
-      "owl:sameAs": [],
+      "owl:sameAs": [
+        "https://en.wikipedia.org/wiki/Walter_White",
+        "http://dbpedia.org/resource/Category:Walter_White",
+        "http://www.wikidata.org/entity/Q21463691"
+      ],
       "owl:equivalentClass": [],
       "redstring:spatialContext": {
         "redstring:xCoordinate": 0,
@@ -667,7 +683,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T15:26:13.390Z"
+        "redstring:lastViewed": "2025-10-06T15:26:16.390Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -698,6 +714,12 @@
     "redstring:rightPanelTabs": [
       {
         "type": "home",
+        "isActive": false
+      },
+      {
+        "type": "node",
+        "nodeId": "cbeb8ff7-7283-4aa4-bc4b-7fee11f7f83c",
+        "title": "Walter White",
         "isActive": true
       }
     ],
@@ -799,7 +821,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:26:13.390Z"
+          "redstring:lastViewed": "2025-10-06T15:26:16.390Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -843,7 +865,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:26:13.390Z"
+          "redstring:lastViewed": "2025-10-06T15:26:16.390Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -880,7 +902,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:26:13.390Z"
+          "redstring:lastViewed": "2025-10-06T15:26:16.390Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -892,17 +914,25 @@
         ],
         "@id": "prototype:cbeb8ff7-7283-4aa4-bc4b-7fee11f7f83c",
         "rdfs:label": "Walter White",
-        "rdfs:comment": "",
+        "rdfs:comment": "Walter White may refer to:",
         "name": "Walter White",
-        "description": "",
-        "rdfs:seeAlso": [],
+        "description": "Walter White may refer to:",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Walter_White",
+          "http://dbpedia.org/resource/Category:Walter_White",
+          "http://www.wikidata.org/entity/Q21463691"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Walter_White",
+          "http://dbpedia.org/resource/Category:Walter_White",
+          "http://www.wikidata.org/entity/Q21463691"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -917,7 +947,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:26:13.390Z"
+          "redstring:lastViewed": "2025-10-06T15:26:16.390Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -953,7 +983,7 @@
           "x": -57.082549275513884,
           "y": -204.87363481773355
         },
-        "computedAt": 1759764373391,
+        "computedAt": 1759764376390,
         "truncated": false
       }
     }
@@ -982,7 +1012,7 @@
       ],
       "edges": [],
       "text": "Graph: big chugnugs (30eaa0b8-b2d7-4558-b3c8-490aca5fd630)\nNodes (2 total):\n- ee [7bf55af3-bac9-4e69-b9dd-d968fb857e01]\n- Walter White [e447b189-2ea2-4b82-a11e-f9e94a5c5544]\n\nEdges (0 total):",
-      "computedAt": 1759764373391
+      "computedAt": 1759764376390
     }
   }
 }
