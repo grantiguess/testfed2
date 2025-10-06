@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-06T15:28:35.454Z",
-    "modified": "2025-10-06T15:28:35.454Z",
+    "created": "2025-10-06T15:28:47.454Z",
+    "modified": "2025-10-06T15:28:47.454Z",
     "title": "big chugnugs",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:28:35.454Z"
+          "redstring:lastViewed": "2025-10-06T15:28:47.454Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -301,7 +301,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:28:35.454Z"
+          "redstring:lastViewed": "2025-10-06T15:28:47.454Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -316,14 +316,22 @@
         "rdfs:comment": "",
         "name": "ee",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/EE",
+          "http://dbpedia.org/property/ee",
+          "http://www.wikidata.org/entity/Q29724234"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/EE",
+          "http://dbpedia.org/property/ee",
+          "http://www.wikidata.org/entity/Q29724234"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -338,7 +346,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:28:35.454Z"
+          "redstring:lastViewed": "2025-10-06T15:28:47.454Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -383,7 +391,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:28:35.454Z"
+          "redstring:lastViewed": "2025-10-06T15:28:47.454Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -405,10 +413,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -146620.1386948981,
-          "y": -149511.99519819237
+          "x": -46878.70519248753,
+          "y": -48420.3338372745
         },
-        "redstring:zoomLevel": 3,
+        "redstring:zoomLevel": 0.979374123227082,
         "redstring:instances": {
           "7bf55af3-bac9-4e69-b9dd-d968fb857e01": {
             "@type": "redstring:Instance",
@@ -422,8 +430,8 @@
               "@id": "graph:30eaa0b8-b2d7-4558-b3c8-490aca5fd630"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": -872.2642159866591,
-              "redstring:yCoordinate": -129.9714879217645,
+              "redstring:xCoordinate": -1025.42325546153,
+              "redstring:yCoordinate": 126.3146381328479,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
@@ -456,10 +464,10 @@
       ],
       "redstring:edgeIds": [],
       "redstring:panOffset": {
-        "x": -146620.1386948981,
-        "y": -149511.99519819237
+        "x": -46878.70519248753,
+        "y": -48420.3338372745
       },
-      "redstring:zoomLevel": 3,
+      "redstring:zoomLevel": 0.979374123227082,
       "redstring:instances": {
         "7bf55af3-bac9-4e69-b9dd-d968fb857e01": {
           "@type": "redstring:Instance",
@@ -473,8 +481,8 @@
             "@id": "graph:30eaa0b8-b2d7-4558-b3c8-490aca5fd630"
           },
           "redstring:spatialContext": {
-            "redstring:xCoordinate": -872.2642159866591,
-            "redstring:yCoordinate": -129.9714879217645,
+            "redstring:xCoordinate": -1025.42325546153,
+            "redstring:yCoordinate": 126.3146381328479,
             "redstring:spatialScale": 1
           },
           "redstring:visualProperties": {},
@@ -519,7 +527,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T15:28:35.454Z"
+        "redstring:lastViewed": "2025-10-06T15:28:47.454Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -563,7 +571,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T15:28:35.454Z"
+        "redstring:lastViewed": "2025-10-06T15:28:47.454Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -578,14 +586,22 @@
       "rdfs:comment": "",
       "name": "ee",
       "description": "",
-      "rdfs:seeAlso": [],
+      "rdfs:seeAlso": [
+        "https://en.wikipedia.org/wiki/EE",
+        "http://dbpedia.org/property/ee",
+        "http://www.wikidata.org/entity/Q29724234"
+      ],
       "rdfs:isDefinedBy": {
         "@id": "https://redstring.io"
       },
       "rdfs:subClassOf": {
         "@id": "type:base-thing-prototype"
       },
-      "owl:sameAs": [],
+      "owl:sameAs": [
+        "https://en.wikipedia.org/wiki/EE",
+        "http://dbpedia.org/property/ee",
+        "http://www.wikidata.org/entity/Q29724234"
+      ],
       "owl:equivalentClass": [],
       "redstring:spatialContext": {
         "redstring:xCoordinate": 0,
@@ -600,7 +616,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T15:28:35.454Z"
+        "redstring:lastViewed": "2025-10-06T15:28:47.454Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -645,7 +661,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T15:28:35.454Z"
+        "redstring:lastViewed": "2025-10-06T15:28:47.454Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -682,6 +698,12 @@
         "type": "node",
         "nodeId": "cbeb8ff7-7283-4aa4-bc4b-7fee11f7f83c",
         "title": "Walter White",
+        "isActive": false
+      },
+      {
+        "type": "node",
+        "nodeId": "b72b85f4-df37-4483-ab41-13dcb34da23d",
+        "title": "ee",
         "isActive": true
       }
     ],
@@ -701,10 +723,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -146620.1386948981,
-          "y": -149511.99519819237
+          "x": -46878.70519248753,
+          "y": -48420.3338372745
         },
-        "redstring:zoomLevel": 3,
+        "redstring:zoomLevel": 0.979374123227082,
         "redstring:instances": {
           "7bf55af3-bac9-4e69-b9dd-d968fb857e01": {
             "@type": "redstring:Instance",
@@ -718,8 +740,8 @@
               "@id": "graph:30eaa0b8-b2d7-4558-b3c8-490aca5fd630"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": -872.2642159866591,
-              "redstring:yCoordinate": -129.9714879217645,
+              "redstring:xCoordinate": -1025.42325546153,
+              "redstring:yCoordinate": 126.3146381328479,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
@@ -764,7 +786,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:28:35.454Z"
+          "redstring:lastViewed": "2025-10-06T15:28:47.454Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -808,7 +830,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:28:35.454Z"
+          "redstring:lastViewed": "2025-10-06T15:28:47.454Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -823,14 +845,22 @@
         "rdfs:comment": "",
         "name": "ee",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/EE",
+          "http://dbpedia.org/property/ee",
+          "http://www.wikidata.org/entity/Q29724234"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/EE",
+          "http://dbpedia.org/property/ee",
+          "http://www.wikidata.org/entity/Q29724234"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -845,7 +875,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:28:35.454Z"
+          "redstring:lastViewed": "2025-10-06T15:28:47.454Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -890,7 +920,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T15:28:35.454Z"
+          "redstring:lastViewed": "2025-10-06T15:28:47.454Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -901,8 +931,8 @@
     "30eaa0b8-b2d7-4558-b3c8-490aca5fd630": {
       "nodes": {
         "7bf55af3-bac9-4e69-b9dd-d968fb857e01": {
-          "x": -872.2642159866591,
-          "y": -129.9714879217645,
+          "x": -1025.42325546153,
+          "y": 126.3146381328479,
           "scale": 1,
           "prototypeId": "b72b85f4-df37-4483-ab41-13dcb34da23d"
         }
@@ -911,16 +941,16 @@
         "nodeCount": 1,
         "edgeCount": 0,
         "boundingBox": {
-          "minX": -872.2642159866591,
-          "minY": -129.9714879217645,
-          "maxX": -872.2642159866591,
-          "maxY": -129.9714879217645
+          "minX": -1025.42325546153,
+          "minY": 126.3146381328479,
+          "maxX": -1025.42325546153,
+          "maxY": 126.3146381328479
         },
         "centroid": {
-          "x": -872.2642159866591,
-          "y": -129.9714879217645
+          "x": -1025.42325546153,
+          "y": 126.3146381328479
         },
-        "computedAt": 1759764515454,
+        "computedAt": 1759764527454,
         "truncated": false
       }
     }
@@ -944,7 +974,7 @@
       ],
       "edges": [],
       "text": "Graph: big chugnugs (30eaa0b8-b2d7-4558-b3c8-490aca5fd630)\nNodes (1 total):\n- ee [7bf55af3-bac9-4e69-b9dd-d968fb857e01]\n\nEdges (0 total):",
-      "computedAt": 1759764515454
+      "computedAt": 1759764527454
     }
   }
 }
