@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-10-19T17:52:50.066Z",
-    "modified": "2025-10-19T17:52:50.066Z",
+    "created": "2025-10-19T17:52:53.066Z",
+    "modified": "2025-10-19T17:52:53.066Z",
     "title": "Chungnugs",
     "description": "",
     "domain": null,
@@ -269,7 +269,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-19T17:52:50.066Z"
+          "redstring:lastViewed": "2025-10-19T17:52:53.066Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -304,7 +304,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-19T17:52:50.066Z"
+          "redstring:lastViewed": "2025-10-19T17:52:53.066Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -442,7 +442,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-19T17:52:50.066Z"
+        "redstring:lastViewed": "2025-10-19T17:52:53.066Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -477,7 +477,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-19T17:52:50.066Z"
+        "redstring:lastViewed": "2025-10-19T17:52:53.066Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -598,7 +598,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-19T17:52:50.066Z"
+          "redstring:lastViewed": "2025-10-19T17:52:53.066Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -633,7 +633,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-19T17:52:50.066Z"
+          "redstring:lastViewed": "2025-10-19T17:52:53.066Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -663,7 +663,7 @@
           "x": -48378.3550374337,
           "y": -49182.4651545972
         },
-        "computedAt": 1760896370066,
+        "computedAt": 1760896373066,
         "truncated": false
       }
     }
@@ -687,7 +687,7 @@
       ],
       "edges": [],
       "text": "Graph: Chungnugs (cf4cc1f8-b13f-4ae4-9d10-6935592cf1f2)\nNodes (1 total):\n- Chungnugs [dcb39cb6-a448-4727-9641-686175fde47a]\n\nEdges (0 total):",
-      "computedAt": 1760896370066
+      "computedAt": 1760896373066
     }
   }
 }
