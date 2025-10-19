@@ -212,9 +212,9 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-10-19T17:53:08.066Z",
-    "modified": "2025-10-19T17:53:08.066Z",
-    "title": "New Thing",
+    "created": "2025-10-19T17:55:08.066Z",
+    "modified": "2025-10-19T17:55:08.066Z",
+    "title": "Chungnugs",
     "description": "",
     "domain": null,
     "userURIs": null,
@@ -269,7 +269,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-19T17:53:08.066Z"
+          "redstring:lastViewed": "2025-10-19T17:55:08.066Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -304,7 +304,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-19T17:53:08.066Z"
+          "redstring:lastViewed": "2025-10-19T17:55:08.066Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -349,7 +349,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-19T17:53:08.066Z"
+          "redstring:lastViewed": "2025-10-19T17:55:08.066Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -371,10 +371,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -481.6424964608789,
-          "y": -349.9379202349094
+          "x": -192.17261163765863,
+          "y": -122.37707062753901
         },
-        "redstring:zoomLevel": 0.8603853169744076,
+        "redstring:zoomLevel": 0.6629801857057086,
         "redstring:instances": {
           "dcb39cb6-a448-4727-9641-686175fde47a": {
             "@type": "redstring:Instance",
@@ -388,9 +388,9 @@
               "@id": "graph:cf4cc1f8-b13f-4ae4-9d10-6935592cf1f2"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": -48378.3550374337,
-              "redstring:yCoordinate": -49182.4651545972,
-              "redstring:spatialScale": 1
+              "redstring:xCoordinate": -47581.951145757856,
+              "redstring:yCoordinate": -48862.69692536372,
+              "redstring:spatialScale": 1.1
             },
             "redstring:visualProperties": {},
             "redstring:prototypeId": "1402c543-5350-4ffc-b6bd-7bb73d0d6a14"
@@ -399,7 +399,7 @@
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
-          "redstring:activeInContext": false
+          "redstring:activeInContext": true
         }
       },
       "48f0a859-625e-4610-a19c-ec6074e642ef": {
@@ -412,15 +412,15 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": 0,
-          "y": 0
+          "x": -49040,
+          "y": -49521
         },
         "redstring:zoomLevel": 1,
         "redstring:instances": {},
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
-          "redstring:activeInContext": true
+          "redstring:activeInContext": false
         }
       }
     }
@@ -443,10 +443,10 @@
       ],
       "redstring:edgeIds": [],
       "redstring:panOffset": {
-        "x": -481.6424964608789,
-        "y": -349.9379202349094
+        "x": -192.17261163765863,
+        "y": -122.37707062753901
       },
-      "redstring:zoomLevel": 0.8603853169744076,
+      "redstring:zoomLevel": 0.6629801857057086,
       "redstring:instances": {
         "dcb39cb6-a448-4727-9641-686175fde47a": {
           "@type": "redstring:Instance",
@@ -460,9 +460,9 @@
             "@id": "graph:cf4cc1f8-b13f-4ae4-9d10-6935592cf1f2"
           },
           "redstring:spatialContext": {
-            "redstring:xCoordinate": -48378.3550374337,
-            "redstring:yCoordinate": -49182.4651545972,
-            "redstring:spatialScale": 1
+            "redstring:xCoordinate": -47581.951145757856,
+            "redstring:yCoordinate": -48862.69692536372,
+            "redstring:spatialScale": 1.1
           },
           "redstring:visualProperties": {},
           "redstring:prototypeId": "1402c543-5350-4ffc-b6bd-7bb73d0d6a14"
@@ -471,7 +471,7 @@
       "redstring:groups": {},
       "redstring:visualProperties": {
         "redstring:expanded": true,
-        "redstring:activeInContext": false
+        "redstring:activeInContext": true
       }
     },
     "48f0a859-625e-4610-a19c-ec6074e642ef": {
@@ -484,15 +484,15 @@
       ],
       "redstring:edgeIds": [],
       "redstring:panOffset": {
-        "x": 0,
-        "y": 0
+        "x": -49040,
+        "y": -49521
       },
       "redstring:zoomLevel": 1,
       "redstring:instances": {},
       "redstring:groups": {},
       "redstring:visualProperties": {
         "redstring:expanded": true,
-        "redstring:activeInContext": true
+        "redstring:activeInContext": false
       }
     }
   },
@@ -529,7 +529,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-19T17:53:08.066Z"
+        "redstring:lastViewed": "2025-10-19T17:55:08.066Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -564,7 +564,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-19T17:53:08.066Z"
+        "redstring:lastViewed": "2025-10-19T17:55:08.066Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -609,7 +609,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-19T17:53:08.066Z"
+        "redstring:lastViewed": "2025-10-19T17:55:08.066Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -630,11 +630,11 @@
   "userInterface": {
     "@type": "redstring:UserInterfaceState",
     "redstring:openGraphIds": [
-      "48f0a859-625e-4610-a19c-ec6074e642ef",
-      "cf4cc1f8-b13f-4ae4-9d10-6935592cf1f2"
+      "cf4cc1f8-b13f-4ae4-9d10-6935592cf1f2",
+      "48f0a859-625e-4610-a19c-ec6074e642ef"
     ],
-    "redstring:activeGraphId": "48f0a859-625e-4610-a19c-ec6074e642ef",
-    "redstring:activeDefinitionNodeId": "034c850c-fa11-46a3-9327-b7c6a874da23",
+    "redstring:activeGraphId": "cf4cc1f8-b13f-4ae4-9d10-6935592cf1f2",
+    "redstring:activeDefinitionNodeId": "1402c543-5350-4ffc-b6bd-7bb73d0d6a14",
     "redstring:expandedGraphIds": [
       "cf4cc1f8-b13f-4ae4-9d10-6935592cf1f2",
       "48f0a859-625e-4610-a19c-ec6074e642ef"
@@ -667,10 +667,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -481.6424964608789,
-          "y": -349.9379202349094
+          "x": -192.17261163765863,
+          "y": -122.37707062753901
         },
-        "redstring:zoomLevel": 0.8603853169744076,
+        "redstring:zoomLevel": 0.6629801857057086,
         "redstring:instances": {
           "dcb39cb6-a448-4727-9641-686175fde47a": {
             "@type": "redstring:Instance",
@@ -684,9 +684,9 @@
               "@id": "graph:cf4cc1f8-b13f-4ae4-9d10-6935592cf1f2"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": -48378.3550374337,
-              "redstring:yCoordinate": -49182.4651545972,
-              "redstring:spatialScale": 1
+              "redstring:xCoordinate": -47581.951145757856,
+              "redstring:yCoordinate": -48862.69692536372,
+              "redstring:spatialScale": 1.1
             },
             "redstring:visualProperties": {},
             "redstring:prototypeId": "1402c543-5350-4ffc-b6bd-7bb73d0d6a14"
@@ -695,7 +695,7 @@
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
-          "redstring:activeInContext": false
+          "redstring:activeInContext": true
         }
       },
       "48f0a859-625e-4610-a19c-ec6074e642ef": {
@@ -708,15 +708,15 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": 0,
-          "y": 0
+          "x": -49040,
+          "y": -49521
         },
         "redstring:zoomLevel": 1,
         "redstring:instances": {},
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
-          "redstring:activeInContext": true
+          "redstring:activeInContext": false
         }
       }
     },
@@ -753,7 +753,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-19T17:53:08.066Z"
+          "redstring:lastViewed": "2025-10-19T17:55:08.066Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -788,7 +788,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-19T17:53:08.066Z"
+          "redstring:lastViewed": "2025-10-19T17:55:08.066Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -833,7 +833,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-19T17:53:08.066Z"
+          "redstring:lastViewed": "2025-10-19T17:55:08.066Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -844,9 +844,9 @@
     "cf4cc1f8-b13f-4ae4-9d10-6935592cf1f2": {
       "nodes": {
         "dcb39cb6-a448-4727-9641-686175fde47a": {
-          "x": -48378.3550374337,
-          "y": -49182.4651545972,
-          "scale": 1,
+          "x": -47581.951145757856,
+          "y": -48862.69692536372,
+          "scale": 1.1,
           "prototypeId": "1402c543-5350-4ffc-b6bd-7bb73d0d6a14"
         }
       },
@@ -854,16 +854,16 @@
         "nodeCount": 1,
         "edgeCount": 0,
         "boundingBox": {
-          "minX": -48378.3550374337,
-          "minY": -49182.4651545972,
-          "maxX": -48378.3550374337,
-          "maxY": -49182.4651545972
+          "minX": -47581.951145757856,
+          "minY": -48862.69692536372,
+          "maxX": -47581.951145757856,
+          "maxY": -48862.69692536372
         },
         "centroid": {
-          "x": -48378.3550374337,
-          "y": -49182.4651545972
+          "x": -47581.951145757856,
+          "y": -48862.69692536372
         },
-        "computedAt": 1760896388066,
+        "computedAt": 1760896508066,
         "truncated": false
       }
     },
@@ -874,7 +874,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1760896388066,
+        "computedAt": 1760896508066,
         "truncated": false
       }
     }
@@ -898,7 +898,7 @@
       ],
       "edges": [],
       "text": "Graph: Chungnugs (cf4cc1f8-b13f-4ae4-9d10-6935592cf1f2)\nNodes (1 total):\n- Chungnugs [dcb39cb6-a448-4727-9641-686175fde47a]\n\nEdges (0 total):",
-      "computedAt": 1760896388066
+      "computedAt": 1760896508066
     },
     "48f0a859-625e-4610-a19c-ec6074e642ef": {
       "id": "48f0a859-625e-4610-a19c-ec6074e642ef",
@@ -912,7 +912,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: New Thing (48f0a859-625e-4610-a19c-ec6074e642ef)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1760896388066
+      "computedAt": 1760896508066
     }
   }
 }
