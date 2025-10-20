@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-10-20T02:03:25.276Z",
-    "modified": "2025-10-20T02:03:25.276Z",
+    "created": "2025-10-20T02:03:29.955Z",
+    "modified": "2025-10-20T02:03:29.955Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -264,11 +264,10 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-20T02:03:25.276Z"
+          "redstring:lastViewed": "2025-10-20T02:03:29.955Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -309,11 +308,10 @@
         "redstring:definitionGraphIds": [
           "ead78c49-fb6f-47bf-8de2-8b941d800ece"
         ],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-20T02:03:25.276Z"
+          "redstring:lastViewed": "2025-10-20T02:03:29.955Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -350,7 +348,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-20T02:03:25.276Z"
+          "redstring:lastViewed": "2025-10-20T02:03:29.955Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -483,11 +481,10 @@
         "redstring:cognitiveColor": "#8B0000"
       },
       "redstring:definitionGraphIds": [],
-      "redstring:typeNodeId": null,
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-20T02:03:25.276Z"
+        "redstring:lastViewed": "2025-10-20T02:03:29.955Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -528,11 +525,10 @@
       "redstring:definitionGraphIds": [
         "ead78c49-fb6f-47bf-8de2-8b941d800ece"
       ],
-      "redstring:typeNodeId": null,
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-20T02:03:25.276Z"
+        "redstring:lastViewed": "2025-10-20T02:03:29.955Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -569,7 +565,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-20T02:03:25.276Z"
+        "redstring:lastViewed": "2025-10-20T02:03:29.955Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -679,11 +675,10 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-20T02:03:25.276Z"
+          "redstring:lastViewed": "2025-10-20T02:03:29.955Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -724,11 +719,10 @@
         "redstring:definitionGraphIds": [
           "ead78c49-fb6f-47bf-8de2-8b941d800ece"
         ],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-20T02:03:25.276Z"
+          "redstring:lastViewed": "2025-10-20T02:03:29.955Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -765,7 +759,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-20T02:03:25.276Z"
+          "redstring:lastViewed": "2025-10-20T02:03:29.955Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -795,7 +789,7 @@
           "x": -90,
           "y": -102.5
         },
-        "computedAt": 1760925805276,
+        "computedAt": 1760925809955,
         "truncated": false
       }
     }
@@ -819,7 +813,7 @@
       ],
       "edges": [],
       "text": "Graph: New Thing (ead78c49-fb6f-47bf-8de2-8b941d800ece)\nNodes (1 total):\n- TEST [c60b6d09-4c26-4edc-9638-fad594e9ff1d]\n\nEdges (0 total):",
-      "computedAt": 1760925805276
+      "computedAt": 1760925809955
     }
   }
 }
