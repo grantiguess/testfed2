@@ -209,22 +209,32 @@
     "linkedThinking": "redstring:linkedThinking"
   },
   "@type": "redstring:CognitiveSpace",
-  "format": "redstring-v2.0.0-semantic",
+  "format": "redstring-v3.0.0",
   "metadata": {
-    "created": "2025-09-13T08:25:33.428Z",
-    "modified": "2025-09-13T08:25:33.428Z",
-    "title": "Untitled Space",
+    "version": "3.0.0",
+    "created": "2025-10-26T04:14:00.376Z",
+    "modified": "2025-10-26T04:14:00.376Z",
+    "title": "New Thing",
     "description": "",
     "domain": null,
     "userURIs": null,
     "semanticWebCompliant": true,
     "rdfSchemaVersion": "1.1",
-    "owlVersion": "2.0"
+    "owlVersion": "2.0",
+    "formatHistory": {
+      "date": "2025-01",
+      "changes": [
+        "Added comprehensive versioning system",
+        "Added validation and migration support",
+        "Added format compatibility checks"
+      ],
+      "breaking": false
+    }
   },
   "prototypeSpace": {
     "@type": "redstring:PrototypeSpace",
     "@id": "space:prototypes",
-    "rdfs:label": "RedString Prototype Space",
+    "rdfs:label": "Redstring Prototype Space",
     "rdfs:comment": "Collection of semantic classes with spatial properties",
     "prototypes": {
       "base-thing-prototype": {
@@ -240,7 +250,7 @@
         "description": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
         "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
-          "@id": "https://redstring.dev"
+          "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": null,
         "owl:sameAs": [],
@@ -254,12 +264,55 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-10-26T04:14:00.375Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "363f903c-f020-428d-ae8c-4374ed6a6242": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:363f903c-f020-428d-ae8c-4374ed6a6242",
+        "rdfs:label": "New Thing",
+        "rdfs:comment": "",
+        "name": "New Thing",
+        "description": "",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/New_Thing",
+          "http://dbpedia.org/resource/New_Thing",
+          "http://www.wikidata.org/entity/Q16998778"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/New_Thing",
+          "http://dbpedia.org/resource/New_Thing",
+          "http://www.wikidata.org/entity/Q16998778"
+        ],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [
+          "39714dc7-fdc4-46b7-8d72-c138e284c16c"
+        ],
         "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-13T08:25:33.428Z",
-          "redstring:cognitiveAssociations": []
+          "redstring:lastViewed": "2025-10-26T04:14:00.375Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -268,17 +321,144 @@
   "spatialGraphs": {
     "@type": "redstring:SpatialGraphCollection",
     "@id": "space:graphs",
-    "rdfs:label": "RedString Spatial Graphs",
+    "rdfs:label": "Redstring Spatial Graphs",
     "rdfs:comment": "Collection of positioned instances within spatial graphs",
-    "graphs": {}
+    "graphs": {
+      "39714dc7-fdc4-46b7-8d72-c138e284c16c": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "graph:39714dc7-fdc4-46b7-8d72-c138e284c16c",
+        "rdfs:label": "New Thing",
+        "rdfs:comment": "",
+        "redstring:definingNodeIds": [
+          "363f903c-f020-428d-ae8c-4374ed6a6242"
+        ],
+        "redstring:edgeIds": [],
+        "redstring:panOffset": {
+          "x": -49360,
+          "y": -49600
+        },
+        "redstring:zoomLevel": 1,
+        "redstring:instances": {},
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": true
+        }
+      }
+    }
   },
   "relationships": {
     "@type": "redstring:RelationshipCollection",
     "@id": "space:relationships",
-    "rdfs:label": "RedString Relationships",
+    "rdfs:label": "Redstring Relationships",
     "rdfs:comment": "RDF statements representing connections between instances",
     "edges": {}
   },
+  "graphs": {
+    "39714dc7-fdc4-46b7-8d72-c138e284c16c": {
+      "@type": "redstring:SpatialGraph",
+      "@id": "graph:39714dc7-fdc4-46b7-8d72-c138e284c16c",
+      "rdfs:label": "New Thing",
+      "rdfs:comment": "",
+      "redstring:definingNodeIds": [
+        "363f903c-f020-428d-ae8c-4374ed6a6242"
+      ],
+      "redstring:edgeIds": [],
+      "redstring:panOffset": {
+        "x": -49360,
+        "y": -49600
+      },
+      "redstring:zoomLevel": 1,
+      "redstring:instances": {},
+      "redstring:groups": {},
+      "redstring:visualProperties": {
+        "redstring:expanded": true,
+        "redstring:activeInContext": true
+      }
+    }
+  },
+  "nodePrototypes": {
+    "base-thing-prototype": {
+      "@type": [
+        "redstring:Prototype",
+        "rdfs:Class",
+        "schema:Thing"
+      ],
+      "@id": "prototype:base-thing-prototype",
+      "rdfs:label": "Thing",
+      "rdfs:comment": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
+      "name": "Thing",
+      "description": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
+      "rdfs:seeAlso": [],
+      "rdfs:isDefinedBy": {
+        "@id": "https://redstring.io"
+      },
+      "rdfs:subClassOf": null,
+      "owl:sameAs": [],
+      "owl:equivalentClass": [],
+      "redstring:spatialContext": {
+        "redstring:xCoordinate": 0,
+        "redstring:yCoordinate": 0,
+        "redstring:spatialScale": 1
+      },
+      "redstring:visualProperties": {
+        "redstring:cognitiveColor": "#8B0000"
+      },
+      "redstring:definitionGraphIds": [],
+      "redstring:citations": [],
+      "redstring:cognitiveProperties": {
+        "redstring:bookmarked": false,
+        "redstring:lastViewed": "2025-10-26T04:14:00.375Z"
+      },
+      "redstring:abstractionChains": {}
+    },
+    "363f903c-f020-428d-ae8c-4374ed6a6242": {
+      "@type": [
+        "redstring:Prototype",
+        "rdfs:Class",
+        "schema:Thing"
+      ],
+      "@id": "prototype:363f903c-f020-428d-ae8c-4374ed6a6242",
+      "rdfs:label": "New Thing",
+      "rdfs:comment": "",
+      "name": "New Thing",
+      "description": "",
+      "rdfs:seeAlso": [
+        "https://en.wikipedia.org/wiki/New_Thing",
+        "http://dbpedia.org/resource/New_Thing",
+        "http://www.wikidata.org/entity/Q16998778"
+      ],
+      "rdfs:isDefinedBy": {
+        "@id": "https://redstring.io"
+      },
+      "rdfs:subClassOf": null,
+      "owl:sameAs": [
+        "https://en.wikipedia.org/wiki/New_Thing",
+        "http://dbpedia.org/resource/New_Thing",
+        "http://www.wikidata.org/entity/Q16998778"
+      ],
+      "owl:equivalentClass": [],
+      "redstring:spatialContext": {
+        "redstring:xCoordinate": 0,
+        "redstring:yCoordinate": 0,
+        "redstring:spatialScale": 1
+      },
+      "redstring:visualProperties": {
+        "redstring:cognitiveColor": "#8B0000"
+      },
+      "redstring:definitionGraphIds": [
+        "39714dc7-fdc4-46b7-8d72-c138e284c16c"
+      ],
+      "redstring:typeNodeId": null,
+      "redstring:citations": [],
+      "redstring:cognitiveProperties": {
+        "redstring:bookmarked": false,
+        "redstring:lastViewed": "2025-10-26T04:14:00.375Z"
+      },
+      "redstring:abstractionChains": {}
+    }
+  },
+  "edges": {},
   "globalSpatialContext": {
     "@type": "redstring:SpatialContext",
     "redstring:viewport": {
@@ -293,10 +473,14 @@
   },
   "userInterface": {
     "@type": "redstring:UserInterfaceState",
-    "redstring:openGraphIds": [],
-    "redstring:activeGraphId": null,
-    "redstring:activeDefinitionNodeId": null,
-    "redstring:expandedGraphIds": [],
+    "redstring:openGraphIds": [
+      "39714dc7-fdc4-46b7-8d72-c138e284c16c"
+    ],
+    "redstring:activeGraphId": "39714dc7-fdc4-46b7-8d72-c138e284c16c",
+    "redstring:activeDefinitionNodeId": "363f903c-f020-428d-ae8c-4374ed6a6242",
+    "redstring:expandedGraphIds": [
+      "39714dc7-fdc4-46b7-8d72-c138e284c16c"
+    ],
     "redstring:rightPanelTabs": [
       {
         "type": "home",
@@ -308,7 +492,29 @@
     "redstring:showConnectionNames": false
   },
   "legacy": {
-    "graphs": {},
+    "graphs": {
+      "39714dc7-fdc4-46b7-8d72-c138e284c16c": {
+        "@type": "redstring:SpatialGraph",
+        "@id": "graph:39714dc7-fdc4-46b7-8d72-c138e284c16c",
+        "rdfs:label": "New Thing",
+        "rdfs:comment": "",
+        "redstring:definingNodeIds": [
+          "363f903c-f020-428d-ae8c-4374ed6a6242"
+        ],
+        "redstring:edgeIds": [],
+        "redstring:panOffset": {
+          "x": -49360,
+          "y": -49600
+        },
+        "redstring:zoomLevel": 1,
+        "redstring:instances": {},
+        "redstring:groups": {},
+        "redstring:visualProperties": {
+          "redstring:expanded": true,
+          "redstring:activeInContext": true
+        }
+      }
+    },
     "nodePrototypes": {
       "base-thing-prototype": {
         "@type": [
@@ -323,7 +529,7 @@
         "description": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
         "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
-          "@id": "https://redstring.dev"
+          "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": null,
         "owl:sameAs": [],
@@ -337,16 +543,88 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [],
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-10-26T04:14:00.375Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "363f903c-f020-428d-ae8c-4374ed6a6242": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:363f903c-f020-428d-ae8c-4374ed6a6242",
+        "rdfs:label": "New Thing",
+        "rdfs:comment": "",
+        "name": "New Thing",
+        "description": "",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/New_Thing",
+          "http://dbpedia.org/resource/New_Thing",
+          "http://www.wikidata.org/entity/Q16998778"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/New_Thing",
+          "http://dbpedia.org/resource/New_Thing",
+          "http://www.wikidata.org/entity/Q16998778"
+        ],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [
+          "39714dc7-fdc4-46b7-8d72-c138e284c16c"
+        ],
         "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-13T08:25:33.428Z",
-          "redstring:cognitiveAssociations": []
+          "redstring:lastViewed": "2025-10-26T04:14:00.375Z"
         },
         "redstring:abstractionChains": {}
       }
     },
     "edges": {}
+  },
+  "graphLayouts": {
+    "39714dc7-fdc4-46b7-8d72-c138e284c16c": {
+      "nodes": {},
+      "metadata": {
+        "nodeCount": 0,
+        "edgeCount": 0,
+        "boundingBox": null,
+        "centroid": null,
+        "computedAt": 1761452040376,
+        "truncated": false
+      }
+    }
+  },
+  "graphSummaries": {
+    "39714dc7-fdc4-46b7-8d72-c138e284c16c": {
+      "id": "39714dc7-fdc4-46b7-8d72-c138e284c16c",
+      "name": "New Thing",
+      "description": "",
+      "nodeCount": 0,
+      "edgeCount": 0,
+      "density": 0,
+      "quality": "empty",
+      "score": 0,
+      "nodes": [],
+      "edges": [],
+      "text": "Graph: New Thing (39714dc7-fdc4-46b7-8d72-c138e284c16c)\nNodes (0 total):\n\nEdges (0 total):",
+      "computedAt": 1761452040376
+    }
   }
 }
