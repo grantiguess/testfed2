@@ -212,9 +212,9 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-11-25T04:18:23.170Z",
-    "modified": "2025-11-25T04:18:23.170Z",
-    "title": "New Thing",
+    "created": "2025-11-25T04:19:44.171Z",
+    "modified": "2025-11-25T04:19:44.171Z",
+    "title": "Ee",
     "description": "",
     "domain": null,
     "userURIs": null,
@@ -267,7 +267,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-11-25T04:18:23.169Z"
+          "redstring:lastViewed": "2025-11-25T04:19:44.170Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -278,9 +278,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:86ab4a7a-db97-4dfe-86a4-3105a4132018",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Ee",
         "rdfs:comment": "New Thing or The New Thing may refer to:Free jazz, a subgenre of jazz music often referred to as \"The New Thing\"\nNew Thing at Newport, a 1965 free jazz album by John Coltrane and Archie Shepp\nThe New Thing & the Blue Thing, a 1965 free jazz album by Ted Curson\nNew Thing!, a 2005 compilation album of jazz music\nNew Thing 1989\nNew Thing, 2011\nNew Thang, a 2014 single by Redfoo\n\n",
-        "name": "New Thing",
+        "name": "Ee",
         "description": "New Thing or The New Thing may refer to:Free jazz, a subgenre of jazz music often referred to as \"The New Thing\"\nNew Thing at Newport, a 1965 free jazz album by John Coltrane and Archie Shepp\nThe New Thing & the Blue Thing, a 1965 free jazz album by Ted Curson\nNew Thing!, a 2005 compilation album of jazz music\nNew Thing 1989\nNew Thing, 2011\nNew Thang, a 2014 single by Redfoo\n\n",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
@@ -311,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-11-25T04:18:23.169Z"
+          "redstring:lastViewed": "2025-11-25T04:19:44.170Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -326,15 +326,15 @@
       "1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3": {
         "@type": "redstring:SpatialGraph",
         "@id": "graph:1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Ee",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
           "86ab4a7a-db97-4dfe-86a4-3105a4132018"
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -51424.20832582308,
-          "y": -51586.50265199702
+          "x": -51372.20827699497,
+          "y": -51626.60265352289
         },
         "redstring:zoomLevel": 1.0399123414376408,
         "redstring:instances": {},
@@ -357,15 +357,15 @@
     "1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3": {
       "@type": "redstring:SpatialGraph",
       "@id": "graph:1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3",
-      "rdfs:label": "New Thing",
+      "rdfs:label": "Ee",
       "rdfs:comment": "",
       "redstring:definingNodeIds": [
         "86ab4a7a-db97-4dfe-86a4-3105a4132018"
       ],
       "redstring:edgeIds": [],
       "redstring:panOffset": {
-        "x": -51424.20832582308,
-        "y": -51586.50265199702
+        "x": -51372.20827699497,
+        "y": -51626.60265352289
       },
       "redstring:zoomLevel": 1.0399123414376408,
       "redstring:instances": {},
@@ -407,7 +407,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-11-25T04:18:23.169Z"
+        "redstring:lastViewed": "2025-11-25T04:19:44.170Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -418,9 +418,9 @@
         "schema:Thing"
       ],
       "@id": "prototype:86ab4a7a-db97-4dfe-86a4-3105a4132018",
-      "rdfs:label": "New Thing",
+      "rdfs:label": "Ee",
       "rdfs:comment": "New Thing or The New Thing may refer to:Free jazz, a subgenre of jazz music often referred to as \"The New Thing\"\nNew Thing at Newport, a 1965 free jazz album by John Coltrane and Archie Shepp\nThe New Thing & the Blue Thing, a 1965 free jazz album by Ted Curson\nNew Thing!, a 2005 compilation album of jazz music\nNew Thing 1989\nNew Thing, 2011\nNew Thang, a 2014 single by Redfoo\n\n",
-      "name": "New Thing",
+      "name": "Ee",
       "description": "New Thing or The New Thing may refer to:Free jazz, a subgenre of jazz music often referred to as \"The New Thing\"\nNew Thing at Newport, a 1965 free jazz album by John Coltrane and Archie Shepp\nThe New Thing & the Blue Thing, a 1965 free jazz album by Ted Curson\nNew Thing!, a 2005 compilation album of jazz music\nNew Thing 1989\nNew Thing, 2011\nNew Thang, a 2014 single by Redfoo\n\n",
       "rdfs:seeAlso": [
         "https://en.wikipedia.org/wiki/New_Thing",
@@ -451,7 +451,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-11-25T04:18:23.169Z"
+        "redstring:lastViewed": "2025-11-25T04:19:44.170Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -494,15 +494,15 @@
       "1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3": {
         "@type": "redstring:SpatialGraph",
         "@id": "graph:1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Ee",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
           "86ab4a7a-db97-4dfe-86a4-3105a4132018"
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -51424.20832582308,
-          "y": -51586.50265199702
+          "x": -51372.20827699497,
+          "y": -51626.60265352289
         },
         "redstring:zoomLevel": 1.0399123414376408,
         "redstring:instances": {},
@@ -544,7 +544,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-11-25T04:18:23.169Z"
+          "redstring:lastViewed": "2025-11-25T04:19:44.170Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -555,9 +555,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:86ab4a7a-db97-4dfe-86a4-3105a4132018",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Ee",
         "rdfs:comment": "New Thing or The New Thing may refer to:Free jazz, a subgenre of jazz music often referred to as \"The New Thing\"\nNew Thing at Newport, a 1965 free jazz album by John Coltrane and Archie Shepp\nThe New Thing & the Blue Thing, a 1965 free jazz album by Ted Curson\nNew Thing!, a 2005 compilation album of jazz music\nNew Thing 1989\nNew Thing, 2011\nNew Thang, a 2014 single by Redfoo\n\n",
-        "name": "New Thing",
+        "name": "Ee",
         "description": "New Thing or The New Thing may refer to:Free jazz, a subgenre of jazz music often referred to as \"The New Thing\"\nNew Thing at Newport, a 1965 free jazz album by John Coltrane and Archie Shepp\nThe New Thing & the Blue Thing, a 1965 free jazz album by Ted Curson\nNew Thing!, a 2005 compilation album of jazz music\nNew Thing 1989\nNew Thing, 2011\nNew Thang, a 2014 single by Redfoo\n\n",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
@@ -588,7 +588,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-11-25T04:18:23.169Z"
+          "redstring:lastViewed": "2025-11-25T04:19:44.170Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -603,7 +603,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1764044303170,
+        "computedAt": 1764044384171,
         "truncated": false
       }
     }
@@ -611,7 +611,7 @@
   "graphSummaries": {
     "1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3": {
       "id": "1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3",
-      "name": "New Thing",
+      "name": "Ee",
       "description": "",
       "nodeCount": 0,
       "edgeCount": 0,
@@ -620,8 +620,8 @@
       "score": 0,
       "nodes": [],
       "edges": [],
-      "text": "Graph: New Thing (1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1764044303170
+      "text": "Graph: Ee (1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3)\nNodes (0 total):\n\nEdges (0 total):",
+      "computedAt": 1764044384171
     }
   }
 }
