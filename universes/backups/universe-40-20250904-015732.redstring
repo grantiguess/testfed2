@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-11-25T04:19:56.169Z",
-    "modified": "2025-11-25T04:19:56.169Z",
+    "created": "2025-11-25T04:19:59.168Z",
+    "modified": "2025-11-25T04:19:59.168Z",
     "title": "Ee Cummings",
     "description": "",
     "domain": null,
@@ -267,7 +267,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-11-25T04:19:56.168Z"
+          "redstring:lastViewed": "2025-11-25T04:19:59.168Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -283,7 +283,6 @@
         "name": "Ee Cummings",
         "description": "",
         "rdfs:seeAlso": [
-          "https://en.wikipedia.org/wiki/New_Thing",
           "http://dbpedia.org/resource/New_Thing",
           "http://www.wikidata.org/entity/Q16998778"
         ],
@@ -292,7 +291,6 @@
         },
         "rdfs:subClassOf": null,
         "owl:sameAs": [
-          "https://en.wikipedia.org/wiki/New_Thing",
           "http://dbpedia.org/resource/New_Thing",
           "http://www.wikidata.org/entity/Q16998778"
         ],
@@ -311,7 +309,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-11-25T04:19:56.168Z"
+          "redstring:lastViewed": "2025-11-25T04:19:59.168Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -407,7 +405,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-11-25T04:19:56.168Z"
+        "redstring:lastViewed": "2025-11-25T04:19:59.168Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -423,7 +421,6 @@
       "name": "Ee Cummings",
       "description": "",
       "rdfs:seeAlso": [
-        "https://en.wikipedia.org/wiki/New_Thing",
         "http://dbpedia.org/resource/New_Thing",
         "http://www.wikidata.org/entity/Q16998778"
       ],
@@ -432,7 +429,6 @@
       },
       "rdfs:subClassOf": null,
       "owl:sameAs": [
-        "https://en.wikipedia.org/wiki/New_Thing",
         "http://dbpedia.org/resource/New_Thing",
         "http://www.wikidata.org/entity/Q16998778"
       ],
@@ -451,7 +447,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-11-25T04:19:56.168Z"
+        "redstring:lastViewed": "2025-11-25T04:19:59.168Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -544,7 +540,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-11-25T04:19:56.168Z"
+          "redstring:lastViewed": "2025-11-25T04:19:59.168Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -560,7 +556,6 @@
         "name": "Ee Cummings",
         "description": "",
         "rdfs:seeAlso": [
-          "https://en.wikipedia.org/wiki/New_Thing",
           "http://dbpedia.org/resource/New_Thing",
           "http://www.wikidata.org/entity/Q16998778"
         ],
@@ -569,7 +564,6 @@
         },
         "rdfs:subClassOf": null,
         "owl:sameAs": [
-          "https://en.wikipedia.org/wiki/New_Thing",
           "http://dbpedia.org/resource/New_Thing",
           "http://www.wikidata.org/entity/Q16998778"
         ],
@@ -588,7 +582,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-11-25T04:19:56.168Z"
+          "redstring:lastViewed": "2025-11-25T04:19:59.168Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -603,7 +597,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1764044396169,
+        "computedAt": 1764044399168,
         "truncated": false
       }
     }
@@ -621,7 +615,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: Ee Cummings (1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1764044396169
+      "computedAt": 1764044399168
     }
   }
 }
