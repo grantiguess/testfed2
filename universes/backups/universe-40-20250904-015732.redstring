@@ -212,9 +212,9 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-11-25T04:33:09.289Z",
-    "modified": "2025-11-25T04:33:09.289Z",
-    "title": "New Thing",
+    "created": "2025-11-25T04:33:18.289Z",
+    "modified": "2025-11-25T04:33:18.289Z",
+    "title": "Eeyore",
     "description": "",
     "domain": null,
     "userURIs": null,
@@ -267,7 +267,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-11-25T04:33:09.289Z"
+          "redstring:lastViewed": "2025-11-25T04:33:18.288Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -278,9 +278,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:86ab4a7a-db97-4dfe-86a4-3105a4132018",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Eeyore",
         "rdfs:comment": "Windows 95 is a consumer-oriented operating system developed by Microsoft and the first of its Windows 9x line of operating systems, released to manufacturing on July 14, 1995, and generally to retail on August 24, 1995. Windows 95 merged Microsoft's formerly separate MS-DOS and Microsoft Windows products into a single product and featured significant improvements over its predecessor, most notably in the graphical user interface (GUI) and in its simplified \"plug-and-play\" features. There were also major changes made to the core components of the operating system, such as moving from a mainly cooperatively multitasked 16-bit architecture of its predecessor Windows 3.1 to a 32-bit preemptive multitasking architecture.",
-        "name": "New Thing",
+        "name": "Eeyore",
         "description": "Windows 95 is a consumer-oriented operating system developed by Microsoft and the first of its Windows 9x line of operating systems, released to manufacturing on July 14, 1995, and generally to retail on August 24, 1995. Windows 95 merged Microsoft's formerly separate MS-DOS and Microsoft Windows products into a single product and featured significant improvements over its predecessor, most notably in the graphical user interface (GUI) and in its simplified \"plug-and-play\" features. There were also major changes made to the core components of the operating system, such as moving from a mainly cooperatively multitasked 16-bit architecture of its predecessor Windows 3.1 to a 32-bit preemptive multitasking architecture.",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
@@ -314,7 +314,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-11-25T04:33:09.289Z"
+          "redstring:lastViewed": "2025-11-25T04:33:18.288Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -359,7 +359,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-11-25T04:33:09.289Z"
+          "redstring:lastViewed": "2025-11-25T04:33:18.288Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -404,7 +404,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-11-25T04:33:09.289Z"
+          "redstring:lastViewed": "2025-11-25T04:33:18.288Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -449,7 +449,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-11-25T04:33:09.289Z"
+          "redstring:lastViewed": "2025-11-25T04:33:18.288Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -464,7 +464,7 @@
       "1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3": {
         "@type": "redstring:SpatialGraph",
         "@id": "graph:1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Eeyore",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
           "86ab4a7a-db97-4dfe-86a4-3105a4132018"
@@ -479,7 +479,7 @@
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
-          "redstring:activeInContext": false
+          "redstring:activeInContext": true
         }
       },
       "83e6285a-6439-444d-9d09-a34d267b41ec": {
@@ -534,15 +534,15 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": 0,
-          "y": 0
+          "x": -49360,
+          "y": -49660
         },
         "redstring:zoomLevel": 1,
         "redstring:instances": {},
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
-          "redstring:activeInContext": true
+          "redstring:activeInContext": false
         }
       }
     }
@@ -558,7 +558,7 @@
     "1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3": {
       "@type": "redstring:SpatialGraph",
       "@id": "graph:1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3",
-      "rdfs:label": "New Thing",
+      "rdfs:label": "Eeyore",
       "rdfs:comment": "",
       "redstring:definingNodeIds": [
         "86ab4a7a-db97-4dfe-86a4-3105a4132018"
@@ -573,7 +573,7 @@
       "redstring:groups": {},
       "redstring:visualProperties": {
         "redstring:expanded": true,
-        "redstring:activeInContext": false
+        "redstring:activeInContext": true
       }
     },
     "83e6285a-6439-444d-9d09-a34d267b41ec": {
@@ -628,15 +628,15 @@
       ],
       "redstring:edgeIds": [],
       "redstring:panOffset": {
-        "x": 0,
-        "y": 0
+        "x": -49360,
+        "y": -49660
       },
       "redstring:zoomLevel": 1,
       "redstring:instances": {},
       "redstring:groups": {},
       "redstring:visualProperties": {
         "redstring:expanded": true,
-        "redstring:activeInContext": true
+        "redstring:activeInContext": false
       }
     }
   },
@@ -671,7 +671,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-11-25T04:33:09.289Z"
+        "redstring:lastViewed": "2025-11-25T04:33:18.288Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -682,9 +682,9 @@
         "schema:Thing"
       ],
       "@id": "prototype:86ab4a7a-db97-4dfe-86a4-3105a4132018",
-      "rdfs:label": "New Thing",
+      "rdfs:label": "Eeyore",
       "rdfs:comment": "Windows 95 is a consumer-oriented operating system developed by Microsoft and the first of its Windows 9x line of operating systems, released to manufacturing on July 14, 1995, and generally to retail on August 24, 1995. Windows 95 merged Microsoft's formerly separate MS-DOS and Microsoft Windows products into a single product and featured significant improvements over its predecessor, most notably in the graphical user interface (GUI) and in its simplified \"plug-and-play\" features. There were also major changes made to the core components of the operating system, such as moving from a mainly cooperatively multitasked 16-bit architecture of its predecessor Windows 3.1 to a 32-bit preemptive multitasking architecture.",
-      "name": "New Thing",
+      "name": "Eeyore",
       "description": "Windows 95 is a consumer-oriented operating system developed by Microsoft and the first of its Windows 9x line of operating systems, released to manufacturing on July 14, 1995, and generally to retail on August 24, 1995. Windows 95 merged Microsoft's formerly separate MS-DOS and Microsoft Windows products into a single product and featured significant improvements over its predecessor, most notably in the graphical user interface (GUI) and in its simplified \"plug-and-play\" features. There were also major changes made to the core components of the operating system, such as moving from a mainly cooperatively multitasked 16-bit architecture of its predecessor Windows 3.1 to a 32-bit preemptive multitasking architecture.",
       "rdfs:seeAlso": [
         "https://en.wikipedia.org/wiki/New_Thing",
@@ -718,7 +718,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-11-25T04:33:09.289Z"
+        "redstring:lastViewed": "2025-11-25T04:33:18.288Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -763,7 +763,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-11-25T04:33:09.289Z"
+        "redstring:lastViewed": "2025-11-25T04:33:18.288Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -808,7 +808,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-11-25T04:33:09.289Z"
+        "redstring:lastViewed": "2025-11-25T04:33:18.288Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -853,7 +853,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-11-25T04:33:09.289Z"
+        "redstring:lastViewed": "2025-11-25T04:33:18.288Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -879,8 +879,8 @@
       "83e6285a-6439-444d-9d09-a34d267b41ec",
       "1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3"
     ],
-    "redstring:activeGraphId": "d36aa14d-a175-432f-9353-8e68980101b7",
-    "redstring:activeDefinitionNodeId": "f908b343-2d79-49cc-8522-0d2bdd055996",
+    "redstring:activeGraphId": "1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3",
+    "redstring:activeDefinitionNodeId": "86ab4a7a-db97-4dfe-86a4-3105a4132018",
     "redstring:expandedGraphIds": [
       "1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3",
       "83e6285a-6439-444d-9d09-a34d267b41ec",
@@ -902,7 +902,7 @@
       "1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3": {
         "@type": "redstring:SpatialGraph",
         "@id": "graph:1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Eeyore",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
           "86ab4a7a-db97-4dfe-86a4-3105a4132018"
@@ -917,7 +917,7 @@
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
-          "redstring:activeInContext": false
+          "redstring:activeInContext": true
         }
       },
       "83e6285a-6439-444d-9d09-a34d267b41ec": {
@@ -972,15 +972,15 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": 0,
-          "y": 0
+          "x": -49360,
+          "y": -49660
         },
         "redstring:zoomLevel": 1,
         "redstring:instances": {},
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
-          "redstring:activeInContext": true
+          "redstring:activeInContext": false
         }
       }
     },
@@ -1015,7 +1015,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-11-25T04:33:09.289Z"
+          "redstring:lastViewed": "2025-11-25T04:33:18.288Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1026,9 +1026,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:86ab4a7a-db97-4dfe-86a4-3105a4132018",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Eeyore",
         "rdfs:comment": "Windows 95 is a consumer-oriented operating system developed by Microsoft and the first of its Windows 9x line of operating systems, released to manufacturing on July 14, 1995, and generally to retail on August 24, 1995. Windows 95 merged Microsoft's formerly separate MS-DOS and Microsoft Windows products into a single product and featured significant improvements over its predecessor, most notably in the graphical user interface (GUI) and in its simplified \"plug-and-play\" features. There were also major changes made to the core components of the operating system, such as moving from a mainly cooperatively multitasked 16-bit architecture of its predecessor Windows 3.1 to a 32-bit preemptive multitasking architecture.",
-        "name": "New Thing",
+        "name": "Eeyore",
         "description": "Windows 95 is a consumer-oriented operating system developed by Microsoft and the first of its Windows 9x line of operating systems, released to manufacturing on July 14, 1995, and generally to retail on August 24, 1995. Windows 95 merged Microsoft's formerly separate MS-DOS and Microsoft Windows products into a single product and featured significant improvements over its predecessor, most notably in the graphical user interface (GUI) and in its simplified \"plug-and-play\" features. There were also major changes made to the core components of the operating system, such as moving from a mainly cooperatively multitasked 16-bit architecture of its predecessor Windows 3.1 to a 32-bit preemptive multitasking architecture.",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
@@ -1062,7 +1062,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-11-25T04:33:09.289Z"
+          "redstring:lastViewed": "2025-11-25T04:33:18.288Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1107,7 +1107,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-11-25T04:33:09.289Z"
+          "redstring:lastViewed": "2025-11-25T04:33:18.288Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1152,7 +1152,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-11-25T04:33:09.289Z"
+          "redstring:lastViewed": "2025-11-25T04:33:18.288Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1197,7 +1197,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-11-25T04:33:09.289Z"
+          "redstring:lastViewed": "2025-11-25T04:33:18.288Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1212,7 +1212,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1764045189289,
+        "computedAt": 1764045198288,
         "truncated": false
       }
     },
@@ -1223,7 +1223,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1764045189289,
+        "computedAt": 1764045198289,
         "truncated": false
       }
     },
@@ -1234,7 +1234,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1764045189289,
+        "computedAt": 1764045198289,
         "truncated": false
       }
     },
@@ -1245,7 +1245,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1764045189289,
+        "computedAt": 1764045198289,
         "truncated": false
       }
     }
@@ -1253,7 +1253,7 @@
   "graphSummaries": {
     "1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3": {
       "id": "1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3",
-      "name": "New Thing",
+      "name": "Eeyore",
       "description": "",
       "nodeCount": 0,
       "edgeCount": 0,
@@ -1262,8 +1262,8 @@
       "score": 0,
       "nodes": [],
       "edges": [],
-      "text": "Graph: New Thing (1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1764045189289
+      "text": "Graph: Eeyore (1365aae3-cf1d-46e9-b6e8-8f3a3ac1c1b3)\nNodes (0 total):\n\nEdges (0 total):",
+      "computedAt": 1764045198289
     },
     "83e6285a-6439-444d-9d09-a34d267b41ec": {
       "id": "83e6285a-6439-444d-9d09-a34d267b41ec",
@@ -1277,7 +1277,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: New Thing (83e6285a-6439-444d-9d09-a34d267b41ec)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1764045189289
+      "computedAt": 1764045198289
     },
     "5e23e26e-4f36-494e-a6ef-31bf61f7d171": {
       "id": "5e23e26e-4f36-494e-a6ef-31bf61f7d171",
@@ -1291,7 +1291,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: New Thing (5e23e26e-4f36-494e-a6ef-31bf61f7d171)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1764045189289
+      "computedAt": 1764045198289
     },
     "d36aa14d-a175-432f-9353-8e68980101b7": {
       "id": "d36aa14d-a175-432f-9353-8e68980101b7",
@@ -1305,7 +1305,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: New Thing (d36aa14d-a175-432f-9353-8e68980101b7)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1764045189289
+      "computedAt": 1764045198289
     }
   }
 }
